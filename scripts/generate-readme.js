@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || null;
 const USERS_JSON_URL = 'https://raw.githubusercontent.com/sharf-shawon/Awesome-Bangladeshi-Devs/main/data/users.json';
 
 async function fetchJson(url) {
@@ -80,21 +80,42 @@ async function getRepoInfoREST(username) {
   };
 }
 
-function cleanDescription(desc) {
+function cleanDescription(desc, repoUrl) {
   if (!desc) return 'Profile portfolio.';
   let cleaned = desc.trim();
-  if (cleaned.length === 0) return 'Profile portfolio.';
   
+  // Replace smart quotes to avoid match-punctuation issues
+  cleaned = cleaned.replace(/[’‘]/g, "'").replace(/[“”]/g, '"');
+
+  // Remove the repo URL from description if it's there to avoid double-link
+  if (repoUrl) {
+    const escapedUrl = repoUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    cleaned = cleaned.replace(new RegExp(escapedUrl, 'gi'), '').trim();
+    const repoUrlNoSlash = repoUrl.replace(/\/$/, '');
+    const escapedUrlNoSlash = repoUrlNoSlash.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    cleaned = cleaned.replace(new RegExp(escapedUrlNoSlash, 'gi'), '').trim();
+  }
+
+  // Remove starting non-alphanumeric characters (emojis, dashes, dots, etc.)
+  // The linter requires descriptions to start with a valid uppercase letter.
+  cleaned = cleaned.replace(/^[^a-zA-Z0-9]+/, '').trim();
+
+  if (cleaned.length === 0) return 'Profile portfolio.';
+
   // Start with uppercase
   cleaned = cleaned.charAt(0).toUpperCase() + cleaned.slice(1);
+  
+  // Replace GitHub variations globally
+  cleaned = cleaned.replace(/github/gi, 'GitHub');
+  
+  // Fix repeated punctuation and spacing
+  cleaned = cleaned.replace(/\.\.+/g, '.'); 
+  cleaned = cleaned.replace(/\s+\./g, '.');
   
   // End with a period
   if (!/[.!?]$/.test(cleaned)) {
     cleaned += '.';
   }
-  
-  // Replace Github with GitHub
-  cleaned = cleaned.replace(/Github/g, 'GitHub').replace(/github/g, 'GitHub');
   
   return cleaned;
 }
@@ -141,8 +162,8 @@ async function main() {
     portfolios.sort((a, b) => a.username.toLowerCase().localeCompare(b.username.toLowerCase()));
 
     const listContent = portfolios.map(p => {
-      const desc = cleanDescription(p.description);
-      return `- [${p.username}](${p.repoUrl}) - ${desc} (★ ${p.stars} / 🍴 ${p.forks})`;
+      const desc = cleanDescription(p.description, p.repoUrl);
+      return `- [${p.username}](${p.repoUrl}) - Stars ${p.stars} / Forks ${p.forks}.`;
     }).join('\n');
 
     const readmePath = path.join(__dirname, '../README.md');
