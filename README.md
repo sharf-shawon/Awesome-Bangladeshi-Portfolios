@@ -1,6 +1,6 @@
 # Awesome Bangladeshi Portfolios [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated directory of exceptional GitHub profile portfolios crafted by developers from Bangladesh.
+> A curated directory of GitHub profile portfolios crafted by Bangladeshi developers.
 
 ## Contents
 
