@@ -1,0 +1,23 @@
+{
+  "name": "awesome-bangladeshi-portfolios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "awesome-lint",
+    "generate": "node scripts/generate-readme.js",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "README.md": "awesome-lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "awesome-lint": "^1.2.0",
+    "husky": "^8.0.0",
+    "lint-staged": "^15.5.2"
+  }
+}
