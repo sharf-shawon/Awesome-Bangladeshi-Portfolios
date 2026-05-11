@@ -322,7 +322,7 @@
 - [ashrafulislampro](https://github.com/ashrafulislampro/ashrafulislampro) - Stars 0 / Forks 0.
 - [ashrafuloli](https://github.com/ashrafuloli/ashrafuloli) - Stars 0 / Forks 1.
 - [ashrafulrahmansakil](https://github.com/ashrafulrahmansakil/ashrafulrahmansakil) - Stars 0 / Forks 0.
-- [AshrafUzzaman04](https://github.com/AshrafUzzaman04/AshrafUzzaman04) - Stars 3 / Forks 3.
+- [AshrafUzzaman04](https://github.com/AshrafUzzaman04/AshrafUzzaman04) - Stars 4 / Forks 3.
 - [Asib177](https://github.com/Asib177/Asib177) - Stars 0 / Forks 0.
 - [Asif-102](https://github.com/Asif-102/asif-102) - Stars 0 / Forks 3.
 - [Asif-Anwar-Sajid](https://github.com/Asif-Anwar-Sajid/Asif-Anwar-Sajid) - Stars 0 / Forks 0.
@@ -1543,7 +1543,7 @@
 - [nurul-umbhiya](https://github.com/nurul-umbhiya/nurul-umbhiya) - Stars 0 / Forks 0.
 - [nurulazam-dev](https://github.com/nurulazam-dev/nurulazam-dev) - Stars 1 / Forks 0.
 - [nurulhudaapon](https://github.com/nurulhudaapon/nurulhudaapon) - Stars 0 / Forks 0.
-- [Nusab19](https://github.com/Nusab19/Nusab19) - Stars 6 / Forks 0.
+- [Nusab19](https://github.com/Nusab19/Nusab19) - Stars 5 / Forks 0.
 - [nwebpro](https://github.com/nwebpro/nwebpro) - Stars 0 / Forks 3.
 - [nzmsakib](https://github.com/nzmsakib/nzmsakib) - Stars 0 / Forks 0.
 - [obaidullah-faruk](https://github.com/obaidullah-faruk/obaidullah-faruk) - Stars 0 / Forks 0.
@@ -2399,7 +2399,7 @@
 - [thisisshuvo](https://github.com/thisisshuvo/thisisshuvo) - Stars 0 / Forks 0.
 - [thuee-mong-marma](https://github.com/thuee-mong-marma/thuee-mong-marma) - Stars 0 / Forks 0.
 - [timetraveleryep](https://github.com/timetraveleryep/timetraveleryep) - Stars 0 / Forks 0.
-- [tipusahil](https://github.com/tipusahil/tipusahil) - Stars 1 / Forks 1.
+- [tipusahil](https://github.com/tipusahil/tipusahil) - Stars 0 / Forks 1.
 - [TKRchamak](https://github.com/TKRchamak/TKRchamak) - Stars 0 / Forks 0.
 - [tofail-ahmed](https://github.com/tofail-ahmed/tofail-ahmed) - Stars 2 / Forks 0.
 - [toh1n](https://github.com/toh1n/toh1n) - Stars 0 / Forks 0.
