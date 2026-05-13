@@ -422,6 +422,7 @@
 - [chandan-ojha](https://github.com/chandan-ojha/chandan-ojha) - Stars 1 / Forks 0.
 - [changeweb](https://github.com/changeweb/changeweb) - Stars 0 / Forks 0.
 - [chayandasgupta](https://github.com/chayandasgupta/chayandasgupta) - Stars 0 / Forks 0.
+- [chayanforyou](https://github.com/chayanforyou/chayanforyou) - Stars 1 / Forks 2.
 - [chistyhimel](https://github.com/chistyhimel/chistyhimel) - Stars 0 / Forks 0.
 - [Chitra35006](https://github.com/Chitra35006/Chitra35006) - Stars 0 / Forks 0.
 - [ChowdhuryFatema](https://github.com/ChowdhuryFatema/ChowdhuryFatema) - Stars 1 / Forks 0.
@@ -1636,7 +1637,6 @@
 - [RabbiIslamRony](https://github.com/RabbiIslamRony/RabbiIslamRony) - Stars 0 / Forks 0.
 - [Rabbiyeasin](https://github.com/Rabbiyeasin/Rabbiyeasin) - Stars 0 / Forks 0.
 - [rabeya-akter](https://github.com/rabeya-akter/Rabeya-Akter) - Stars 0 / Forks 1.
-- [rabeya15dev](https://github.com/rabeya15dev/rabeya15dev) - Stars 0 / Forks 0.
 - [raduancse](https://github.com/raduancse/raduancse) - Stars 0 / Forks 0.
 - [rafaftahsin](https://github.com/rafaftahsin/rafaftahsin) - Stars 0 / Forks 0.
 - [rafatahmd](https://github.com/rafatahmd/rafatahmd) - Stars 0 / Forks 0.
@@ -2034,7 +2034,7 @@
 - [Shakhoyat](https://github.com/Shakhoyat/Shakhoyat) - Stars 0 / Forks 0.
 - [Shakil000](https://github.com/Shakil000/Shakil000) - Stars 0 / Forks 0.
 - [shakil1819](https://github.com/shakil1819/shakil1819) - Stars 0 / Forks 0.
-- [shakilahamedriaz](https://github.com/shakilahamedriaz/shakilahamedriaz) - Stars 1 / Forks 1.
+- [shakilahamedriaz](https://github.com/shakilahamedriaz/shakilahamedriaz) - Stars 1 / Forks 0.
 - [shakilahmedatik](https://github.com/shakilahmedatik/shakilahmedatik) - Stars 4 / Forks 21.
 - [ShakilAhmedShaj](https://github.com/ShakilAhmedShaj/ShakilAhmedShaj) - Stars 0 / Forks 1.
 - [shakilhossain38](https://github.com/shakilhossain38/shakilhossain38) - Stars 0 / Forks 0.
