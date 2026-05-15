@@ -409,7 +409,7 @@
 - [bitue](https://github.com/bitue/bitue) - Stars 0 / Forks 0.
 - [BlackBeard009](https://github.com/BlackBeard009/BlackBeard009) - Stars 0 / Forks 0.
 - [blacktiger141](https://github.com/blacktiger141/blacktiger141) - Stars 0 / Forks 0.
-- [BlazeDashX](https://github.com/BlazeDashX/BlazeDashX) - Stars 0 / Forks 0.
+- [BlazeDashX](https://github.com/BlazeDashX/BlazeDashX) - Stars 1 / Forks 0.
 - [bmqube](https://github.com/bmqube/bmqube) - Stars 0 / Forks 0.
 - [BornilMahmud](https://github.com/BornilMahmud/BornilMahmud) - Stars 0 / Forks 0.
 - [bpinazmul18](https://github.com/bpinazmul18/bpinazmul18) - Stars 0 / Forks 0.
@@ -567,6 +567,7 @@
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
+- [expertmaksud](https://github.com/expertmaksud/expertmaksud) - Stars 0 / Forks 0.
 - [eyasir329](https://github.com/eyasir329/eyasir329) - Stars 0 / Forks 0.
 - [f4h3m](https://github.com/f4h3m/f4h3m) - Stars 0 / Forks 0.
 - [faem](https://github.com/faem/faem) - Stars 0 / Forks 0.
@@ -940,7 +941,7 @@
 - [jubayer726](https://github.com/jubayer726/jubayer726) - Stars 0 / Forks 0.
 - [Jubayer934](https://github.com/Jubayer934/jubayer934) - Stars 0 / Forks 0.
 - [jubayerCodes](https://github.com/jubayerCodes/jubayerCodes) - Stars 0 / Forks 0.
-- [JubayerRiyad](https://github.com/JubayerRiyad/JubayerRiyad) - Stars 33 / Forks 12.
+- [JubayerRiyad](https://github.com/JubayerRiyad/JubayerRiyad) - Stars 34 / Forks 12.
 - [jubelAhmed](https://github.com/jubelAhmed/jubelAhmed) - Stars 0 / Forks 2.
 - [juhayeraiaz](https://github.com/juhayeraiaz/juhayeraiaz) - Stars 0 / Forks 0.
 - [Julfikar-Haidar](https://github.com/Julfikar-Haidar/Julfikar-Haidar) - Stars 1 / Forks 0.
@@ -960,7 +961,7 @@
 - [kamruzzaman-leeon](https://github.com/kamruzzaman-leeon/kamruzzaman-leeon) - Stars 0 / Forks 0.
 - [KamruzzamanAsif](https://github.com/KamruzzamanAsif/KamruzzamanAsif) - Stars 0 / Forks 0.
 - [kaneki666](https://github.com/kaneki666/kaneki666) - Stars 0 / Forks 0.
-- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 330 / Forks 21.
+- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 331 / Forks 21.
 - [kausarpial](https://github.com/kausarpial/kausarpial) - Stars 0 / Forks 0.
 - [kausaruddinahmedofficial](https://github.com/kausaruddinahmedofficial/kausaruddinahmedofficial) - Stars 0 / Forks 0.
 - [kawchar85](https://github.com/kawchar85/kawchar85) - Stars 0 / Forks 0.
@@ -2329,7 +2330,7 @@
 - [TanvirMahin24](https://github.com/TanvirMahin24/TanvirMahin24) - Stars 0 / Forks 1.
 - [Tanvirmehedi](https://github.com/Tanvirmehedi/tanvirmehedi) - Stars 0 / Forks 0.
 - [tanvirmelon](https://github.com/tanvirmelon/tanvirmelon) - Stars 0 / Forks 0.
-- [tanvirrahmanaz](https://github.com/tanvirrahmanaz/tanvirrahmanaz) - Stars 1 / Forks 0.
+- [tanvirrahmanaz](https://github.com/tanvirrahmanaz/tanvirrahmanaz) - Stars 2 / Forks 0.
 - [tanvirraj](https://github.com/tanvirraj/tanvirraj) - Stars 0 / Forks 0.
 - [tanvirrb](https://github.com/tanvirrb/tanvirrb) - Stars 2 / Forks 3.
 - [tanvirsaklan](https://github.com/tanvirsaklan/tanvirsaklan) - Stars 0 / Forks 0.
