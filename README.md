@@ -1495,7 +1495,7 @@
 - [nazmulnahid-git](https://github.com/nazmulnahid-git/nazmulnahid-git) - Stars 1 / Forks 0.
 - [nazmulwanted](https://github.com/nazmulwanted/nazmulwanted) - Stars 0 / Forks 0.
 - [nazmulweb](https://github.com/nazmulweb/nazmulweb) - Stars 1 / Forks 0.
-- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 33 / Forks 11.
+- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 34 / Forks 11.
 - [Nazrulislam45](https://github.com/Nazrulislam45/Nazrulislam45) - Stars 0 / Forks 0.
 - [NazShakib](https://github.com/NazShakib/NazShakib) - Stars 0 / Forks 0.
 - [nbakh16](https://github.com/nbakh16/nbakh16) - Stars 1 / Forks 1.
@@ -1634,7 +1634,6 @@
 - [R4218](https://github.com/R4218/R4218) - Stars 0 / Forks 0.
 - [R4ID3NZ4P](https://github.com/R4ID3NZ4P/R4ID3NZ4P) - Stars 0 / Forks 0.
 - [rabbanist](https://github.com/rabbanist/rabbaniST) - Stars 0 / Forks 0.
-- [rabbi696](https://github.com/rabbi696/rabbi696) - Stars 0 / Forks 2.
 - [RabbiAmin](https://github.com/RabbiAmin/RabbiAmin) - Stars 1 / Forks 0.
 - [rabbihossainlhp](https://github.com/rabbihossainlhp/rabbihossainlhp) - Stars 0 / Forks 0.
 - [RabbiIslamRony](https://github.com/RabbiIslamRony/RabbiIslamRony) - Stars 0 / Forks 0.
