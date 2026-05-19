@@ -1459,7 +1459,6 @@
 - [NaimoonJannat](https://github.com/NaimoonJannat/NaimoonJannat) - Stars 0 / Forks 0.
 - [naimur-reza](https://github.com/naimur-reza/naimur-reza) - Stars 1 / Forks 1.
 - [naimur1046](https://github.com/naimur1046/naimur1046) - Stars 0 / Forks 1.
-- [naimurhasan](https://github.com/naimurhasan/naimurhasan) - Stars 1 / Forks 1.
 - [NaimurRahmanNishat](https://github.com/NaimurRahmanNishat/NaimurRahmanNishat) - Stars 0 / Forks 0.
 - [NajibHossain49](https://github.com/NajibHossain49/NajibHossain49) - Stars 0 / Forks 0.
 - [najmul-islam](https://github.com/najmul-islam/najmul-islam) - Stars 0 / Forks 0.
@@ -1474,7 +1473,7 @@
 - [navid-hasan26](https://github.com/navid-hasan26/navid-hasan26) - Stars 0 / Forks 0.
 - [NavidZamanKhan](https://github.com/NavidZamanKhan/NavidZamanKhan) - Stars 3 / Forks 0.
 - [nayanchamp7](https://github.com/nayanchamp7/nayanchamp7) - Stars 0 / Forks 0.
-- [nayeem-miah](https://github.com/nayeem-miah/nayeem-miah) - Stars 0 / Forks 0.
+- [nayeem-miah](https://github.com/nayeem-miah/nayeem-miah) - Stars 1 / Forks 0.
 - [Nayeem0011](https://github.com/Nayeem0011/Nayeem0011) - Stars 12 / Forks 3.
 - [NayeemHossenn](https://github.com/NayeemHossenn/NayeemHossenn) - Stars 0 / Forks 0.
 - [nayeemuddin-bd100](https://github.com/nayeemuddin-bd100/nayeemuddin-bd100) - Stars 0 / Forks 0.
