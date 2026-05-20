@@ -1061,7 +1061,6 @@
 - [mahfuzzayn](https://github.com/mahfuzzayn/mahfuzzayn) - Stars 0 / Forks 0.
 - [Mahi6086](https://github.com/Mahi6086/Mahi6086) - Stars 0 / Forks 0.
 - [mahidmunna01](https://github.com/mahidmunna01/mahidmunna01) - Stars 1 / Forks 0.
-- [Mahin725](https://github.com/Mahin725/Mahin725) - Stars 0 / Forks 0.
 - [MAHIR-DEVES](https://github.com/MAHIR-DEVES/MAHIR-DEVES) - Stars 2 / Forks 0.
 - [mahirmasud](https://github.com/mahirmasud/mahirmasud) - Stars 1 / Forks 0.
 - [Mahmoud-Italy](https://github.com/Mahmoud-Italy/Mahmoud-Italy) - Stars 4 / Forks 0.
@@ -1471,7 +1470,7 @@
 - [Nasirdiu](https://github.com/Nasirdiu/Nasirdiu) - Stars 0 / Forks 0.
 - [nasirmasud](https://github.com/nasirmasud/nasirmasud) - Stars 0 / Forks 0.
 - [navid-hasan26](https://github.com/navid-hasan26/navid-hasan26) - Stars 0 / Forks 0.
-- [NavidZamanKhan](https://github.com/NavidZamanKhan/NavidZamanKhan) - Stars 3 / Forks 0.
+- [NavidZamanKhan](https://github.com/NavidZamanKhan/NavidZamanKhan) - Stars 4 / Forks 0.
 - [nayanchamp7](https://github.com/nayanchamp7/nayanchamp7) - Stars 0 / Forks 0.
 - [nayeem-miah](https://github.com/nayeem-miah/nayeem-miah) - Stars 1 / Forks 0.
 - [Nayeem0011](https://github.com/Nayeem0011/Nayeem0011) - Stars 12 / Forks 3.
@@ -1668,6 +1667,7 @@
 - [raihan4827](https://github.com/raihan4827/raihan4827) - Stars 0 / Forks 0.
 - [raihaninfo](https://github.com/raihaninfo/raihaninfo) - Stars 8 / Forks 3.
 - [raihankhan](https://github.com/raihankhan/raihankhan) - Stars 0 / Forks 2.
+- [raihanuldev](https://github.com/raihanuldev/Mahin725) - Stars 0 / Forks 0.
 - [raikusy](https://github.com/raikusy/raikusy) - Stars 1 / Forks 1.
 - [RaisaNuzhat](https://github.com/RaisaNuzhat/RaisaNuzhat) - Stars 0 / Forks 0.
 - [Raisul-Islam-Shehab](https://github.com/Raisul-Islam-Shehab/Raisul-Islam-Shehab) - Stars 1 / Forks 0.
