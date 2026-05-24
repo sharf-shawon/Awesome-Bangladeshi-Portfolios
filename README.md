@@ -143,7 +143,7 @@
 - [ai-naymul](https://github.com/ai-naymul/ai-naymul) - Stars 0 / Forks 0.
 - [aiatulador](https://github.com/aiatulador/aiatulador) - Stars 2 / Forks 1.
 - [aimahdi](https://github.com/aimahdi/aimahdi) - Stars 1 / Forks 0.
-- [ajauntor](https://github.com/ajauntor/ajauntor) - Stars 3 / Forks 12.
+- [ajauntor](https://github.com/ajauntor/ajauntor) - Stars 3 / Forks 11.
 - [ajaxray](https://github.com/ajaxray/ajaxray) - Stars 0 / Forks 0.
 - [ajoy3700](https://github.com/ajoy3700/ajoy3700) - Stars 0 / Forks 0.
 - [akash-kumar-biswas](https://github.com/akash-kumar-biswas/akash-kumar-biswas) - Stars 1 / Forks 0.
@@ -1032,7 +1032,7 @@
 - [Luban6887](https://github.com/Luban6887/Luban6887) - Stars 0 / Forks 0.
 - [lukmanhossain](https://github.com/lukmanhossain/lukmanhossain) - Stars 0 / Forks 0.
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
-- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 14 / Forks 3.
+- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 15 / Forks 3.
 - [m0h4mm4d-h053n](https://github.com/m0h4mm4d-h053n/m0h4mm4d-h053n) - Stars 0 / Forks 0.
 - [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 2 / Forks 0.
 - [MAAB-FW](https://github.com/MAAB-FW/MAAB-FW) - Stars 1 / Forks 0.
@@ -1274,7 +1274,7 @@
 - [minhazuddin10](https://github.com/minhazuddin10/minhazuddin10) - Stars 0 / Forks 0.
 - [minuwu](https://github.com/minuwu/minuwu) - Stars 0 / Forks 0.
 - [mir-asif01](https://github.com/mir-asif01/mir-asif01) - Stars 0 / Forks 0.
-- [mir-hussain](https://github.com/mir-hussain/mir-hussain) - Stars 10 / Forks 69.
+- [mir-hussain](https://github.com/mir-hussain/mir-hussain) - Stars 9 / Forks 69.
 - [mir183](https://github.com/mir183/mir183) - Stars 0 / Forks 0.
 - [MIRAJ-KHAN155](https://github.com/MIRAJ-KHAN155/MIRAJ-KHAN155) - Stars 0 / Forks 0.
 - [miraz3301](https://github.com/miraz3301/miraz3301) - Stars 0 / Forks 0.
@@ -1992,7 +1992,6 @@
 - [sebokdas1](https://github.com/sebokdas1/sebokdas1) - Stars 0 / Forks 0.
 - [SEC-MASUM](https://github.com/SEC-MASUM/sec-masum) - Stars 0 / Forks 0.
 - [SEFAT-777](https://github.com/SEFAT-777/SEFAT-777) - Stars 1 / Forks 0.
-- [Sefayet-Alam](https://github.com/Sefayet-Alam/Sefayet-Alam) - Stars 0 / Forks 0.
 - [Sejuty](https://github.com/Sejuty/Sejuty) - Stars 0 / Forks 0.
 - [Selim-Reza-Swadhin](https://github.com/Selim-Reza-Swadhin/Selim-Reza-Swadhin) - Stars 1 / Forks 0.
 - [SenWan](https://github.com/SenWan/SenWan) - Stars 0 / Forks 0.
@@ -2222,7 +2221,7 @@
 - [sshuvoo](https://github.com/sshuvoo/sshuvoo) - Stars 1 / Forks 0.
 - [ssi-anik](https://github.com/ssi-anik/ssi-anik) - Stars 0 / Forks 3.
 - [ssJui](https://github.com/ssJui/ssJui) - Stars 0 / Forks 0.
-- [ssoad](https://github.com/ssoad/ssoad) - Stars 6 / Forks 2.
+- [ssoad](https://github.com/ssoad/ssoad) - Stars 5 / Forks 2.
 - [StepAsideLiL](https://github.com/StepAsideLiL/stepasidelil) - Stars 0 / Forks 0.
 - [stsharin](https://github.com/stsharin/stsharin) - Stars 0 / Forks 0.
 - [subas-roy](https://github.com/subas-roy/subas-roy) - Stars 0 / Forks 0.
@@ -2319,7 +2318,7 @@
 - [tanveerprottoy](https://github.com/tanveerprottoy/tanveerprottoy) - Stars 0 / Forks 0.
 - [Tanvin420](https://github.com/Tanvin420/Tanvin420) - Stars 0 / Forks 0.
 - [tanvir-156](https://github.com/tanvir-156/tanvir-156) - Stars 0 / Forks 0.
-- [Tanvir-Mahamood](https://github.com/Tanvir-Mahamood/Tanvir-Mahamood) - Stars 0 / Forks 0.
+- [Tanvir-Mahamood](https://github.com/Tanvir-Mahamood/Tanvir-Mahamood) - Stars 1 / Forks 0.
 - [Tanvir-Niloy](https://github.com/Tanvir-Niloy/Tanvir-Niloy) - Stars 0 / Forks 0.
 - [tanvir-r3d](https://github.com/tanvir-r3d/tanvir-r3d) - Stars 0 / Forks 0.
 - [Tanvir1407](https://github.com/Tanvir1407/Tanvir1407) - Stars 0 / Forks 0.
