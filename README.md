@@ -1139,7 +1139,7 @@
 - [Md-Firoz-Mahmud-Nur](https://github.com/Md-Firoz-Mahmud-Nur/Md-Firoz-Mahmud-Nur) - Stars 0 / Forks 0.
 - [md-kawsar-ali](https://github.com/md-kawsar-ali/md-kawsar-ali) - Stars 0 / Forks 0.
 - [Md-Merazul-Islam](https://github.com/Md-Merazul-Islam/Md-Merazul-Islam) - Stars 0 / Forks 0.
-- [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 4 / Forks 0.
+- [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 3 / Forks 0.
 - [md-nasim-mondal](https://github.com/md-nasim-mondal/md-nasim-mondal) - Stars 0 / Forks 0.
 - [Md-Rashedul-Islam-Rajib](https://github.com/Md-Rashedul-Islam-Rajib/Md-Rashedul-Islam-Rajib) - Stars 0 / Forks 0.
 - [Md-Rifat-Islam](https://github.com/Md-Rifat-Islam/Md-Rifat-Islam) - Stars 0 / Forks 0.
@@ -1720,7 +1720,7 @@
 - [ratulislam46](https://github.com/ratulislam46/ratulislam46) - Stars 0 / Forks 1.
 - [raufurislam](https://github.com/raufurislam/raufurislam) - Stars 24 / Forks 2.
 - [rayhan360](https://github.com/rayhan360/rayhan360) - Stars 0 / Forks 1.
-- [rayhanislamdev](https://github.com/rayhanislamdev/rayhanislamdev) - Stars 1 / Forks 0.
+- [rayhanislamdev](https://github.com/rayhanislamdev/rayhanislamdev) - Stars 0 / Forks 0.
 - [rayhantr](https://github.com/rayhantr/rayhantr) - Stars 0 / Forks 1.
 - [Rayied991](https://github.com/Rayied991/Rayied991) - Stars 0 / Forks 0.
 - [raykibul](https://github.com/raykibul/raykibul) - Stars 0 / Forks 0.
