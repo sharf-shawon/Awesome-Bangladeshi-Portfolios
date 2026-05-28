@@ -1032,7 +1032,7 @@
 - [Luban6887](https://github.com/Luban6887/Luban6887) - Stars 0 / Forks 0.
 - [lukmanhossain](https://github.com/lukmanhossain/lukmanhossain) - Stars 0 / Forks 0.
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
-- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 15 / Forks 3.
+- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 16 / Forks 3.
 - [m0h4mm4d-h053n](https://github.com/m0h4mm4d-h053n/m0h4mm4d-h053n) - Stars 0 / Forks 0.
 - [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 4 / Forks 0.
 - [MAAB-FW](https://github.com/MAAB-FW/MAAB-FW) - Stars 1 / Forks 0.
@@ -1498,7 +1498,7 @@
 - [nazmulnahid-git](https://github.com/nazmulnahid-git/nazmulnahid-git) - Stars 1 / Forks 0.
 - [nazmulwanted](https://github.com/nazmulwanted/nazmulwanted) - Stars 0 / Forks 0.
 - [nazmulweb](https://github.com/nazmulweb/nazmulweb) - Stars 1 / Forks 0.
-- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 34 / Forks 11.
+- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 35 / Forks 11.
 - [Nazrulislam45](https://github.com/Nazrulislam45/Nazrulislam45) - Stars 0 / Forks 0.
 - [NazShakib](https://github.com/NazShakib/NazShakib) - Stars 0 / Forks 0.
 - [nbakh16](https://github.com/nbakh16/nbakh16) - Stars 1 / Forks 1.
