@@ -1,13 +1,99 @@
 const fs = require('fs');
 const path = require('path');
+const { pipeline } = require('stream');
+const StreamArray = require('stream-json/streamers/StreamArray');
 
 const GITHUB_TOKEN = process.env.GH_TOKEN || process.env.GITHUB_TOKEN || null;
-const USERS_JSON_URL = 'https://raw.githubusercontent.com/sharf-shawon/Awesome-Bangladeshi-Devs/main/data/users.json';
+// Use the raw URL for the enriched users file (large). We'll stream it.
+const USERS_JSON_URL = 'https://raw.githubusercontent.com/sharf-shawon/Awesome-Bangladeshi-Devs/main/data/users-enriched.json';
 
 async function fetchJson(url) {
   const response = await fetch(url);
   if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
   return response.json();
+}
+
+/**
+ * Stream and extract github_username values from a (potentially huge) JSON array.
+ * Uses stream-json to avoid loading the full file into memory.
+ */
+async function fetchUsernames(url) {
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
+
+  const usernames = [];
+
+  await new Promise((resolve, reject) => {
+    const parser = StreamArray.withParser();
+
+    parser.on('data', ({ value }) => {
+      if (value && value.github_username) usernames.push(value.github_username);
+    });
+    parser.on('end', resolve);
+    parser.on('error', reject);
+
+    pipeline(response.body, parser, err => {
+      if (err) reject(err);
+    });
+  });
+
+  return usernames;
+}
+
+/**
+ * Stream and extract a minimal user record set from the enriched JSON.
+ * Writes a lightweight JSON array to `outPath` as it parses to avoid memory pressure.
+ * Returns an object map keyed by username with the extracted fields.
+ */
+async function extractUsersLite(url, outPath) {
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`Failed to fetch ${url}: ${response.statusText}`);
+
+  await fs.promises.mkdir(path.dirname(outPath), { recursive: true });
+
+  const outStream = fs.createWriteStream(outPath, { encoding: 'utf8' });
+  outStream.write('[');
+  let first = true;
+
+  const usersMap = {};
+
+  await new Promise((resolve, reject) => {
+    const parser = StreamArray.withParser();
+
+    parser.on('data', ({ value }) => {
+      if (!value || !value.github_username) return;
+      const u = value.github_username;
+      const item = {
+        username: u,
+        profile_url: value.profile_url || `https://github.com/${u}`,
+        avatar_url: value.avatar_url || `https://avatars.githubusercontent.com/${u}`,
+        website_url: value.website_url || null,
+        top_language: value.top_language || null,
+        all_languages: value.all_languages || [],
+        total_stars: value.total_stars || 0,
+        topics: (value.top_repos && value.top_repos[0] && value.top_repos[0].topics) || []
+      };
+
+      usersMap[u] = item;
+
+      const chunk = (first ? '\n' : ',\n') + JSON.stringify(item);
+      first = false;
+      outStream.write(chunk);
+    });
+
+    parser.on('end', () => {
+      outStream.write('\n]');
+      outStream.end();
+      resolve();
+    });
+    parser.on('error', err => reject(err));
+
+    pipeline(response.body, parser, err => {
+      if (err) reject(err);
+    });
+  });
+
+  return usersMap;
 }
 
 /**
@@ -53,7 +139,8 @@ async function getPortfoliosGraphQL(usernames) {
       description: repo.description,
       stars: repo.stargazerCount,
       forks: repo.forkCount,
-      repoUrl: repo.url
+      repoUrl: repo.url,
+      websiteUrl: repo.homepage || null
     }));
 }
 
@@ -76,7 +163,8 @@ async function getRepoInfoREST(username) {
     description: repo.description,
     stars: repo.stargazers_count,
     forks: repo.forks_count,
-    repoUrl: repo.html_url
+    repoUrl: repo.html_url,
+    websiteUrl: repo.homepage || null
   };
 }
 
@@ -122,10 +210,11 @@ function cleanDescription(desc, repoUrl) {
 
 async function main() {
   try {
-    console.log('🚀 Fetching users from source...');
-    const users = await fetchJson(USERS_JSON_URL);
-    const usernames = users.map(u => u.github_username);
-    console.log(`✅ Found ${usernames.length} users.`);
+    console.log('🚀 Fetching users from source (streaming enriched extract)...');
+    const usersLitePath = path.join(__dirname, '../data/users-lite.json');
+    const usersMap = await extractUsersLite(USERS_JSON_URL, usersLitePath);
+    const usernames = Object.keys(usersMap);
+    console.log(`✅ Extracted ${usernames.length} users (wrote ${usersLitePath}).`);
 
     let portfolios = [];
 
@@ -160,6 +249,34 @@ async function main() {
 
     console.log(`\n✨ Found a total of ${portfolios.length} portfolios.`);
     portfolios.sort((a, b) => a.username.toLowerCase().localeCompare(b.username.toLowerCase()));
+
+    // Enrich portfolios with lite user info (avatar, languages, topics)
+    portfolios = portfolios.map(p => {
+      const u = usersMap[p.username] || {};
+      return Object.assign({}, p, {
+        avatar: u.avatar_url || `https://avatars.githubusercontent.com/${p.username}`,
+        profile_url: u.profile_url || `https://github.com/${p.username}`,
+        website_url: u.website_url || p.websiteUrl || p.website_url || null,
+        top_language: u.top_language || null,
+        all_languages: u.all_languages || [],
+        topics: u.topics || [],
+        total_stars: u.total_stars || 0
+      });
+    });
+
+    // Write data file required by request
+    const dataDir = path.join(__dirname, '../data');
+    const dataPath = path.join(dataDir, 'portfolios.json');
+    await fs.promises.mkdir(dataDir, { recursive: true });
+    fs.writeFileSync(dataPath, JSON.stringify(portfolios, null, 2), 'utf8');
+    console.log(`✅ Wrote portfolio data to ${dataPath}`);
+
+    // Also write a copy into docs for GitHub Pages serving from docs/
+    const docsDataDir = path.join(__dirname, '../docs/data');
+    await fs.promises.mkdir(docsDataDir, { recursive: true });
+    const docsDataPath = path.join(docsDataDir, 'portfolios.json');
+    fs.writeFileSync(docsDataPath, JSON.stringify(portfolios, null, 2), 'utf8');
+    console.log(`✅ Wrote portfolio data to ${docsDataPath}`);
 
     const listContent = portfolios.map(p => {
       const desc = cleanDescription(p.description, p.repoUrl);

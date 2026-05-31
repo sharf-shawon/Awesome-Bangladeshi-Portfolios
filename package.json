@@ -15,6 +15,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "dependencies": {
+    "stream-json": "^1.7.5"
+  },
   "devDependencies": {
     "awesome-lint": "^1.2.0",
     "husky": "^8.0.0",

@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Awesome Bangladeshi Portfolios</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
+</head>
+<body>
+  <header class="hero">
+    <div class="container">
+      <p class="hero-kicker">Curated GitHub profile portfolios from Bangladeshi developers</p>
+      <h1>Awesome Bangladeshi Portfolios</h1>
+      <p class="lead">Search by username, stack, topics, stars, forks and more. Use the sticky tools bar to refine results in real time.</p>
+    </div>
+  </header>
+
+  <nav class="sticky-nav" aria-label="Portfolio tools">
+    <div class="container sticky-nav-inner">
+      <div class="nav-brand">
+        <a class="nav-mark" href="https://github.com/sharf-shawon/Awesome-Bangladeshi-Portfolios" target="_blank" rel="noopener" aria-label="GitHub repository">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M12 .5C5.65.5.5 5.65.5 12.17c0 5.21 3.44 9.63 8.2 11.2.6.12.82-.26.82-.58 0-.28-.01-1.02-.02-2-3.34.74-4.04-1.65-4.04-1.65-.55-1.43-1.34-1.81-1.34-1.81-1.1-.78.08-.76.08-.76 1.22.09 1.86 1.28 1.86 1.28 1.08 1.9 2.84 1.35 3.53 1.03.11-.8.42-1.35.76-1.66-2.66-.31-5.46-1.37-5.46-6.1 0-1.35.48-2.45 1.27-3.31-.13-.32-.55-1.58.12-3.29 0 0 1.03-.34 3.38 1.26a11.5 11.5 0 0 1 6.16 0c2.35-1.6 3.38-1.26 3.38-1.26.67 1.71.25 2.97.12 3.29.79.86 1.27 1.96 1.27 3.31 0 4.74-2.81 5.79-5.49 6.09.43.38.82 1.12.82 2.26 0 1.63-.02 2.95-.02 3.35 0 .32.22.7.83.58A11.72 11.72 0 0 0 23.5 12.17C23.5 5.65 18.35.5 12 .5Z" fill="currentColor"/>
+          </svg>
+        </a>
+        <div>
+          <strong>Awesome Bangladeshi Portfolios</strong>
+          <span>Live discovery and filtering</span>
+        </div>
+      </div>
+      <div class="nav-search">
+        <input id="q" placeholder="Search by username, topics, language, etc." />
+        <select id="languageFilter"><option value="">All languages</option></select>
+        <select id="sortSelect">
+          <option value="name">Sort: Username</option>
+          <option value="stars_desc" selected>Stars ↓</option>
+          <option value="stars_asc">Stars ↑</option>
+          <option value="forks_desc">Forks ↓</option>
+          <option value="forks_asc">Forks ↑</option>
+        </select>
+      </div>
+      <div class="nav-actions">
+        <a class="nav-link nav-primary" href="https://github.com/sharf-shawon/Awesome-Bangladeshi-Portfolios" target="_blank" rel="noopener">GitHub</a>
+        <a class="nav-link" href="https://github.com/sharf-shawon/Awesome-Bangladeshi-Devs/issues/new?template=add_developer.yml" target="_blank" rel="noopener">Add your portfolio</a>
+      </div>
+      <details class="nav-overflow">
+        <summary class="nav-link nav-overflow-trigger" aria-label="Open navigation menu">
+          <span class="nav-overflow-icon" aria-hidden="true"></span>
+          <span>Menu</span>
+        </summary>
+        <div class="nav-overflow-panel">
+          <a class="nav-link nav-primary" href="https://github.com/sharf-shawon/Awesome-Bangladeshi-Portfolios" target="_blank" rel="noopener">GitHub</a>
+          <a class="nav-link" href="https://github.com/sharf-shawon/Awesome-Bangladeshi-Devs/issues/new?template=add_developer.yml" target="_blank" rel="noopener">Add your portfolio</a>
+        </div>
+      </details>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section id="results" class="grid"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>Built by <a href="https://shawon.me" target="_blank" rel="noopener">Sharfuddin Shawon</a>.</p>
+      <p><a href="https://github.com/sharf-shawon/Awesome-Bangladeshi-Devs/issues/new?template=add_developer.yml" target="_blank" rel="noopener">Want to list your portfolio here? Add yourself to Awesome Bangladeshi Devs by creating an issue on GitHub.</a></p>
+    </div>
+  </footer>
+
+  <template id="card-tmpl">
+    <article class="card">
+      <img class="og" alt="preview"/>
+      <div class="meta">
+        <h3 class="username"></h3>
+        <p class="desc"></p>
+        <div class="badges"></div>
+        <div class="stats">⭐ <span class="stars"></span> • Forks <span class="forks"></span></div>
+        <div class="links"><a class="repo" target="_blank" rel="noopener">Repo</a> <a class="profile" target="_blank" rel="noopener">Profile</a> <a class="website" target="_blank" rel="noopener" hidden>Website</a></div>
+      </div>
+    </article>
+  </template>
+
+  <script src="./app.js"></script>
+</body>
+</html>
