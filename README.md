@@ -1033,7 +1033,7 @@
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
 - [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 16 / Forks 3.
 - [m0h4mm4d-h053n](https://github.com/m0h4mm4d-h053n/m0h4mm4d-h053n) - Stars 0 / Forks 0.
-- [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 4 / Forks 0.
+- [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 5 / Forks 1.
 - [MAAB-FW](https://github.com/MAAB-FW/MAAB-FW) - Stars 1 / Forks 0.
 - [maacpiash](https://github.com/maacpiash/maacpiash) - Stars 1 / Forks 0.
 - [madsdev404](https://github.com/madsdev404/madsdev404) - Stars 0 / Forks 0.
