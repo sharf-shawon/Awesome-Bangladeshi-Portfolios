@@ -31552,6 +31552,33 @@
     "total_stars": 18
   },
   {
+    "username": "nadimtuhin",
+    "repoName": "nadimtuhin",
+    "description": "GitHub profile README",
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/nadimtuhin/nadimtuhin",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/u/3125771?u=f07998f380b36c727333d7bc2b52ad1608929a41&v=4",
+    "profile_url": "https://github.com/nadimtuhin",
+    "website_url": "nadimtuhin.com",
+    "top_language": "JavaScript",
+    "all_languages": [
+      "JavaScript",
+      "Shell",
+      "PHP",
+      "TypeScript"
+    ],
+    "topics": [
+      "ai-assistant",
+      "automation",
+      "claude-code",
+      "developer-tools",
+      "documentation"
+    ],
+    "total_stars": 997
+  },
+  {
     "username": "NadmanKhan",
     "repoName": "NadmanKhan",
     "description": null,
@@ -31795,7 +31822,7 @@
     "username": "nafiul-afk",
     "repoName": "nafiul-afk",
     "description": null,
-    "stars": 26,
+    "stars": 27,
     "forks": 2,
     "repoUrl": "https://github.com/nafiul-afk/nafiul-afk",
     "websiteUrl": null,
