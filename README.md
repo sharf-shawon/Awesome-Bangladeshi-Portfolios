@@ -683,7 +683,7 @@
 - [habibun](https://github.com/habibun/habibun) - Stars 1 / Forks 0.
 - [habibur5313](https://github.com/habibur5313/habibur5313) - Stars 0 / Forks 0.
 - [habibur899](https://github.com/habibur899/habibur899) - Stars 0 / Forks 0.
-- [Hablu-Programmer](https://github.com/Hablu-Programmer/hablu-programmer) - Stars 19 / Forks 22.
+- [Hablu-Programmer](https://github.com/Hablu-Programmer/hablu-programmer) - Stars 19 / Forks 21.
 - [habulCoderJohnny](https://github.com/habulCoderJohnny/habulCoderJohnny) - Stars 1 / Forks 2.
 - [hafez-ahmad](https://github.com/hafez-ahmad/hafez-ahmad) - Stars 1 / Forks 1.
 - [HafezFaruk](https://github.com/HafezFaruk/HafezFaruk) - Stars 0 / Forks 0.
@@ -1981,6 +1981,7 @@
 - [SayefReyadh](https://github.com/SayefReyadh/SayefReyadh) - Stars 0 / Forks 0.
 - [Sayem-Ahmed-Shayeed](https://github.com/Sayem-Ahmed-Shayeed/Sayem-Ahmed-Shayeed) - Stars 0 / Forks 0.
 - [sayfulislamshakib](https://github.com/sayfulislamshakib/sayfulislamshakib) - Stars 0 / Forks 0.
+- [sayid2kx](https://github.com/sayid2kx/sayid2kx) - Stars 0 / Forks 0.
 - [SaymanRabbi](https://github.com/SaymanRabbi/saymanrabbi) - Stars 0 / Forks 0.
 - [SaYMy-NaMe](https://github.com/SaYMy-NaMe/SaYMy-NaMe) - Stars 0 / Forks 0.
 - [sazid](https://github.com/sazid/sazid) - Stars 0 / Forks 0.
