@@ -1570,7 +1570,7 @@
 - [omarfaruk-k](https://github.com/omarfaruk-k/omarfaruk-k) - Stars 0 / Forks 0.
 - [omarfarukbadhon](https://github.com/omarfarukbadhon/omarfarukbadhon) - Stars 0 / Forks 0.
 - [omarhimu](https://github.com/omarhimu/omarhimu) - Stars 0 / Forks 0.
-- [Omer4ruq](https://github.com/Omer4ruq/Omer4ruq) - Stars 1 / Forks 0.
+- [Omer4ruq](https://github.com/Omer4ruq/Omer4ruq) - Stars 2 / Forks 0.
 - [onlinearfan](https://github.com/onlinearfan/onlinearfan) - Stars 0 / Forks 0.
 - [openjanala](https://github.com/openjanala/openjanala) - Stars 0 / Forks 0.
 - [opuopu](https://github.com/opuopu/opuopu) - Stars 0 / Forks 0.
