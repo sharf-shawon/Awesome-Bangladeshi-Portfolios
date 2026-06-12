@@ -730,7 +730,7 @@
 - [hazratali451](https://github.com/hazratali451/hazratali451) - Stars 0 / Forks 0.
 - [hbrawnak](https://github.com/hbrawnak/hbrawnak) - Stars 0 / Forks 0.
 - [heheh13](https://github.com/heheh13/heheh13) - Stars 0 / Forks 0.
-- [heisenberg-611](https://github.com/heisenberg-611/heisenberg-611) - Stars 1 / Forks 0.
+- [heisenberg-611](https://github.com/heisenberg-611/heisenberg-611) - Stars 2 / Forks 0.
 - [hello2himel](https://github.com/hello2himel/hello2himel) - Stars 0 / Forks 0.
 - [HelloKowshik](https://github.com/HelloKowshik/HelloKowshik) - Stars 0 / Forks 0.
 - [Hellopapri](https://github.com/Hellopapri/Hellopapri) - Stars 0 / Forks 0.
@@ -848,7 +848,7 @@
 - [Imtius10](https://github.com/Imtius10/Imtius10) - Stars 0 / Forks 0.
 - [indrojitmondal](https://github.com/indrojitmondal/indrojitmondal) - Stars 0 / Forks 1.
 - [Infan-Jioun](https://github.com/Infan-Jioun/Infan-Jioun) - Stars 3 / Forks 0.
-- [infomotin](https://github.com/infomotin/infomotin) - Stars 0 / Forks 0.
+- [infomotin](https://github.com/infomotin/infomotin) - Stars 1 / Forks 0.
 - [IngeniousArtist](https://github.com/IngeniousArtist/IngeniousArtist) - Stars 0 / Forks 0.
 - [injamulhaquesomrat](https://github.com/injamulhaquesomrat/injamulhaquesomrat) - Stars 0 / Forks 0.
 - [Injamulhasan](https://github.com/Injamulhasan/Injamulhasan) - Stars 0 / Forks 1.
@@ -2033,7 +2033,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 61 / Forks 74.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 60 / Forks 74.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
