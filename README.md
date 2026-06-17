@@ -929,6 +929,7 @@
 - [Jisan-mia](https://github.com/Jisan-mia/Jisan-mia) - Stars 6 / Forks 3.
 - [jisanahamed09205](https://github.com/jisanahamed09205/jisanahamed09205) - Stars 0 / Forks 0.
 - [jmrashed](https://github.com/jmrashed/jmrashed) - Stars 0 / Forks 0.
+- [jnahian](https://github.com/jnahian/jnahian) - Stars 0 / Forks 0.
 - [Jobayer-Majumder](https://github.com/Jobayer-Majumder/Jobayer-Majumder) - Stars 1 / Forks 0.
 - [jobayer977](https://github.com/jobayer977/jobayer977) - Stars 0 / Forks 0.
 - [jonaidsharif](https://github.com/jonaidsharif/JonaidSharif) - Stars 0 / Forks 0.
@@ -2232,7 +2233,7 @@
 - [SubrotaDebnath](https://github.com/SubrotaDebnath/SubrotaDebnath) - Stars 0 / Forks 0.
 - [subroto23](https://github.com/subroto23/subroto23) - Stars 0 / Forks 0.
 - [sudarshaana](https://github.com/sudarshaana/sudarshaana) - Stars 0 / Forks 0.
-- [SudipMHX](https://github.com/SudipMHX/SudipMHX) - Stars 1 / Forks 0.
+- [SudipMHX](https://github.com/SudipMHX/SudipMHX) - Stars 2 / Forks 0.
 - [SudiptaAdhikaryJoy](https://github.com/SudiptaAdhikaryJoy/SudiptaAdhikaryJoy) - Stars 2 / Forks 1.
 - [Sujoychandradas](https://github.com/Sujoychandradas/Sujoychandradas) - Stars 0 / Forks 0.
 - [sukanya1426](https://github.com/sukanya1426/sukanya1426) - Stars 1 / Forks 0.
