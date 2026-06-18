@@ -1443,7 +1443,6 @@
 - [NafisUddinElok](https://github.com/NafisUddinElok/NafisUddinElok) - Stars 0 / Forks 0.
 - [nafiul-afk](https://github.com/nafiul-afk/nafiul-afk) - Stars 26 / Forks 2.
 - [nafiulhaqueinan](https://github.com/nafiulhaqueinan/nafiulhaqueinan) - Stars 5 / Forks 1.
-- [Nahian1269](https://github.com/Nahian1269/nahian1269) - Stars 0 / Forks 0.
 - [nahian91](https://github.com/nahian91/nahian91) - Stars 0 / Forks 0.
 - [nahid](https://github.com/nahid/nahid) - Stars 1 / Forks 9.
 - [NahidAhmed07](https://github.com/NahidAhmed07/NahidAhmed07) - Stars 1 / Forks 0.
@@ -2127,7 +2126,7 @@
 - [shourovr82](https://github.com/shourovr82/shourovr82) - Stars 1 / Forks 1.
 - [ShourovSaha](https://github.com/ShourovSaha/ShourovSaha) - Stars 0 / Forks 0.
 - [shouvick](https://github.com/shouvick/shouvick) - Stars 0 / Forks 0.
-- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 178 / Forks 39.
+- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 179 / Forks 39.
 - [shovonrahmanshuvo](https://github.com/shovonrahmanshuvo/shovonrahmanshuvo) - Stars 1 / Forks 0.
 - [showrov4g](https://github.com/showrov4g/showrov4g) - Stars 2 / Forks 0.
 - [shreshthajit](https://github.com/shreshthajit/shreshthajit) - Stars 1 / Forks 0.
