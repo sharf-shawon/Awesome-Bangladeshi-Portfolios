@@ -994,7 +994,7 @@
 - [khandakerahsunhabib](https://github.com/khandakerahsunhabib/khandakerahsunhabib) - Stars 0 / Forks 0.
 - [khanfaysal](https://github.com/khanfaysal/khanfaysal) - Stars 1 / Forks 0.
 - [khanjanny](https://github.com/khanjanny/khanjanny) - Stars 1 / Forks 0.
-- [KhanShaheb34](https://github.com/KhanShaheb34/KhanShaheb34) - Stars 5 / Forks 2.
+- [KhanShaheb34](https://github.com/KhanShaheb34/KhanShaheb34) - Stars 5 / Forks 1.
 - [khokan](https://github.com/khokan/khokan) - Stars 0 / Forks 0.
 - [khriad991](https://github.com/khriad991/khriad991) - Stars 0 / Forks 0.
 - [Kikashii](https://github.com/Kikashii/Kikashii) - Stars 0 / Forks 0.
