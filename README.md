@@ -1032,7 +1032,7 @@
 - [Luban6887](https://github.com/Luban6887/Luban6887) - Stars 0 / Forks 0.
 - [lukmanhossain](https://github.com/lukmanhossain/lukmanhossain) - Stars 0 / Forks 0.
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
-- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 16 / Forks 3.
+- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 15 / Forks 3.
 - [m0h4mm4d-h053n](https://github.com/m0h4mm4d-h053n/m0h4mm4d-h053n) - Stars 0 / Forks 0.
 - [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 5 / Forks 1.
 - [MAAB-FW](https://github.com/MAAB-FW/MAAB-FW) - Stars 1 / Forks 0.
