@@ -954,6 +954,7 @@
 - [junaidkhan1723](https://github.com/junaidkhan1723/junaidkhan1723) - Stars 1 / Forks 0.
 - [junaidzamaahmed](https://github.com/junaidzamaahmed/junaidzamaahmed) - Stars 0 / Forks 0.
 - [junkcodes](https://github.com/junkcodes/junkcodes) - Stars 0 / Forks 0.
+- [justnadir](https://github.com/justnadir/ohnadir) - Stars 0 / Forks 0.
 - [Juwel-771](https://github.com/Juwel-771/Juwel-771) - Stars 0 / Forks 0.
 - [Kabbo-Positive](https://github.com/Kabbo-Positive/Kabbo-Positive) - Stars 0 / Forks 0.
 - [kabir-webDev](https://github.com/kabir-webDev/kabir-webdev) - Stars 0 / Forks 0.
@@ -1019,7 +1020,7 @@
 - [Labonnya](https://github.com/Labonnya/Labonnya) - Stars 0 / Forks 0.
 - [lahin31](https://github.com/lahin31/lahin31) - Stars 5 / Forks 2.
 - [LancerAbir](https://github.com/LancerAbir/LancerAbir) - Stars 0 / Forks 0.
-- [lavluda](https://github.com/lavluda/lavluda) - Stars 0 / Forks 0.
+- [lavluda](https://github.com/lavluda/lavluda) - Stars 0 / Forks 1.
 - [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 123 / Forks 102.
 - [lelinrashed](https://github.com/lelinrashed/lelinrashed) - Stars 0 / Forks 0.
 - [lemonkazi](https://github.com/lemonkazi/lemonkazi) - Stars 1 / Forks 0.
@@ -1564,7 +1565,6 @@
 - [ofsazib](https://github.com/ofsazib/ofsazib) - Stars 1 / Forks 0.
 - [ohi20034](https://github.com/ohi20034/ohi20034) - Stars 0 / Forks 0.
 - [ohidurbappy](https://github.com/ohidurbappy/ohidurbappy) - Stars 2 / Forks 21.
-- [ohnadir](https://github.com/ohnadir/ohnadir) - Stars 0 / Forks 0.
 - [oitik](https://github.com/oitik/oitik) - Stars 1 / Forks 0.
 - [oldpilluwu](https://github.com/oldpilluwu/oldpilluwu) - Stars 0 / Forks 0.
 - [omarfaruk-dev](https://github.com/omarfaruk-dev/omarfaruk-dev) - Stars 0 / Forks 1.
