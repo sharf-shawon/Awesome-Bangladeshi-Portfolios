@@ -14,7 +14,7 @@
 - [0kiron](https://github.com/0kiron/0kiron) - Stars 0 / Forks 0.
 - [0xMahabub](https://github.com/0xMahabub/0xMahabub) - Stars 0 / Forks 1.
 - [0xRahad](https://github.com/0xRahad/0xRahad) - Stars 0 / Forks 0.
-- [0xRokib](https://github.com/0xRokib/0xRokib) - Stars 2 / Forks 2.
+- [0xRokib](https://github.com/0xRokib/0xRokib) - Stars 1 / Forks 2.
 - [0xSaikat](https://github.com/0xSaikat/0xSaikat) - Stars 2 / Forks 0.
 - [0xTanzim](https://github.com/0xTanzim/0xTanzim) - Stars 1 / Forks 0.
 - [101rror](https://github.com/101rror/101rror) - Stars 0 / Forks 0.
