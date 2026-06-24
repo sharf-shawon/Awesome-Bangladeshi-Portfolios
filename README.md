@@ -1736,7 +1736,7 @@
 - [redoy1102](https://github.com/redoy1102/redoy1102) - Stars 0 / Forks 0.
 - [reduanmasud](https://github.com/reduanmasud/reduanmasud) - Stars 0 / Forks 0.
 - [redwan10110](https://github.com/redwan10110/redwan10110) - Stars 0 / Forks 0.
-- [Redwanul-Hassan-Labib](https://github.com/Redwanul-Hassan-Labib/Redwanul-Hassan-Labib) - Stars 12 / Forks 2.
+- [Redwanul-Hassan-Labib](https://github.com/Redwanul-Hassan-Labib/Redwanul-Hassan-Labib) - Stars 13 / Forks 2.
 - [REFAT-156](https://github.com/REFAT-156/REFAT-156) - Stars 6 / Forks 6.
 - [Reinhardt-i](https://github.com/Reinhardt-i/Reinhardt-i) - Stars 3 / Forks 0.
 - [rejwar](https://github.com/rejwar/rejwar) - Stars 0 / Forks 0.
@@ -2447,7 +2447,7 @@
 - [urahamat01](https://github.com/urahamat01/urahamat01) - Stars 1 / Forks 0.
 - [uroybd](https://github.com/uroybd/uroybd) - Stars 0 / Forks 0.
 - [usama-forayeje](https://github.com/usama-forayeje/usama-forayeje) - Stars 1 / Forks 0.
-- [uzicodes](https://github.com/uzicodes/uzicodes) - Stars 0 / Forks 0.
+- [uzicodes](https://github.com/uzicodes/uzicodes) - Stars 1 / Forks 0.
 - [voboghure-dev](https://github.com/voboghure-dev/voboghure-dev) - Stars 3 / Forks 1.
 - [w3samiulazim](https://github.com/w3samiulazim/w3samiulazim) - Stars 0 / Forks 0.
 - [Waheed0408](https://github.com/Waheed0408/Waheed0408) - Stars 0 / Forks 0.
