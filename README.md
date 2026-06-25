@@ -2255,7 +2255,7 @@
 - [Suvrodev](https://github.com/Suvrodev/Suvrodev) - Stars 0 / Forks 0.
 - [SUZAUDDAULA](https://github.com/SUZAUDDAULA/suzauddaula) - Stars 2 / Forks 0.
 - [suzitsarkar27](https://github.com/suzitsarkar27/suzitsarkar27) - Stars 1 / Forks 0.
-- [swadhinbiswas](https://github.com/swadhinbiswas/swadhinbiswas) - Stars 26 / Forks 11.
+- [swadhinbiswas](https://github.com/swadhinbiswas/swadhinbiswas) - Stars 27 / Forks 11.
 - [swimshahriar](https://github.com/swimshahriar/swimshahriar) - Stars 1 / Forks 0.
 - [syedfahimabrar](https://github.com/syedfahimabrar/syedfahimabrar.github.io) - Stars 0 / Forks 0.
 - [SyedHasibRahman](https://github.com/SyedHasibRahman/SyedHasibRahman) - Stars 1 / Forks 0.
