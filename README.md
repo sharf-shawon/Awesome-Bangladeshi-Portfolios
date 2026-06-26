@@ -722,7 +722,7 @@
 - [hasibkamal](https://github.com/hasibkamal/template-design-practice-1) - Stars 0 / Forks 0.
 - [hasibul442](https://github.com/hasibul442/hasibul442) - Stars 5 / Forks 0.
 - [Hasina-Akter20](https://github.com/Hasina-Akter20/Hasina-Akter20) - Stars 0 / Forks 1.
-- [hasinhayder](https://github.com/hasinhayder/hasinhayder) - Stars 32 / Forks 153.
+- [hasinhayder](https://github.com/hasinhayder/hasinhayder) - Stars 31 / Forks 153.
 - [Hasnain1408](https://github.com/Hasnain1408/Hasnain1408) - Stars 0 / Forks 0.
 - [Hasnain79-fury](https://github.com/Hasnain79-fury/Hasnain79-fury) - Stars 0 / Forks 0.
 - [Hasnayeen](https://github.com/Hasnayeen/Hasnayeen) - Stars 0 / Forks 0.
@@ -1030,7 +1030,7 @@
 - [litonarefin](https://github.com/litonarefin/litonarefin) - Stars 0 / Forks 0.
 - [LogicalAnt](https://github.com/LogicalAnt/LogicalAnt) - Stars 0 / Forks 0.
 - [LordAmit](https://github.com/LordAmit/LordAmit) - Stars 0 / Forks 0.
-- [Luban6887](https://github.com/Luban6887/Luban6887) - Stars 0 / Forks 0.
+- [Luban6887](https://github.com/Luban6887/Luban6887) - Stars 1 / Forks 0.
 - [lukmanhossain](https://github.com/lukmanhossain/lukmanhossain) - Stars 0 / Forks 0.
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
 - [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 15 / Forks 3.
@@ -1535,7 +1535,7 @@
 - [nomangazi](https://github.com/nomangazi/nomangazi) - Stars 0 / Forks 0.
 - [NoobDecompiler](https://github.com/NoobDecompiler/NoobDecompiler) - Stars 0 / Forks 0.
 - [noorafsarpiash](https://github.com/noorafsarpiash/noorafsarpiash) - Stars 0 / Forks 0.
-- [noorjsdivs](https://github.com/noorjsdivs/noorjsdivs) - Stars 10 / Forks 2.
+- [noorjsdivs](https://github.com/noorjsdivs/noorjsdivs) - Stars 10 / Forks 3.
 - [NoorMohammedAnik](https://github.com/NoorMohammedAnik/NoorMohammedAnik) - Stars 0 / Forks 0.
 - [noornabi-noor](https://github.com/noornabi-noor/noornabi-noor) - Stars 0 / Forks 0.
 - [noruzzamans](https://github.com/noruzzamans/noruzzamans) - Stars 0 / Forks 1.
@@ -1990,6 +1990,7 @@
 - [sazzad700](https://github.com/sazzad700/sazzad700) - Stars 0 / Forks 0.
 - [sazzadbinashique](https://github.com/sazzadbinashique/sazzadbinashique) - Stars 0 / Forks 0.
 - [sazzadul-kobir](https://github.com/sazzadul-kobir/sazzadul-kobir) - Stars 0 / Forks 0.
+- [sazzadurrahmaan](https://github.com/sazzadurrahmaan/sazzadurrahmaan) - Stars 0 / Forks 0.
 - [sbsohag3](https://github.com/sbsohag3/sbsohag3) - Stars 0 / Forks 0.
 - [scriptertoufiq](https://github.com/scriptertoufiq/scriptertoufiq) - Stars 0 / Forks 0.
 - [sebokdas1](https://github.com/sebokdas1/sebokdas1) - Stars 0 / Forks 0.
@@ -2126,7 +2127,7 @@
 - [shourovr82](https://github.com/shourovr82/shourovr82) - Stars 1 / Forks 1.
 - [ShourovSaha](https://github.com/ShourovSaha/ShourovSaha) - Stars 0 / Forks 0.
 - [shouvick](https://github.com/shouvick/shouvick) - Stars 0 / Forks 0.
-- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 179 / Forks 39.
+- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 180 / Forks 39.
 - [shovonrahmanshuvo](https://github.com/shovonrahmanshuvo/shovonrahmanshuvo) - Stars 1 / Forks 0.
 - [showrov4g](https://github.com/showrov4g/showrov4g) - Stars 2 / Forks 0.
 - [shreshthajit](https://github.com/shreshthajit/shreshthajit) - Stars 1 / Forks 0.
