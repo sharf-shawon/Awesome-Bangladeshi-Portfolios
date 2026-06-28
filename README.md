@@ -2448,7 +2448,7 @@
 - [urahamat01](https://github.com/urahamat01/urahamat01) - Stars 1 / Forks 0.
 - [uroybd](https://github.com/uroybd/uroybd) - Stars 0 / Forks 0.
 - [usama-forayeje](https://github.com/usama-forayeje/usama-forayeje) - Stars 1 / Forks 0.
-- [uzicodes](https://github.com/uzicodes/uzicodes) - Stars 1 / Forks 0.
+- [uzicodes](https://github.com/uzicodes/uzicodes) - Stars 0 / Forks 0.
 - [voboghure-dev](https://github.com/voboghure-dev/voboghure-dev) - Stars 3 / Forks 1.
 - [w3samiulazim](https://github.com/w3samiulazim/w3samiulazim) - Stars 0 / Forks 0.
 - [Waheed0408](https://github.com/Waheed0408/Waheed0408) - Stars 0 / Forks 0.
