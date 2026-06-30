@@ -1018,7 +1018,7 @@
 - [Labanya23](https://github.com/Labanya23/Labanya23) - Stars 1 / Forks 0.
 - [labib0x9](https://github.com/labib0x9/labib0x9) - Stars 0 / Forks 0.
 - [Labonnya](https://github.com/Labonnya/Labonnya) - Stars 0 / Forks 0.
-- [lahin31](https://github.com/lahin31/lahin31) - Stars 5 / Forks 2.
+- [lahin31](https://github.com/lahin31/lahin31) - Stars 6 / Forks 2.
 - [LancerAbir](https://github.com/LancerAbir/LancerAbir) - Stars 0 / Forks 0.
 - [lavluda](https://github.com/lavluda/lavluda) - Stars 0 / Forks 1.
 - [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 123 / Forks 102.
