@@ -584,7 +584,7 @@
 - [fahimalaminauntu](https://github.com/fahimalaminauntu/fahimalaminauntu) - Stars 2 / Forks 0.
 - [FahimAnzamDip](https://github.com/FahimAnzamDip/FahimAnzamDip) - Stars 0 / Forks 1.
 - [Fahimefto](https://github.com/Fahimefto/Fahimefto) - Stars 0 / Forks 0.
-- [FahimFBA](https://github.com/FahimFBA/FahimFBA) - Stars 14 / Forks 9.
+- [FahimFBA](https://github.com/FahimFBA/FahimFBA) - Stars 14 / Forks 10.
 - [fahimfoysal2](https://github.com/fahimfoysal2/fahimfoysal2) - Stars 0 / Forks 0.
 - [FahimHassanMollah](https://github.com/FahimHassanMollah/FahimHassanMollah) - Stars 0 / Forks 0.
 - [fahimhossain26](https://github.com/fahimhossain26/fahimhossain26) - Stars 1 / Forks 0.
@@ -2036,7 +2036,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 60 / Forks 76.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 60 / Forks 75.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
@@ -2102,7 +2102,7 @@
 - [shihab-2021](https://github.com/shihab-2021/shihab-2021) - Stars 0 / Forks 0.
 - [Shihab066](https://github.com/Shihab066/Shihab066) - Stars 0 / Forks 0.
 - [shihabsararrafid](https://github.com/shihabsararrafid/shihabsararrafid) - Stars 0 / Forks 0.
-- [shihabuddin-dev](https://github.com/shihabuddin-dev/shihabuddin-dev) - Stars 8 / Forks 1.
+- [shihabuddin-dev](https://github.com/shihabuddin-dev/shihabuddin-dev) - Stars 8 / Forks 0.
 - [Shiham123](https://github.com/Shiham123/shiham123) - Stars 0 / Forks 0.
 - [Shimanto9sqr](https://github.com/Shimanto9sqr/Shimanto9sqr) - Stars 0 / Forks 0.
 - [ShimulChandraDas](https://github.com/ShimulChandraDas/ShimulChandraDas) - Stars 0 / Forks 0.
