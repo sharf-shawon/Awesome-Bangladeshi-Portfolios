@@ -1793,7 +1793,6 @@
 - [roniahamed](https://github.com/roniahamed/roniahamed) - Stars 1 / Forks 2.
 - [Rony58](https://github.com/Rony58/Rony58) - Stars 2 / Forks 0.
 - [ronytarafder99](https://github.com/ronytarafder99/ronytarafder99) - Stars 0 / Forks 0.
-- [RoushanKhalid](https://github.com/RoushanKhalid/RoushanKhalid) - Stars 0 / Forks 0.
 - [rousnay](https://github.com/rousnay/rousnay) - Stars 0 / Forks 0.
 - [rownakabdullahomi](https://github.com/rownakabdullahomi/rownakabdullahomi) - Stars 0 / Forks 0.
 - [rownok420](https://github.com/rownok420/rownok420) - Stars 0 / Forks 0.
@@ -1878,7 +1877,7 @@
 - [SahilImrose](https://github.com/SahilImrose/SahilImrose) - Stars 1 / Forks 1.
 - [sahinur31](https://github.com/sahinur31/sahinur31) - Stars 1 / Forks 1.
 - [sai4ul](https://github.com/sai4ul/sai4ul) - Stars 2 / Forks 0.
-- [saidee-hasan](https://github.com/saidee-hasan/saidee-hasan) - Stars 4 / Forks 1.
+- [saidee-hasan](https://github.com/saidee-hasan/saidee-hasan) - Stars 5 / Forks 1.
 - [Saidiislam](https://github.com/Saidiislam/Saidiislam) - Stars 2 / Forks 2.
 - [Saidur07](https://github.com/Saidur07/Saidur07) - Stars 1 / Forks 1.
 - [saidurraahmaan](https://github.com/saidurraahmaan/saidurraahmaan) - Stars 2 / Forks 0.
