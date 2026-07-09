@@ -1350,7 +1350,7 @@
 - [motasimbillah628](https://github.com/motasimbillah628/motasimbillah628) - Stars 0 / Forks 0.
 - [motiurdev](https://github.com/motiurdev/motiurdev) - Stars 0 / Forks 0.
 - [motiurrahman124](https://github.com/motiurrahman124/motiurrahman124) - Stars 0 / Forks 0.
-- [Mouly22](https://github.com/Mouly22/Mouly22) - Stars 5 / Forks 1.
+- [Mouly22](https://github.com/Mouly22/Mouly22) - Stars 5 / Forks 2.
 - [mowmitaahmed](https://github.com/mowmitaahmed/mowmitaahmed) - Stars 0 / Forks 0.
 - [Mozammel772](https://github.com/Mozammel772/Mozammel772) - Stars 0 / Forks 0.
 - [mprince2k18](https://github.com/mprince2k18/mprince2k18) - Stars 1 / Forks 0.
@@ -2037,7 +2037,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 60 / Forks 75.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 58 / Forks 75.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
@@ -2103,7 +2103,7 @@
 - [shihab-2021](https://github.com/shihab-2021/shihab-2021) - Stars 0 / Forks 0.
 - [Shihab066](https://github.com/Shihab066/Shihab066) - Stars 0 / Forks 0.
 - [shihabsararrafid](https://github.com/shihabsararrafid/shihabsararrafid) - Stars 0 / Forks 0.
-- [shihabuddin-dev](https://github.com/shihabuddin-dev/shihabuddin-dev) - Stars 8 / Forks 0.
+- [shihabuddin-dev](https://github.com/shihabuddin-dev/shihabuddin-dev) - Stars 7 / Forks 0.
 - [Shiham123](https://github.com/Shiham123/shiham123) - Stars 0 / Forks 0.
 - [Shimanto9sqr](https://github.com/Shimanto9sqr/Shimanto9sqr) - Stars 0 / Forks 0.
 - [ShimulChandraDas](https://github.com/ShimulChandraDas/ShimulChandraDas) - Stars 0 / Forks 0.
@@ -2250,7 +2250,7 @@
 - [Sumonsiu01](https://github.com/Sumonsiu01/Sumonsiu01) - Stars 0 / Forks 0.
 - [sumonsnote](https://github.com/sumonsnote/SumonsNote) - Stars 0 / Forks 0.
 - [sumonst21](https://github.com/sumonst21/sumonst21) - Stars 0 / Forks 1.
-- [Sumonta056](https://github.com/Sumonta056/sumonta056) - Stars 8 / Forks 7.
+- [Sumonta056](https://github.com/Sumonta056/sumonta056) - Stars 8 / Forks 8.
 - [sumuhridoy2002](https://github.com/sumuhridoy2002/sumuhridoy2002) - Stars 0 / Forks 0.
 - [sunitsen](https://github.com/sunitsen/sunitsen) - Stars 0 / Forks 0.
 - [Sunwarul](https://github.com/Sunwarul/sunwarul) - Stars 0 / Forks 0.
