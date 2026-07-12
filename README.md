@@ -2361,7 +2361,7 @@
 - [tarekpredix](https://github.com/tarekpredix/tarekpredix) - Stars 0 / Forks 0.
 - [tareq1988](https://github.com/tareq1988/tareq1988) - Stars 2 / Forks 1.
 - [tareqmahmud](https://github.com/tareqmahmud/tareqmahmud) - Stars 0 / Forks 0.
-- [TareqMonwer](https://github.com/TareqMonwer/TareqMonwer) - Stars 1 / Forks 2.
+- [TareqMonwer](https://github.com/TareqMonwer/TareqMonwer) - Stars 1 / Forks 1.
 - [tarequr](https://github.com/tarequr/tarequr) - Stars 0 / Forks 0.
 - [tarikmanoar](https://github.com/tarikmanoar/tarikmanoar) - Stars 8 / Forks 10.
 - [tarikulnayem94](https://github.com/tarikulnayem94/tarikulnayem94) - Stars 0 / Forks 0.
