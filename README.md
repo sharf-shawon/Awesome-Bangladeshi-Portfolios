@@ -1258,7 +1258,7 @@
 - [mhasan09](https://github.com/mhasan09/mhasan09) - Stars 0 / Forks 0.
 - [mhasanmeet](https://github.com/mhasanmeet/mhasanmeet) - Stars 1 / Forks 0.
 - [MHFerdous](https://github.com/MHFerdous/MHFerdous) - Stars 0 / Forks 0.
-- [mhhridoy7907](https://github.com/mhhridoy7907/mhhridoy7907) - Stars 8 / Forks 0.
+- [mhhridoy7907](https://github.com/mhhridoy7907/mhhridoy7907) - Stars 9 / Forks 0.
 - [mhimon](https://github.com/mhimon/mhimon) - Stars 1 / Forks 0.
 - [mhistiak3](https://github.com/mhistiak3/mhistiak3) - Stars 1 / Forks 0.
 - [mhmasum0](https://github.com/mhmasum0/mhmasum0) - Stars 0 / Forks 0.
@@ -2040,7 +2040,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 58 / Forks 75.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 60 / Forks 75.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
