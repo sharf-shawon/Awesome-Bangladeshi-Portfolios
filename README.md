@@ -492,7 +492,7 @@
 - [developernaimul](https://github.com/developernaimul/developernaimul) - Stars 9 / Forks 3.
 - [DeveloperOmarFaruk](https://github.com/DeveloperOmarFaruk/DeveloperOmarFaruk) - Stars 2 / Forks 0.
 - [DeveloperSourov](https://github.com/DeveloperSourov/DeveloperSourov) - Stars 0 / Forks 0.
-- [Deveripon](https://github.com/Deveripon/Deveripon) - Stars 0 / Forks 2.
+- [deveripon](https://github.com/deveripon/Deveripon) - Stars 0 / Forks 2.
 - [devhonufa](https://github.com/devhonufa/devhonufa) - Stars 0 / Forks 0.
 - [devkamalhossen](https://github.com/devkamalhossen/devkamalhossen) - Stars 0 / Forks 0.
 - [devlopersabbir](https://github.com/devlopersabbir/devlopersabbir) - Stars 5 / Forks 0.
@@ -623,7 +623,7 @@
 - [farukwebcode21](https://github.com/farukwebcode21/farukwebcode21) - Stars 0 / Forks 1.
 - [farzanapomy](https://github.com/farzanapomy/farzanapomy) - Stars 0 / Forks 0.
 - [Farzine](https://github.com/Farzine/Farzine) - Stars 2 / Forks 0.
-- [fatimakhatungit](https://github.com/fatimakhatungit/fatimakhatungit) - Stars 1 / Forks 2.
+- [fatimakhatungit](https://github.com/fatimakhatungit/fatimakhatungit) - Stars 1 / Forks 1.
 - [faysal0x1](https://github.com/faysal0x1/faysal0x1) - Stars 2 / Forks 1.
 - [faysalahamed45](https://github.com/faysalahamed45/faysalahamed45) - Stars 0 / Forks 0.
 - [faysalhaque](https://github.com/faysalhaque/faysalhaque) - Stars 0 / Forks 0.
@@ -793,7 +793,7 @@
 - [IamMohiul](https://github.com/IamMohiul/IamMohiul) - Stars 0 / Forks 0.
 - [iammuttaqi](https://github.com/iammuttaqi/iammuttaqi) - Stars 0 / Forks 0.
 - [iamrashed01](https://github.com/iamrashed01/iamrashed01) - Stars 0 / Forks 0.
-- [iamraufu](https://github.com/iamraufu/iamraufu) - Stars 8 / Forks 8.
+- [iamraufu](https://github.com/iamraufu/iamraufu) - Stars 8 / Forks 7.
 - [iamrokon](https://github.com/iamrokon/iamrokon) - Stars 0 / Forks 0.
 - [iamromandev](https://github.com/iamromandev/iamromandev) - Stars 0 / Forks 0.
 - [Iamsdt](https://github.com/Iamsdt/iamsdt) - Stars 0 / Forks 0.
@@ -969,7 +969,7 @@
 - [kamruzzaman-leeon](https://github.com/kamruzzaman-leeon/kamruzzaman-leeon) - Stars 0 / Forks 0.
 - [KamruzzamanAsif](https://github.com/KamruzzamanAsif/KamruzzamanAsif) - Stars 0 / Forks 0.
 - [kaneki666](https://github.com/kaneki666/kaneki666) - Stars 0 / Forks 0.
-- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 335 / Forks 21.
+- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 336 / Forks 21.
 - [kausarpial](https://github.com/kausarpial/kausarpial) - Stars 0 / Forks 0.
 - [kausaruddinahmedofficial](https://github.com/kausaruddinahmedofficial/kausaruddinahmedofficial) - Stars 0 / Forks 0.
 - [kawchar85](https://github.com/kawchar85/kawchar85) - Stars 0 / Forks 0.
@@ -1154,7 +1154,6 @@
 - [Md-Saifullah](https://github.com/Md-Saifullah/Md-Saifullah) - Stars 0 / Forks 0.
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam/md-sazzadul-islam) - Stars 13 / Forks 3.
 - [Md-Shams-Arefin](https://github.com/Md-Shams-Arefin/Md-Shams-Arefin) - Stars 0 / Forks 0.
-- [Md-Shanto-Sharker](https://github.com/Md-Shanto-Sharker/Md-Shanto-Sharker) - Stars 0 / Forks 0.
 - [Md-shefat-masum](https://github.com/Md-shefat-masum/Md-shefat-masum) - Stars 1 / Forks 3.
 - [md-siam](https://github.com/md-siam/md-siam) - Stars 5 / Forks 4.
 - [Md-Siam07](https://github.com/Md-Siam07/Md-Siam07) - Stars 1 / Forks 0.
@@ -1925,7 +1924,7 @@
 - [sajimpk](https://github.com/sajimpk/sajimpk) - Stars 0 / Forks 0.
 - [Sajjad-Mahmud-Suton](https://github.com/Sajjad-Mahmud-Suton/Sajjad-Mahmud-Suton) - Stars 0 / Forks 0.
 - [sajjadjim](https://github.com/sajjadjim/sajjadjim) - Stars 15 / Forks 0.
-- [sajjadrahman56](https://github.com/sajjadrahman56/sajjadrahman56) - Stars 1 / Forks 0.
+- [sajjadrahman56](https://github.com/sajjadrahman56/sajjadrahman56) - Stars 2 / Forks 0.
 - [sajjat43](https://github.com/sajjat43/sajjat43) - Stars 0 / Forks 0.
 - [sajjathossainbd](https://github.com/sajjathossainbd/sajjathossainbd) - Stars 0 / Forks 0.
 - [sakhawat-sifat](https://github.com/sakhawat-sifat/sakhawat-sifat) - Stars 0 / Forks 0.
@@ -2134,7 +2133,7 @@
 - [shourovr82](https://github.com/shourovr82/shourovr82) - Stars 1 / Forks 1.
 - [ShourovSaha](https://github.com/ShourovSaha/ShourovSaha) - Stars 0 / Forks 0.
 - [shouvick](https://github.com/shouvick/shouvick) - Stars 0 / Forks 0.
-- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 180 / Forks 39.
+- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 181 / Forks 39.
 - [shovonrahmanshuvo](https://github.com/shovonrahmanshuvo/shovonrahmanshuvo) - Stars 1 / Forks 0.
 - [showrov4g](https://github.com/showrov4g/showrov4g) - Stars 2 / Forks 0.
 - [shreshthajit](https://github.com/shreshthajit/shreshthajit) - Stars 1 / Forks 0.
