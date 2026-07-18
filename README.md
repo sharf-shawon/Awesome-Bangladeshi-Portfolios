@@ -1770,6 +1770,7 @@
 - [riponahmed2201](https://github.com/riponahmed2201/riponahmed2201) - Stars 0 / Forks 1.
 - [risul3](https://github.com/risul3/risul3) - Stars 0 / Forks 0.
 - [risuvoo](https://github.com/risuvoo/risuvoo) - Stars 3 / Forks 1.
+- [ritishsingha999](https://github.com/ritishsingha999/ritishsingha999) - Stars 0 / Forks 0.
 - [RiyaadHossain](https://github.com/RiyaadHossain/RiyaadHossain) - Stars 0 / Forks 3.
 - [riyaddecoder](https://github.com/riyaddecoder/riyaddecoder) - Stars 0 / Forks 0.
 - [riyadhossain565](https://github.com/riyadhossain565/riyadhossain565) - Stars 0 / Forks 0.
@@ -1804,7 +1805,7 @@
 - [ROX-AAM](https://github.com/ROX-AAM/ROX-AAM) - Stars 0 / Forks 0.
 - [Roxy-Sarkar](https://github.com/Roxy-Sarkar/Roxy-Sarkar) - Stars 0 / Forks 0.
 - [rpsohag](https://github.com/rpsohag/rpsohag) - Stars 0 / Forks 0.
-- [rr-uchchash360](https://github.com/rr-uchchash360/rr-uchchash360) - Stars 0 / Forks 0.
+- [rr-uchchash360](https://github.com/rr-uchchash360/rr-uchchash360) - Stars 1 / Forks 0.
 - [RR0327](https://github.com/RR0327/RR0327) - Stars 0 / Forks 0.
 - [RRakib](https://github.com/RRakib/RRakib) - Stars 0 / Forks 0.
 - [rsakib15](https://github.com/rsakib15/rsakib15) - Stars 1 / Forks 0.
