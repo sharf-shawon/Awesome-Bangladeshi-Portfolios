@@ -1011,7 +1011,7 @@
 - [KMNaim](https://github.com/KMNaim/KMNaim) - Stars 0 / Forks 0.
 - [kmrajibfaysal](https://github.com/kmrajibfaysal/kmrajibfaysal) - Stars 1 / Forks 0.
 - [kmshariat](https://github.com/kmshariat/kmshariat) - Stars 1 / Forks 0.
-- [KnockOutEZ](https://github.com/KnockOutEZ/KnockOutEZ) - Stars 0 / Forks 0.
+- [KnockOutEZ](https://github.com/KnockOutEZ/KnockOutEZ) - Stars 1 / Forks 0.
 - [kobirul5](https://github.com/kobirul5/kobirul5) - Stars 0 / Forks 0.
 - [kopildas](https://github.com/kopildas/kopildas) - Stars 0 / Forks 0.
 - [kousar2334](https://github.com/kousar2334/kousar2334) - Stars 0 / Forks 0.
@@ -1801,6 +1801,7 @@
 - [roniahamed](https://github.com/roniahamed/roniahamed) - Stars 1 / Forks 2.
 - [Rony58](https://github.com/Rony58/Rony58) - Stars 2 / Forks 0.
 - [ronytarafder99](https://github.com/ronytarafder99/ronytarafder99) - Stars 0 / Forks 0.
+- [RoushanKhalid](https://github.com/RoushanKhalid/RoushanKhalid) - Stars 0 / Forks 0.
 - [rousnay](https://github.com/rousnay/rousnay) - Stars 0 / Forks 0.
 - [rownakabdullahomi](https://github.com/rownakabdullahomi/rownakabdullahomi) - Stars 0 / Forks 0.
 - [rownok420](https://github.com/rownok420/rownok420) - Stars 0 / Forks 0.
@@ -2188,6 +2189,7 @@
 - [smahfuz](https://github.com/smahfuz/smahfuz) - Stars 0 / Forks 0.
 - [SmanSayeed](https://github.com/SmanSayeed/SmanSayeed) - Stars 0 / Forks 0.
 - [smdnayem](https://github.com/smdnayem/smdnayem) - Stars 0 / Forks 0.
+- [smfabrar](https://github.com/smfabrar/syedfahimabrar.github.io) - Stars 0 / Forks 0.
 - [smhimran](https://github.com/smhimran/smhimran) - Stars 0 / Forks 0.
 - [smile995](https://github.com/smile995/smile995) - Stars 0 / Forks 0.
 - [smmizan](https://github.com/smmizan/smmizan) - Stars 0 / Forks 0.
@@ -2269,7 +2271,6 @@
 - [suzitsarkar27](https://github.com/suzitsarkar27/suzitsarkar27) - Stars 1 / Forks 0.
 - [swadhinbiswas](https://github.com/swadhinbiswas/swadhinbiswas) - Stars 27 / Forks 11.
 - [swimshahriar](https://github.com/swimshahriar/swimshahriar) - Stars 1 / Forks 0.
-- [syedfahimabrar](https://github.com/syedfahimabrar/syedfahimabrar.github.io) - Stars 0 / Forks 0.
 - [SyedHasibRahman](https://github.com/SyedHasibRahman/SyedHasibRahman) - Stars 1 / Forks 0.
 - [syedmahedi](https://github.com/syedmahedi/syedmahedi) - Stars 0 / Forks 0.
 - [syedsohanahmed](https://github.com/syedsohanahmed/syedsohanahmed) - Stars 0 / Forks 0.
