@@ -983,7 +983,7 @@
 - [KAZI-SAMIR](https://github.com/KAZI-SAMIR/KAZI-SAMIR) - Stars 0 / Forks 0.
 - [kazi031](https://github.com/kazi031/kazi031) - Stars 0 / Forks 0.
 - [kazi331](https://github.com/kazi331/kazi331) - Stars 0 / Forks 0.
-- [KaziMahbuburRahman](https://github.com/KaziMahbuburRahman/KaziMahbuburRahman) - Stars 3 / Forks 54.
+- [KaziMahbuburRahman](https://github.com/KaziMahbuburRahman/KaziMahbuburRahman) - Stars 3 / Forks 53.
 - [kazimdsaidul](https://github.com/kazimdsaidul/kazimdsaidul) - Stars 0 / Forks 0.
 - [KaziRifatMorshed](https://github.com/KaziRifatMorshed/KaziRifatMorshed) - Stars 0 / Forks 0.
 - [kazirobin](https://github.com/kazirobin/Kazirobin) - Stars 3 / Forks 1.
@@ -1244,7 +1244,7 @@
 - [MehediMubin](https://github.com/MehediMubin/MehediMubin) - Stars 1 / Forks 0.
 - [mehedimugdho72](https://github.com/mehedimugdho72/mehedimugdho72) - Stars 1 / Forks 0.
 - [mehedisarkar2k](https://github.com/mehedisarkar2k/mehedisarkar2k) - Stars 0 / Forks 1.
-- [mehedishakeel](https://github.com/mehedishakeel/mehedishakeel) - Stars 23 / Forks 8.
+- [mehedishakeel](https://github.com/mehedishakeel/mehedishakeel) - Stars 22 / Forks 8.
 - [mehedishubho](https://github.com/mehedishubho/mehedishubho) - Stars 0 / Forks 0.
 - [mehediworld](https://github.com/mehediworld/mehediworld) - Stars 0 / Forks 0.
 - [mehhed](https://github.com/mehhed/mehhed) - Stars 0 / Forks 0.
