@@ -971,6 +971,7 @@
 - [kamruzzaman-leeon](https://github.com/kamruzzaman-leeon/kamruzzaman-leeon) - Stars 0 / Forks 0.
 - [KamruzzamanAsif](https://github.com/KamruzzamanAsif/KamruzzamanAsif) - Stars 0 / Forks 0.
 - [kaneki666](https://github.com/kaneki666/kaneki666) - Stars 0 / Forks 0.
+- [Karnis052](https://github.com/Karnis052/Karnis052) - Stars 0 / Forks 0.
 - [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 336 / Forks 21.
 - [kausarpial](https://github.com/kausarpial/kausarpial) - Stars 0 / Forks 0.
 - [kausaruddinahmedofficial](https://github.com/kausaruddinahmedofficial/kausaruddinahmedofficial) - Stars 0 / Forks 0.
@@ -1452,7 +1453,7 @@
 - [nafiul-afk](https://github.com/nafiul-afk/nafiul-afk) - Stars 26 / Forks 2.
 - [nafiulhaqueinan](https://github.com/nafiulhaqueinan/nafiulhaqueinan) - Stars 5 / Forks 1.
 - [nahian91](https://github.com/nahian91/nahian91) - Stars 0 / Forks 0.
-- [nahid](https://github.com/nahid/nahid) - Stars 1 / Forks 9.
+- [nahid](https://github.com/nahid/nahid) - Stars 1 / Forks 8.
 - [NahidAhmed07](https://github.com/NahidAhmed07/NahidAhmed07) - Stars 1 / Forks 0.
 - [NahidAhmed47](https://github.com/NahidAhmed47/NahidAhmed47) - Stars 1 / Forks 0.
 - [nahidh232](https://github.com/nahidh232/nahidh232) - Stars 1 / Forks 0.
@@ -2111,7 +2112,7 @@
 - [shihab-2021](https://github.com/shihab-2021/shihab-2021) - Stars 0 / Forks 0.
 - [Shihab066](https://github.com/Shihab066/Shihab066) - Stars 0 / Forks 0.
 - [shihabsararrafid](https://github.com/shihabsararrafid/shihabsararrafid) - Stars 0 / Forks 0.
-- [shihabuddin-dev](https://github.com/shihabuddin-dev/shihabuddin-dev) - Stars 7 / Forks 0.
+- [shihabuddin-dev](https://github.com/shihabuddin-dev/shihabuddin-dev) - Stars 6 / Forks 0.
 - [Shiham123](https://github.com/Shiham123/shiham123) - Stars 0 / Forks 0.
 - [Shimanto9sqr](https://github.com/Shimanto9sqr/Shimanto9sqr) - Stars 0 / Forks 0.
 - [ShimulChandraDas](https://github.com/ShimulChandraDas/ShimulChandraDas) - Stars 0 / Forks 0.
