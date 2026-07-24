@@ -300,7 +300,7 @@
 - [ashabuddin](https://github.com/ashabuddin/ashabuddin) - Stars 0 / Forks 0.
 - [AshFahim](https://github.com/AshFahim/AshFahim) - Stars 1 / Forks 0.
 - [ashfaqshuvo007](https://github.com/ashfaqshuvo007/ashfaqshuvo007) - Stars 0 / Forks 0.
-- [Ashfinn](https://github.com/Ashfinn/Ashfinn) - Stars 10 / Forks 0.
+- [Ashfinn](https://github.com/Ashfinn/Ashfinn) - Stars 9 / Forks 0.
 - [ashik4715](https://github.com/ashik4715/ashik4715) - Stars 1 / Forks 0.
 - [ashikbhuyan17](https://github.com/ashikbhuyan17/ashikbhuyan17) - Stars 2 / Forks 0.
 - [ashikmhs](https://github.com/ashikmhs/ashikmhs) - Stars 0 / Forks 0.
@@ -2527,7 +2527,7 @@
 - [zeon-X](https://github.com/zeon-X/zeon-X) - Stars 0 / Forks 0.
 - [zhalok](https://github.com/zhalok/zhalok) - Stars 0 / Forks 0.
 - [zihaddi](https://github.com/zihaddi/zihaddi) - Stars 0 / Forks 0.
-- [Zinuk-webDev-BD](https://github.com/Zinuk-webDev-BD/Zinuk-webDev-BD) - Stars 3 / Forks 0.
+- [Zinuk-webDev-BD](https://github.com/Zinuk-webDev-BD/Zinuk-webDev-BD) - Stars 4 / Forks 1.
 - [zisanmridha](https://github.com/zisanmridha/zisanmridha) - Stars 0 / Forks 0.
 - [zobaer-ahmed-zihad](https://github.com/zobaer-ahmed-zihad/zobaer-ahmed-zihad) - Stars 0 / Forks 0.
 - [ZOMBIE-3301](https://github.com/ZOMBIE-3301/ZOMBIE-3301) - Stars 0 / Forks 0.
