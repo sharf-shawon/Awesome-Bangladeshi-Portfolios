@@ -16884,6 +16884,33 @@
     "total_stars": 3
   },
   {
+    "username": "hridoy43",
+    "repoName": "hridoy43",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/hridoy43/hridoy43",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/u/7544925?v=4",
+    "profile_url": "https://github.com/hridoy43",
+    "website_url": null,
+    "top_language": "JavaScript",
+    "all_languages": [
+      "JavaScript",
+      "Blade",
+      "Arduino",
+      "TypeScript"
+    ],
+    "topics": [
+      "nextjs",
+      "antdesign",
+      "less",
+      "scss",
+      "css"
+    ],
+    "total_stars": 53
+  },
+  {
     "username": "HridoyHazard",
     "repoName": "HridoyHazard",
     "description": null,
@@ -21505,7 +21532,7 @@
     "username": "KasRoudra",
     "repoName": "KasRoudra",
     "description": "My awesome Readme.md",
-    "stars": 336,
+    "stars": 337,
     "forks": 21,
     "repoUrl": "https://github.com/KasRoudra/KasRoudra",
     "websiteUrl": null,
