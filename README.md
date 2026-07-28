@@ -1047,7 +1047,7 @@
 - [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 5 / Forks 1.
 - [MAAB-FW](https://github.com/MAAB-FW/MAAB-FW) - Stars 1 / Forks 0.
 - [maacpiash](https://github.com/maacpiash/maacpiash) - Stars 1 / Forks 0.
-- [madsdev404](https://github.com/madsdev404/madsdev404) - Stars 0 / Forks 0.
+- [madsdev404](https://github.com/madsdev404/madsdev404) - Stars 1 / Forks 0.
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon/MafujulHaquePlabon) - Stars 4 / Forks 0.
 - [mah-moh](https://github.com/mah-moh/mah-moh) - Stars 0 / Forks 0.
 - [mah3uz](https://github.com/mah3uz/mah3uz) - Stars 0 / Forks 0.
@@ -1828,6 +1828,7 @@
 - [ruhulaminn1316](https://github.com/ruhulaminn1316/ruhulaminn1316) - Stars 0 / Forks 0.
 - [Ruhulcse](https://github.com/Ruhulcse/Ruhulcse) - Stars 0 / Forks 1.
 - [Ruman-Hossain](https://github.com/Ruman-Hossain/Ruman-Hossain) - Stars 0 / Forks 1.
+- [rumman999](https://github.com/rumman999/rumman999) - Stars 0 / Forks 0.
 - [rumy14](https://github.com/rumy14/rumy14) - Stars 0 / Forks 0.
 - [rupomsoft](https://github.com/rupomsoft/rupomsoft) - Stars 3 / Forks 6.
 - [rusulazomsumon](https://github.com/rusulazomsumon/rusulazomsumon) - Stars 0 / Forks 0.
