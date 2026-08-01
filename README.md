@@ -931,7 +931,7 @@
 - [jhimi01](https://github.com/jhimi01/jhimi01) - Stars 0 / Forks 0.
 - [JHM69](https://github.com/JHM69/JHM69) - Stars 4 / Forks 2.
 - [jinnatul](https://github.com/jinnatul/jinnatul) - Stars 2 / Forks 0.
-- [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 15 / Forks 5.
+- [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 16 / Forks 5.
 - [Jisan-mia](https://github.com/Jisan-mia/Jisan-mia) - Stars 6 / Forks 3.
 - [jisanahamed09205](https://github.com/jisanahamed09205/jisanahamed09205) - Stars 0 / Forks 0.
 - [jmrashed](https://github.com/jmrashed/jmrashed) - Stars 0 / Forks 0.
@@ -1326,6 +1326,7 @@
 - [mominul](https://github.com/mominul/mominul) - Stars 0 / Forks 0.
 - [mominulislam14](https://github.com/mominulislam14/mominulislam14) - Stars 2 / Forks 0.
 - [monibBormon](https://github.com/monibBormon/monibbormon) - Stars 0 / Forks 0.
+- [monir07](https://github.com/monir07/monir07) - Stars 0 / Forks 0.
 - [monir6163](https://github.com/monir6163/monir6163) - Stars 0 / Forks 0.
 - [monirakandha](https://github.com/monirakandha/monirakandha) - Stars 0 / Forks 0.
 - [monirHRaju](https://github.com/monirHRaju/monirHRaju) - Stars 0 / Forks 0.
@@ -1529,7 +1530,7 @@
 - [Nibir97](https://github.com/Nibir97/Nibir97) - Stars 0 / Forks 0.
 - [nickgermaine](https://github.com/nickgermaine/nickgermaine) - Stars 0 / Forks 0.
 - [NieamulKabir](https://github.com/NieamulKabir/nieamulkabir) - Stars 1 / Forks 0.
-- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 15 / Forks 6.
+- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 16 / Forks 6.
 - [niloy1hasan](https://github.com/niloy1hasan/niloy1hasan) - Stars 0 / Forks 0.
 - [nirrjhorr](https://github.com/nirrjhorr/nirrjhorr) - Stars 0 / Forks 0.
 - [nirvik-alpha](https://github.com/nirvik-alpha/nirvik-alpha) - Stars 0 / Forks 0.
