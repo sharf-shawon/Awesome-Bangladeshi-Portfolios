@@ -280,7 +280,7 @@
 - [arman-arif](https://github.com/arman-arif/arman-arif) - Stars 1 / Forks 0.
 - [arman-miaa](https://github.com/arman-miaa/arman-miaa) - Stars 0 / Forks 2.
 - [Armanbabu12](https://github.com/Armanbabu12/Armanbabu12) - Stars 0 / Forks 0.
-- [armanhossen-dev](https://github.com/armanhossen-dev/armanhossen-dev) - Stars 0 / Forks 1.
+- [armanhossen-dev](https://github.com/armanhossen-dev/armanhossen-dev) - Stars 1 / Forks 1.
 - [armanmahmud28](https://github.com/armanmahmud28/armanmahmud28) - Stars 0 / Forks 0.
 - [armmoon4](https://github.com/armmoon4/armmoon4) - Stars 0 / Forks 0.
 - [arn-ob](https://github.com/arn-ob/arn-ob) - Stars 1 / Forks 0.
@@ -1045,7 +1045,7 @@
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
 - [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 15 / Forks 3.
 - [m0h4mm4d-h053n](https://github.com/m0h4mm4d-h053n/m0h4mm4d-h053n) - Stars 0 / Forks 0.
-- [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 5 / Forks 1.
+- [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 6 / Forks 1.
 - [MAAB-FW](https://github.com/MAAB-FW/MAAB-FW) - Stars 1 / Forks 0.
 - [maacpiash](https://github.com/maacpiash/maacpiash) - Stars 1 / Forks 0.
 - [madsdev404](https://github.com/madsdev404/madsdev404) - Stars 1 / Forks 0.
@@ -1152,7 +1152,7 @@
 - [Md-Firoz-Mahmud-Nur](https://github.com/Md-Firoz-Mahmud-Nur/Md-Firoz-Mahmud-Nur) - Stars 0 / Forks 0.
 - [md-kawsar-ali](https://github.com/md-kawsar-ali/md-kawsar-ali) - Stars 0 / Forks 0.
 - [Md-Merazul-Islam](https://github.com/Md-Merazul-Islam/Md-Merazul-Islam) - Stars 0 / Forks 0.
-- [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 3 / Forks 0.
+- [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 4 / Forks 0.
 - [md-nasim-mondal](https://github.com/md-nasim-mondal/md-nasim-mondal) - Stars 0 / Forks 0.
 - [Md-Rashedul-Islam-Rajib](https://github.com/Md-Rashedul-Islam-Rajib/Md-Rashedul-Islam-Rajib) - Stars 0 / Forks 0.
 - [Md-Rifat-Islam](https://github.com/Md-Rifat-Islam/Md-Rifat-Islam) - Stars 0 / Forks 0.
@@ -1511,7 +1511,7 @@
 - [nazmulnahid-git](https://github.com/nazmulnahid-git/nazmulnahid-git) - Stars 1 / Forks 0.
 - [nazmulwanted](https://github.com/nazmulwanted/nazmulwanted) - Stars 0 / Forks 0.
 - [nazmulweb](https://github.com/nazmulweb/nazmulweb) - Stars 1 / Forks 0.
-- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 34 / Forks 11.
+- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 35 / Forks 11.
 - [Nazrulislam45](https://github.com/Nazrulislam45/Nazrulislam45) - Stars 0 / Forks 0.
 - [NazShakib](https://github.com/NazShakib/NazShakib) - Stars 0 / Forks 0.
 - [nbakh16](https://github.com/nbakh16/nbakh16) - Stars 1 / Forks 1.
