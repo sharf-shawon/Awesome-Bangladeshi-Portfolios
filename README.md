@@ -48,7 +48,7 @@
 - [Abdullah-Al-Mahmud777](https://github.com/Abdullah-Al-Mahmud777/Abdullah-Al-Mahmud777) - Stars 0 / Forks 0.
 - [Abdullah-Kafi](https://github.com/Abdullah-Kafi/Abdullah-Kafi) - Stars 0 / Forks 0.
 - [Abdullah-Nasir-Chowdhury](https://github.com/Abdullah-Nasir-Chowdhury/Abdullah-Nasir-Chowdhury) - Stars 0 / Forks 0.
-- [AbdullahAlMaksud](https://github.com/AbdullahAlMaksud/AbdullahAlMaksud) - Stars 1 / Forks 0.
+- [AbdullahAlMaksud](https://github.com/AbdullahAlMaksud/AbdullahAlMaksud) - Stars 0 / Forks 0.
 - [abdullahalmasudpersonal](https://github.com/abdullahalmasudpersonal/abdullahalmasudpersonal) - Stars 1 / Forks 0.
 - [AbdullahAlShaad](https://github.com/AbdullahAlShaad/AbdullahAlShaad) - Stars 1 / Forks 0.
 - [Abdullahfoysal](https://github.com/Abdullahfoysal/Abdullahfoysal) - Stars 0 / Forks 0.
@@ -187,7 +187,7 @@
 - [Alvi-C](https://github.com/Alvi-C/Alvi-C) - Stars 0 / Forks 0.
 - [amabirbd](https://github.com/amabirbd/amabirbd) - Stars 0 / Forks 0.
 - [AmanUllah-Coder](https://github.com/AmanUllah-Coder/AmanUllah-Coder) - Stars 0 / Forks 0.
-- [amdadislam01](https://github.com/amdadislam01/amdadislam01) - Stars 11 / Forks 4.
+- [amdadislam01](https://github.com/amdadislam01/amdadislam01) - Stars 12 / Forks 4.
 - [Amin-Hossain](https://github.com/Amin-Hossain/Amin-Hossain) - Stars 3 / Forks 0.
 - [amin5560](https://github.com/amin5560/amin5560) - Stars 0 / Forks 0.
 - [AminulBD](https://github.com/AminulBD/AminulBD) - Stars 0 / Forks 0.
@@ -1454,7 +1454,7 @@
 - [NafisianCastle](https://github.com/NafisianCastle/NafisianCastle) - Stars 0 / Forks 0.
 - [NafisNoorNabil](https://github.com/NafisNoorNabil/NafisNoorNabil) - Stars 0 / Forks 0.
 - [NafisUddinElok](https://github.com/NafisUddinElok/NafisUddinElok) - Stars 0 / Forks 0.
-- [nafiul-afk](https://github.com/nafiul-afk/nafiul-afk) - Stars 25 / Forks 2.
+- [nafiul-afk](https://github.com/nafiul-afk/nafiul-afk) - Stars 24 / Forks 2.
 - [nafiulhaqueinan](https://github.com/nafiulhaqueinan/nafiulhaqueinan) - Stars 5 / Forks 1.
 - [nahian91](https://github.com/nahian91/nahian91) - Stars 0 / Forks 0.
 - [nahid](https://github.com/nahid/nahid) - Stars 1 / Forks 8.
@@ -1511,7 +1511,7 @@
 - [nazmulnahid-git](https://github.com/nazmulnahid-git/nazmulnahid-git) - Stars 1 / Forks 0.
 - [nazmulwanted](https://github.com/nazmulwanted/nazmulwanted) - Stars 0 / Forks 0.
 - [nazmulweb](https://github.com/nazmulweb/nazmulweb) - Stars 1 / Forks 0.
-- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 35 / Forks 11.
+- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 36 / Forks 11.
 - [Nazrulislam45](https://github.com/Nazrulislam45/Nazrulislam45) - Stars 0 / Forks 0.
 - [NazShakib](https://github.com/NazShakib/NazShakib) - Stars 0 / Forks 0.
 - [nbakh16](https://github.com/nbakh16/nbakh16) - Stars 1 / Forks 1.
