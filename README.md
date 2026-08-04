@@ -1431,7 +1431,7 @@
 - [mutalibcs](https://github.com/mutalibcs/mutalibcs) - Stars 3 / Forks 2.
 - [mutarek](https://github.com/mutarek/mutarek) - Stars 1 / Forks 1.
 - [MutasimMalik](https://github.com/MutasimMalik/MutasimMalik) - Stars 0 / Forks 0.
-- [MuttakinHasib](https://github.com/MuttakinHasib/MuttakinHasib) - Stars 5 / Forks 4.
+- [MuttakinHasib](https://github.com/MuttakinHasib/MuttakinHasib) - Stars 6 / Forks 4.
 - [muzahid120](https://github.com/muzahid120/muzahid120) - Stars 1 / Forks 0.
 - [mynul-islam-madhurjo](https://github.com/mynul-islam-madhurjo/mynul-islam-madhurjo) - Stars 0 / Forks 0.
 - [Mynul436](https://github.com/Mynul436/Mynul436) - Stars 0 / Forks 0.
@@ -2049,7 +2049,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 59 / Forks 76.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 60 / Forks 76.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
