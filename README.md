@@ -961,7 +961,6 @@
 - [junaidkhan1723](https://github.com/junaidkhan1723/junaidkhan1723) - Stars 1 / Forks 0.
 - [junaidzamaahmed](https://github.com/junaidzamaahmed/junaidzamaahmed) - Stars 0 / Forks 0.
 - [junkcodes](https://github.com/junkcodes/junkcodes) - Stars 0 / Forks 0.
-- [justnadir](https://github.com/justnadir/ohnadir) - Stars 0 / Forks 0.
 - [Juwel-771](https://github.com/Juwel-771/Juwel-771) - Stars 0 / Forks 0.
 - [k4mrul](https://github.com/k4mrul/k4mrul) - Stars 0 / Forks 0.
 - [Kabbo-Positive](https://github.com/Kabbo-Positive/Kabbo-Positive) - Stars 0 / Forks 0.
@@ -1379,6 +1378,7 @@
 - [mrmarufpro](https://github.com/mrmarufpro/mrmarufpro) - Stars 0 / Forks 3.
 - [mrmezan06](https://github.com/mrmezan06/mrmezan06) - Stars 5 / Forks 2.
 - [mrmusa24](https://github.com/mrmusa24/mrmusa24) - Stars 1 / Forks 0.
+- [mrnadir](https://github.com/mrnadir/ohnadir) - Stars 0 / Forks 0.
 - [mrpmohiburrahman](https://github.com/mrpmohiburrahman/mrpmohiburrahman) - Stars 0 / Forks 0.
 - [mrseeker53](https://github.com/mrseeker53/mrseeker53) - Stars 0 / Forks 0.
 - [mrx-arafat](https://github.com/mrx-arafat/mrx-arafat) - Stars 1 / Forks 0.
@@ -1431,7 +1431,7 @@
 - [mutalibcs](https://github.com/mutalibcs/mutalibcs) - Stars 3 / Forks 2.
 - [mutarek](https://github.com/mutarek/mutarek) - Stars 1 / Forks 1.
 - [MutasimMalik](https://github.com/MutasimMalik/MutasimMalik) - Stars 0 / Forks 0.
-- [MuttakinHasib](https://github.com/MuttakinHasib/MuttakinHasib) - Stars 6 / Forks 4.
+- [MuttakinHasib](https://github.com/MuttakinHasib/MuttakinHasib) - Stars 5 / Forks 4.
 - [muzahid120](https://github.com/muzahid120/muzahid120) - Stars 1 / Forks 0.
 - [mynul-islam-madhurjo](https://github.com/mynul-islam-madhurjo/mynul-islam-madhurjo) - Stars 0 / Forks 0.
 - [Mynul436](https://github.com/Mynul436/Mynul436) - Stars 0 / Forks 0.
