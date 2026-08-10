@@ -1215,7 +1215,7 @@
 - [MDSAZZADSIDDIQUE](https://github.com/MDSAZZADSIDDIQUE/MDSAZZADSIDDIQUE) - Stars 0 / Forks 0.
 - [mdsharifremon](https://github.com/mdsharifremon/mdsharifremon) - Stars 0 / Forks 0.
 - [mdsharuk](https://github.com/mdsharuk/mdsharuk) - Stars 0 / Forks 0.
-- [MdShawonForazi](https://github.com/MdShawonForazi/MdShawonForazi) - Stars 31 / Forks 4.
+- [MdShawonForazi](https://github.com/MdShawonForazi/MdShawonForazi) - Stars 30 / Forks 4.
 - [MdShimulMahmud](https://github.com/MdShimulMahmud/MdShimulMahmud) - Stars 0 / Forks 0.
 - [mdsohaghasan](https://github.com/mdsohaghasan/Profile) - Stars 1 / Forks 0.
 - [Mdsujansarkar](https://github.com/Mdsujansarkar/MdsujansaRKAR) - Stars 0 / Forks 0.
@@ -1390,7 +1390,7 @@
 - [MSHLIKHON](https://github.com/MSHLIKHON/MSHLIKHON) - Stars 0 / Forks 0.
 - [msiyem](https://github.com/msiyem/msiyem) - Stars 0 / Forks 0.
 - [msrumon](https://github.com/msrumon/msrumon) - Stars 0 / Forks 0.
-- [MTE1991](https://github.com/MTE1991/MTE1991) - Stars 2 / Forks 0.
+- [MTE1991](https://github.com/MTE1991/MTE1991) - Stars 1 / Forks 0.
 - [mubinakib5](https://github.com/mubinakib5/mubinakib5) - Stars 0 / Forks 0.
 - [mubtasim-fuad](https://github.com/mubtasim-fuad/mubtasim-fuad) - Stars 0 / Forks 0.
 - [mubtasimfuad7](https://github.com/mubtasimfuad7/mubtasimfuad7) - Stars 0 / Forks 0.
@@ -1399,7 +1399,7 @@
 - [muhammadbadrul1234](https://github.com/muhammadbadrul1234/muhammadbadrul1234) - Stars 4 / Forks 1.
 - [Muhammed-Nayeem](https://github.com/Muhammed-Nayeem/Muhammed-Nayeem) - Stars 0 / Forks 0.
 - [muhantor](https://github.com/muhantor/muhantor) - Stars 0 / Forks 0.
-- [MUHIB-143](https://github.com/MUHIB-143/MAHADI-143) - Stars 57 / Forks 10.
+- [MUHIB-143](https://github.com/MUHIB-143/MUHIB-143) - Stars 57 / Forks 10.
 - [Muhimen123](https://github.com/Muhimen123/Muhimen123) - Stars 2 / Forks 0.
 - [MuhiminOsim](https://github.com/MuhiminOsim/MuhiminOsim) - Stars 0 / Forks 0.
 - [muj-i](https://github.com/muj-i/muj-i) - Stars 0 / Forks 0.
