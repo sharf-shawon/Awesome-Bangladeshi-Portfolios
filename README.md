@@ -509,7 +509,6 @@
 - [devShamim](https://github.com/devShamim/devShamim) - Stars 1 / Forks 1.
 - [devTanzu](https://github.com/devTanzu/devTanzu) - Stars 0 / Forks 0.
 - [devzkhalil](https://github.com/devzkhalil/devzkhalil) - Stars 0 / Forks 0.
-- [dewshishir](https://github.com/dewshishir/dewshishir) - Stars 0 / Forks 0.
 - [dgferdous98](https://github.com/dgferdous98/dgferdous98) - Stars 0 / Forks 0.
 - [DhimanTarafdar](https://github.com/DhimanTarafdar/DhimanTarafdar) - Stars 0 / Forks 0.
 - [dhruboarif](https://github.com/dhruboarif/dhruboarif) - Stars 0 / Forks 0.
@@ -1335,6 +1334,7 @@
 - [monjurul0007](https://github.com/monjurul0007/monjurul0007) - Stars 0 / Forks 0.
 - [monjurulhaque64](https://github.com/monjurulhaque64/monjurulhaque64) - Stars 0 / Forks 0.
 - [monosshi](https://github.com/monosshi/monosshi) - Stars 0 / Forks 0.
+- [monowarcs](https://github.com/monowarcs/monowarcs) - Stars 0 / Forks 0.
 - [monwarqx1250](https://github.com/monwarqx1250/monwarqx1250) - Stars 0 / Forks 0.
 - [MonzurMorshed](https://github.com/MonzurMorshed/MonzurMorshed) - Stars 0 / Forks 0.
 - [moontasirabtahee](https://github.com/moontasirabtahee/moontasirabtahee) - Stars 0 / Forks 0.
@@ -1510,7 +1510,7 @@
 - [nazmul11011](https://github.com/nazmul11011/nazmul11011) - Stars 0 / Forks 0.
 - [NazmulAlamShawon](https://github.com/NazmulAlamShawon/NazmulAlamShawon) - Stars 0 / Forks 0.
 - [NazmulhaqueD](https://github.com/NazmulhaqueD/NazmulhaqueD) - Stars 0 / Forks 0.
-- [nazmulnahid-git](https://github.com/nazmulnahid-git/nazmulnahid-git) - Stars 1 / Forks 0.
+- [nazmulnahid-git](https://github.com/nazmulnahid-git/nazmulnahid-git) - Stars 0 / Forks 0.
 - [nazmulwanted](https://github.com/nazmulwanted/nazmulwanted) - Stars 0 / Forks 0.
 - [nazmulweb](https://github.com/nazmulweb/nazmulweb) - Stars 1 / Forks 0.
 - [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 36 / Forks 11.
@@ -2322,7 +2322,7 @@
 - [tamim36](https://github.com/tamim36/tamim36) - Stars 0 / Forks 0.
 - [Tamim365](https://github.com/Tamim365/Tamim365) - Stars 0 / Forks 0.
 - [Tamim95](https://github.com/Tamim95/Tamim95) - Stars 0 / Forks 0.
-- [TamimEhsan](https://github.com/TamimEhsan/TamimEhsan) - Stars 17 / Forks 9.
+- [TamimEhsan](https://github.com/TamimEhsan/TamimEhsan) - Stars 18 / Forks 9.
 - [TamimHossain031](https://github.com/TamimHossain031/TamimHossain031) - Stars 0 / Forks 0.
 - [tamzidazam](https://github.com/tamzidazam/tamzidazam) - Stars 1 / Forks 0.
 - [Tanbin001](https://github.com/Tanbin001/Tanbin001) - Stars 0 / Forks 0.
