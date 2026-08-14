@@ -446,7 +446,7 @@
 - [coderDaiyan](https://github.com/coderDaiyan/coderDaiyan) - Stars 2 / Forks 5.
 - [coderkhalide](https://github.com/coderkhalide/coderkhalide) - Stars 2 / Forks 10.
 - [codermahadi](https://github.com/codermahadi/codermahadi) - Stars 0 / Forks 0.
-- [codernayeem](https://github.com/codernayeem/codernayeem) - Stars 0 / Forks 0.
+- [codernayeem](https://github.com/codernayeem/codernayeem) - Stars 0 / Forks 1.
 - [coderpick](https://github.com/coderpick/coderpick) - Stars 2 / Forks 0.
 - [codersaiful](https://github.com/codersaiful/codersaiful) - Stars 3 / Forks 1.
 - [codewithashim](https://github.com/codewithashim/codewithashim) - Stars 3 / Forks 7.
@@ -975,7 +975,7 @@
 - [KamruzzamanAsif](https://github.com/KamruzzamanAsif/KamruzzamanAsif) - Stars 0 / Forks 0.
 - [kaneki666](https://github.com/kaneki666/kaneki666) - Stars 0 / Forks 0.
 - [Karnis052](https://github.com/Karnis052/Karnis052) - Stars 0 / Forks 0.
-- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 342 / Forks 21.
+- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 341 / Forks 21.
 - [kausarpial](https://github.com/kausarpial/kausarpial) - Stars 0 / Forks 0.
 - [kausaruddinahmedofficial](https://github.com/kausaruddinahmedofficial/kausaruddinahmedofficial) - Stars 0 / Forks 0.
 - [kawchar85](https://github.com/kawchar85/kawchar85) - Stars 0 / Forks 0.
@@ -1335,7 +1335,7 @@
 - [monjurul0007](https://github.com/monjurul0007/monjurul0007) - Stars 0 / Forks 0.
 - [monjurulhaque64](https://github.com/monjurulhaque64/monjurulhaque64) - Stars 0 / Forks 0.
 - [monosshi](https://github.com/monosshi/monosshi) - Stars 0 / Forks 0.
-- [monowarcs](https://github.com/monowarcs/monowarcs) - Stars 0 / Forks 0.
+- [monowarcs](https://github.com/monowarcs/monowarcs) - Stars 1 / Forks 0.
 - [monwarqx1250](https://github.com/monwarqx1250/monwarqx1250) - Stars 0 / Forks 0.
 - [MonzurMorshed](https://github.com/MonzurMorshed/MonzurMorshed) - Stars 0 / Forks 0.
 - [moontasirabtahee](https://github.com/moontasirabtahee/moontasirabtahee) - Stars 0 / Forks 0.
