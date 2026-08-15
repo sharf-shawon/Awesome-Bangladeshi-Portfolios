@@ -1652,6 +1652,7 @@
 - [R4218](https://github.com/R4218/R4218) - Stars 0 / Forks 0.
 - [R4ID3NZ4P](https://github.com/R4ID3NZ4P/R4ID3NZ4P) - Stars 0 / Forks 0.
 - [rabbanist](https://github.com/rabbanist/rabbaniST) - Stars 0 / Forks 0.
+- [rabbi696](https://github.com/rabbi696/rabbi696) - Stars 0 / Forks 2.
 - [RabbiAmin](https://github.com/RabbiAmin/RabbiAmin) - Stars 1 / Forks 0.
 - [rabbihossainlhp](https://github.com/rabbihossainlhp/rabbihossainlhp) - Stars 0 / Forks 0.
 - [RabbiIslamRony](https://github.com/RabbiIslamRony/RabbiIslamRony) - Stars 0 / Forks 0.
