@@ -405,7 +405,6 @@
 - [bilaschandra](https://github.com/bilaschandra/bilaschandra) - Stars 0 / Forks 0.
 - [bilashcse](https://github.com/bilashcse/bilashcse) - Stars 1 / Forks 0.
 - [bimashazaman](https://github.com/bimashazaman/bimashazaman) - Stars 9 / Forks 3.
-- [BINOD-XD](https://github.com/BINOD-XD/BINOD-XD) - Stars 13 / Forks 0.
 - [binoydipu](https://github.com/binoydipu/binoydipu) - Stars 0 / Forks 0.
 - [Biplob14](https://github.com/Biplob14/Biplob14) - Stars 0 / Forks 0.
 - [bipon68](https://github.com/bipon68/bipon68) - Stars 0 / Forks 0.
@@ -569,7 +568,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 1 / Forks 0.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 3 / Forks 0.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
