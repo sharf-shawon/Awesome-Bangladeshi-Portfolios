@@ -2052,7 +2052,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 59 / Forks 76.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 59 / Forks 77.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
@@ -2284,7 +2284,7 @@
 - [syfulsharif](https://github.com/syfulsharif/syfulsharif) - Stars 0 / Forks 0.
 - [syket-git](https://github.com/syket-git/syket-git) - Stars 0 / Forks 1.
 - [T4snimul](https://github.com/T4snimul/T4snimul) - Stars 0 / Forks 0.
-- [Taanveer22](https://github.com/Taanveer22/Taanveer22) - Stars 2 / Forks 0.
+- [Taanveer22](https://github.com/Taanveer22/Taanveer22) - Stars 3 / Forks 0.
 - [tafhimulkabir](https://github.com/tafhimulkabir/tafhimulkabir) - Stars 1 / Forks 0.
 - [tahajjat](https://github.com/tahajjat/Tahajjat) - Stars 0 / Forks 0.
 - [Tahanima](https://github.com/Tahanima/Tahanima) - Stars 0 / Forks 0.
