@@ -222,7 +222,7 @@
 - [antareephasan](https://github.com/antareephasan/antareephasan) - Stars 0 / Forks 0.
 - [antik1801](https://github.com/antik1801/antik1801) - Stars 0 / Forks 0.
 - [Antor4q](https://github.com/Antor4q/Antor4q) - Stars 0 / Forks 0.
-- [AntsyLich](https://github.com/AntsyLich/AntsyLich) - Stars 3 / Forks 0.
+- [AntsyLich](https://github.com/AntsyLich/AntsyLich) - Stars 4 / Forks 0.
 - [ANU-X](https://github.com/ANU-X/ANU-X) - Stars 0 / Forks 0.
 - [anup30](https://github.com/anup30/anup30) - Stars 0 / Forks 0.
 - [anupdebnath](https://github.com/anupdebnath/anupdebnath) - Stars 0 / Forks 0.
@@ -568,7 +568,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 5 / Forks 0.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 6 / Forks 0.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
@@ -2284,7 +2284,7 @@
 - [syfulsharif](https://github.com/syfulsharif/syfulsharif) - Stars 0 / Forks 0.
 - [syket-git](https://github.com/syket-git/syket-git) - Stars 0 / Forks 1.
 - [T4snimul](https://github.com/T4snimul/T4snimul) - Stars 0 / Forks 0.
-- [Taanveer22](https://github.com/Taanveer22/Taanveer22) - Stars 3 / Forks 0.
+- [Taanveer22](https://github.com/Taanveer22/Taanveer22) - Stars 4 / Forks 0.
 - [tafhimulkabir](https://github.com/tafhimulkabir/tafhimulkabir) - Stars 1 / Forks 0.
 - [tahajjat](https://github.com/tahajjat/Tahajjat) - Stars 0 / Forks 0.
 - [Tahanima](https://github.com/Tahanima/Tahanima) - Stars 0 / Forks 0.
