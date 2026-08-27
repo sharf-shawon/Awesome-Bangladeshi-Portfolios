@@ -12482,8 +12482,8 @@
     "username": "ettisafxrup",
     "repoName": "ettisafxrup",
     "description": null,
-    "stars": 7,
-    "forks": 0,
+    "stars": 9,
+    "forks": 1,
     "repoUrl": "https://github.com/ettisafxrup/ettisafxrup",
     "websiteUrl": null,
     "avatar": "https://avatars.githubusercontent.com/u/107711625?u=4f63bfcbc10749d293a0200a43f837e11c98b5c0&v=4",
@@ -14904,6 +14904,25 @@
       "scraper"
     ],
     "total_stars": 21
+  },
+  {
+    "username": "grixxnixx",
+    "repoName": "grixxnixx",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/grixxnixx/grixxnixx",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/u/76216398?u=2b629b96672331ae966a7d1c14d9683caa298094&v=4",
+    "profile_url": "https://github.com/grixxnixx",
+    "website_url": null,
+    "top_language": "TypeScript",
+    "all_languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "topics": [],
+    "total_stars": 8
   },
   {
     "username": "habi8",
@@ -22599,7 +22618,7 @@
     "username": "KRTirtho",
     "repoName": "KRTirtho",
     "description": "Github Profile",
-    "stars": 6,
+    "stars": 7,
     "forks": 3,
     "repoUrl": "https://github.com/KRTirtho/KRTirtho",
     "websiteUrl": null,
@@ -47663,6 +47682,28 @@
     ],
     "topics": [],
     "total_stars": 3
+  },
+  {
+    "username": "ShowmikDebnath",
+    "repoName": "ShowmikDebnath",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/ShowmikDebnath/ShowmikDebnath",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/u/67783022?u=baa0a71e43f76eb4bfebf550781c8bfbc8cc52bb&v=4",
+    "profile_url": "https://github.com/ShowmikDebnath",
+    "website_url": "https://showmikdebnath.github.io/portfolio/",
+    "top_language": "Dart",
+    "all_languages": [
+      "Dart",
+      "Java",
+      "Jupyter Notebook",
+      "HTML",
+      "SCSS"
+    ],
+    "topics": [],
+    "total_stars": 10
   },
   {
     "username": "showrov4g",

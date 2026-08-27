@@ -569,7 +569,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 7 / Forks 0.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 9 / Forks 1.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
@@ -677,6 +677,7 @@
 - [gowtamkumar](https://github.com/gowtamkumar/gowtamkumar) - Stars 0 / Forks 0.
 - [Graphictool](https://github.com/Graphictool/Graphictool) - Stars 0 / Forks 0.
 - [greenviewsoft](https://github.com/greenviewsoft/greenviewsoft) - Stars 1 / Forks 1.
+- [grixxnixx](https://github.com/grixxnixx/grixxnixx) - Stars 0 / Forks 0.
 - [habi8](https://github.com/habi8/habi8) - Stars 0 / Forks 0.
 - [Habib-Un-Hemel](https://github.com/Habib-Un-Hemel/Habib-Un-Hemel) - Stars 1 / Forks 0.
 - [habib-wahid](https://github.com/habib-wahid/habib-wahid) - Stars 0 / Forks 0.
@@ -1021,7 +1022,7 @@
 - [kousar2334](https://github.com/kousar2334/kousar2334) - Stars 0 / Forks 0.
 - [Koushik032](https://github.com/Koushik032/Koushik032) - Stars 2 / Forks 0.
 - [koushik173](https://github.com/koushik173/koushik173) - Stars 0 / Forks 0.
-- [KRTirtho](https://github.com/KRTirtho/KRTirtho) - Stars 6 / Forks 3.
+- [KRTirtho](https://github.com/KRTirtho/KRTirtho) - Stars 7 / Forks 3.
 - [kuasha420](https://github.com/kuasha420/kuasha420) - Stars 0 / Forks 1.
 - [Kudratullah](https://github.com/Kudratullah/kudratullah) - Stars 0 / Forks 0.
 - [kushal15-neub](https://github.com/kushal15-neub/kushal15-neub) - Stars 0 / Forks 0.
@@ -2148,6 +2149,7 @@
 - [shouvick](https://github.com/shouvick/shouvick) - Stars 0 / Forks 0.
 - [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 184 / Forks 39.
 - [shovonrahmanshuvo](https://github.com/shovonrahmanshuvo/shovonrahmanshuvo) - Stars 1 / Forks 0.
+- [ShowmikDebnath](https://github.com/ShowmikDebnath/ShowmikDebnath) - Stars 0 / Forks 0.
 - [showrov4g](https://github.com/showrov4g/showrov4g) - Stars 2 / Forks 0.
 - [shreshthajit](https://github.com/shreshthajit/shreshthajit) - Stars 1 / Forks 0.
 - [ShrikantaMazumder](https://github.com/ShrikantaMazumder/ShrikantaMazumder) - Stars 0 / Forks 0.
