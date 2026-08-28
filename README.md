@@ -311,7 +311,7 @@
 - [AshikReza](https://github.com/AshikReza/ashikReza) - Stars 0 / Forks 0.
 - [Ashikur37](https://github.com/Ashikur37/ashikur37) - Stars 0 / Forks 0.
 - [ashikurrahmanbhuiyan](https://github.com/ashikurrahmanbhuiyan/ashikurrahmanbhuiyan) - Stars 0 / Forks 0.
-- [ashiq72](https://github.com/ashiq72/ashiq72) - Stars 8 / Forks 1.
+- [ashiq72](https://github.com/ashiq72/ashiq72) - Stars 9 / Forks 1.
 - [ashiqdev](https://github.com/ashiqdev/ashiqdev) - Stars 0 / Forks 0.
 - [ashiquebiniqbal](https://github.com/ashiquebiniqbal/ashiquebiniqbal) - Stars 0 / Forks 0.
 - [ashiqur0](https://github.com/ashiqur0/ashiqur0) - Stars 0 / Forks 0.
@@ -569,7 +569,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 9 / Forks 1.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 10 / Forks 1.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
@@ -932,7 +932,7 @@
 - [jhimi01](https://github.com/jhimi01/jhimi01) - Stars 0 / Forks 0.
 - [JHM69](https://github.com/JHM69/JHM69) - Stars 4 / Forks 2.
 - [jinnatul](https://github.com/jinnatul/jinnatul) - Stars 2 / Forks 0.
-- [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 16 / Forks 5.
+- [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 15 / Forks 5.
 - [Jisan-mia](https://github.com/Jisan-mia/Jisan-mia) - Stars 6 / Forks 3.
 - [jisanahamed09205](https://github.com/jisanahamed09205/jisanahamed09205) - Stars 0 / Forks 0.
 - [jmrashed](https://github.com/jmrashed/jmrashed) - Stars 0 / Forks 0.
@@ -1534,7 +1534,7 @@
 - [Nibir97](https://github.com/Nibir97/Nibir97) - Stars 0 / Forks 0.
 - [nickgermaine](https://github.com/nickgermaine/nickgermaine) - Stars 0 / Forks 0.
 - [NieamulKabir](https://github.com/NieamulKabir/nieamulkabir) - Stars 1 / Forks 0.
-- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 16 / Forks 6.
+- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 15 / Forks 6.
 - [niloy1hasan](https://github.com/niloy1hasan/niloy1hasan) - Stars 0 / Forks 0.
 - [nirrjhorr](https://github.com/nirrjhorr/nirrjhorr) - Stars 0 / Forks 0.
 - [nirvik-alpha](https://github.com/nirvik-alpha/nirvik-alpha) - Stars 0 / Forks 0.
@@ -1937,7 +1937,7 @@
 - [sajiiid09](https://github.com/sajiiid09/sajiiid09) - Stars 0 / Forks 0.
 - [sajimpk](https://github.com/sajimpk/sajimpk) - Stars 0 / Forks 0.
 - [Sajjad-Mahmud-Suton](https://github.com/Sajjad-Mahmud-Suton/Sajjad-Mahmud-Suton) - Stars 0 / Forks 0.
-- [sajjadjim](https://github.com/sajjadjim/sajjadjim) - Stars 15 / Forks 0.
+- [sajjadjim](https://github.com/sajjadjim/sajjadjim) - Stars 16 / Forks 0.
 - [sajjadrahman56](https://github.com/sajjadrahman56/sajjadrahman56) - Stars 2 / Forks 0.
 - [sajjat43](https://github.com/sajjat43/sajjat43) - Stars 0 / Forks 0.
 - [sajjathossainbd](https://github.com/sajjathossainbd/sajjathossainbd) - Stars 0 / Forks 0.
