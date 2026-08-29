@@ -587,7 +587,7 @@
 - [fahimalaminauntu](https://github.com/fahimalaminauntu/fahimalaminauntu) - Stars 2 / Forks 0.
 - [FahimAnzamDip](https://github.com/FahimAnzamDip/FahimAnzamDip) - Stars 0 / Forks 1.
 - [Fahimefto](https://github.com/Fahimefto/Fahimefto) - Stars 0 / Forks 0.
-- [FahimFBA](https://github.com/FahimFBA/FahimFBA) - Stars 14 / Forks 10.
+- [FahimFBA](https://github.com/FahimFBA/FahimFBA) - Stars 14 / Forks 9.
 - [fahimfoysal2](https://github.com/fahimfoysal2/fahimfoysal2) - Stars 0 / Forks 0.
 - [FahimHassanMollah](https://github.com/FahimHassanMollah/FahimHassanMollah) - Stars 0 / Forks 0.
 - [fahimhossain26](https://github.com/fahimhossain26/fahimhossain26) - Stars 1 / Forks 0.
@@ -1247,7 +1247,7 @@
 - [MehediMubin](https://github.com/MehediMubin/MehediMubin) - Stars 1 / Forks 0.
 - [mehedimugdho72](https://github.com/mehedimugdho72/mehedimugdho72) - Stars 1 / Forks 0.
 - [mehedisarkar2k](https://github.com/mehedisarkar2k/mehedisarkar2k) - Stars 0 / Forks 1.
-- [mehedishakeel](https://github.com/mehedishakeel/mehedishakeel) - Stars 23 / Forks 8.
+- [mehedishakeel](https://github.com/mehedishakeel/mehedishakeel) - Stars 23 / Forks 7.
 - [mehedishubho](https://github.com/mehedishubho/mehedishubho) - Stars 0 / Forks 0.
 - [mehediworld](https://github.com/mehediworld/mehediworld) - Stars 0 / Forks 0.
 - [mehhed](https://github.com/mehhed/mehhed) - Stars 0 / Forks 0.
@@ -2054,7 +2054,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 59 / Forks 77.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 59 / Forks 78.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
