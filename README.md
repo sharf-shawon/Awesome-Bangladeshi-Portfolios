@@ -303,7 +303,7 @@
 - [ashabuddin](https://github.com/ashabuddin/ashabuddin) - Stars 0 / Forks 0.
 - [AshFahim](https://github.com/AshFahim/AshFahim) - Stars 1 / Forks 0.
 - [ashfaqshuvo007](https://github.com/ashfaqshuvo007/ashfaqshuvo007) - Stars 0 / Forks 0.
-- [Ashfinn](https://github.com/Ashfinn/Ashfinn) - Stars 9 / Forks 0.
+- [Ashfinn](https://github.com/Ashfinn/Ashfinn) - Stars 8 / Forks 0.
 - [ashik4715](https://github.com/ashik4715/ashik4715) - Stars 1 / Forks 0.
 - [ashikbhuyan17](https://github.com/ashikbhuyan17/ashikbhuyan17) - Stars 2 / Forks 0.
 - [ashikmhs](https://github.com/ashikmhs/ashikmhs) - Stars 0 / Forks 0.
@@ -2214,7 +2214,7 @@
 - [sohan284](https://github.com/sohan284/sohan284) - Stars 0 / Forks 0.
 - [SohanurKarim](https://github.com/SohanurKarim/SohanurKarim) - Stars 0 / Forks 0.
 - [sohelamin](https://github.com/sohelamin/sohelamin) - Stars 0 / Forks 0.
-- [SohelIslamImran](https://github.com/SohelIslamImran/SohelIslamImran) - Stars 3 / Forks 7.
+- [SohelIslamImran](https://github.com/SohelIslamImran/SohelIslamImran) - Stars 4 / Forks 7.
 - [Sohelkhan820](https://github.com/Sohelkhan820/Sohelkhan820) - Stars 0 / Forks 0.
 - [sohidulIslam353](https://github.com/sohidulIslam353/sohidulIslam353) - Stars 0 / Forks 0.
 - [sohorabsajib](https://github.com/sohorabsajib/sohorabsajib) - Stars 0 / Forks 0.
