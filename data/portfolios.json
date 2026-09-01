@@ -20566,7 +20566,7 @@
     "username": "JISAN-404",
     "repoName": "JISAN-404",
     "description": "Config files for my GitHub profile.",
-    "stars": 15,
+    "stars": 14,
     "forks": 5,
     "repoUrl": "https://github.com/JISAN-404/JISAN-404",
     "websiteUrl": null,
@@ -34015,7 +34015,7 @@
     "username": "Niki404-Cyber",
     "repoName": "Niki404-Cyber",
     "description": null,
-    "stars": 15,
+    "stars": 14,
     "forks": 6,
     "repoUrl": "https://github.com/Niki404-Cyber/Niki404-Cyber",
     "websiteUrl": null,
@@ -38501,6 +38501,26 @@
     ],
     "topics": [],
     "total_stars": 39
+  },
+  {
+    "username": "Rater7tara",
+    "repoName": "Rater7tara",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/Rater7tara/Rater7tara",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/u/108452691?u=89df9d4622fdf8a9f864849f9684d9eafcf3c4c4&v=4",
+    "profile_url": "https://github.com/Rater7tara",
+    "website_url": null,
+    "top_language": "Dart",
+    "all_languages": [
+      "Dart",
+      "HTML",
+      "JavaScript"
+    ],
+    "topics": [],
+    "total_stars": 3
   },
   {
     "username": "ratnadipkuri",
@@ -45166,6 +45186,28 @@
     "total_stars": 11
   },
   {
+    "username": "shaharan1",
+    "repoName": "shaharan1",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/shaharan1/shaharan1",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/u/242985020?u=c47b7adccdf4337bdc2f7f9202a1b78bfec19d04&v=4",
+    "profile_url": "https://github.com/shaharan1",
+    "website_url": null,
+    "top_language": "C++",
+    "all_languages": [
+      "C++",
+      "TypeScript",
+      "Java",
+      "PLSQL",
+      "HTML"
+    ],
+    "topics": [],
+    "total_stars": 1
+  },
+  {
     "username": "shaharia0",
     "repoName": "shaharia0",
     "description": null,
@@ -48097,7 +48139,7 @@
     "username": "siam3310",
     "repoName": "siam3310",
     "description": null,
-    "stars": 2,
+    "stars": 1,
     "forks": 0,
     "repoUrl": "https://github.com/siam3310/siam3310",
     "websiteUrl": null,
