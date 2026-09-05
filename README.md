@@ -569,7 +569,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 10 / Forks 1.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 11 / Forks 1.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
@@ -776,7 +776,7 @@
 - [hrithikD9](https://github.com/hrithikD9/hrithikD9) - Stars 0 / Forks 0.
 - [hrittwik](https://github.com/hrittwik/hrittwik) - Stars 0 / Forks 0.
 - [Hrkjawad](https://github.com/Hrkjawad/Hrkjawad) - Stars 0 / Forks 0.
-- [htr-tech](https://github.com/htr-tech/htr-tech) - Stars 212 / Forks 32.
+- [htr-tech](https://github.com/htr-tech/htr-tech) - Stars 213 / Forks 32.
 - [HumaionKobir1](https://github.com/HumaionKobir1/HumaionKobir1) - Stars 1 / Forks 0.
 - [humam-hossain](https://github.com/humam-hossain/humam-hossain) - Stars 0 / Forks 0.
 - [Humayra-Akter](https://github.com/Humayra-Akter/Humayra-Akter) - Stars 0 / Forks 0.
@@ -1152,7 +1152,7 @@
 - [Md-Firoz-Mahmud-Nur](https://github.com/Md-Firoz-Mahmud-Nur/Md-Firoz-Mahmud-Nur) - Stars 0 / Forks 0.
 - [md-kawsar-ali](https://github.com/md-kawsar-ali/md-kawsar-ali) - Stars 0 / Forks 0.
 - [Md-Merazul-Islam](https://github.com/Md-Merazul-Islam/Md-Merazul-Islam) - Stars 0 / Forks 0.
-- [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 4 / Forks 0.
+- [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 5 / Forks 0.
 - [md-nasim-mondal](https://github.com/md-nasim-mondal/md-nasim-mondal) - Stars 0 / Forks 0.
 - [Md-Rashedul-Islam-Rajib](https://github.com/Md-Rashedul-Islam-Rajib/Md-Rashedul-Islam-Rajib) - Stars 0 / Forks 0.
 - [Md-Rifat-Islam](https://github.com/Md-Rifat-Islam/Md-Rifat-Islam) - Stars 0 / Forks 0.
@@ -2282,7 +2282,7 @@
 - [Suvrodev](https://github.com/Suvrodev/Suvrodev) - Stars 0 / Forks 0.
 - [SUZAUDDAULA](https://github.com/SUZAUDDAULA/suzauddaula) - Stars 2 / Forks 0.
 - [suzitsarkar27](https://github.com/suzitsarkar27/suzitsarkar27) - Stars 1 / Forks 0.
-- [swadhinbiswas](https://github.com/swadhinbiswas/swadhinbiswas) - Stars 27 / Forks 11.
+- [swadhinbiswas](https://github.com/swadhinbiswas/swadhinbiswas) - Stars 26 / Forks 10.
 - [swimshahriar](https://github.com/swimshahriar/swimshahriar) - Stars 1 / Forks 0.
 - [SyedHasibRahman](https://github.com/SyedHasibRahman/SyedHasibRahman) - Stars 1 / Forks 0.
 - [syedmahedi](https://github.com/syedmahedi/syedmahedi) - Stars 0 / Forks 0.
@@ -2446,7 +2446,7 @@
 - [tonmoydeb404](https://github.com/tonmoydeb404/tonmoydeb404) - Stars 1 / Forks 0.
 - [tonoy3125](https://github.com/tonoy3125/tonoy3125) - Stars 0 / Forks 0.
 - [touhid-hossain](https://github.com/touhid-hossain/touhid-hossain) - Stars 0 / Forks 0.
-- [touhidcodes](https://github.com/touhidcodes/touhidcodes) - Stars 0 / Forks 22.
+- [touhidcodes](https://github.com/touhidcodes/touhidcodes) - Stars 0 / Forks 23.
 - [touhidulfahim](https://github.com/touhidulfahim/touhidulfahim) - Stars 0 / Forks 0.
 - [towfiq-ul](https://github.com/towfiq-ul/towfiq-ul) - Stars 0 / Forks 1.
 - [TOWHID16](https://github.com/TOWHID16/TOWHID16) - Stars 0 / Forks 0.
