@@ -24,6 +24,7 @@
 - [1Md-Rakibul-Islam](https://github.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam) - Stars 1 / Forks 0.
 - [2018331056shanto](https://github.com/2018331056shanto/2018331056shanto) - Stars 0 / Forks 0.
 - [2u841r](https://github.com/2u841r/2u841r) - Stars 0 / Forks 0.
+- [37jahangir](https://github.com/37jahangir/JHM69) - Stars 4 / Forks 2.
 - [4kamruzzaman](https://github.com/4kamruzzaman/4kamruzzaman) - Stars 5 / Forks 0.
 - [5huv0](https://github.com/5huv0/5huv0) - Stars 1 / Forks 0.
 - [5ourav07](https://github.com/5ourav07/5ourav07) - Stars 0 / Forks 0.
@@ -569,7 +570,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 11 / Forks 1.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 10 / Forks 1.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
@@ -930,7 +931,6 @@
 - [jerin-arpa](https://github.com/jerin-arpa/jerin-arpa) - Stars 0 / Forks 1.
 - [jewel109](https://github.com/jewel109/jewel109) - Stars 0 / Forks 0.
 - [jhimi01](https://github.com/jhimi01/jhimi01) - Stars 0 / Forks 0.
-- [JHM69](https://github.com/JHM69/JHM69) - Stars 4 / Forks 2.
 - [jinnatul](https://github.com/jinnatul/jinnatul) - Stars 2 / Forks 0.
 - [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 15 / Forks 5.
 - [Jisan-mia](https://github.com/Jisan-mia/Jisan-mia) - Stars 6 / Forks 3.
@@ -1152,7 +1152,7 @@
 - [Md-Firoz-Mahmud-Nur](https://github.com/Md-Firoz-Mahmud-Nur/Md-Firoz-Mahmud-Nur) - Stars 0 / Forks 0.
 - [md-kawsar-ali](https://github.com/md-kawsar-ali/md-kawsar-ali) - Stars 0 / Forks 0.
 - [Md-Merazul-Islam](https://github.com/Md-Merazul-Islam/Md-Merazul-Islam) - Stars 0 / Forks 0.
-- [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 5 / Forks 0.
+- [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 4 / Forks 0.
 - [md-nasim-mondal](https://github.com/md-nasim-mondal/md-nasim-mondal) - Stars 0 / Forks 0.
 - [Md-Rashedul-Islam-Rajib](https://github.com/Md-Rashedul-Islam-Rajib/Md-Rashedul-Islam-Rajib) - Stars 0 / Forks 0.
 - [Md-Rifat-Islam](https://github.com/Md-Rifat-Islam/Md-Rifat-Islam) - Stars 0 / Forks 0.
@@ -1247,7 +1247,7 @@
 - [MehediMubin](https://github.com/MehediMubin/MehediMubin) - Stars 1 / Forks 0.
 - [mehedimugdho72](https://github.com/mehedimugdho72/mehedimugdho72) - Stars 1 / Forks 0.
 - [mehedisarkar2k](https://github.com/mehedisarkar2k/mehedisarkar2k) - Stars 0 / Forks 1.
-- [mehedishakeel](https://github.com/mehedishakeel/mehedishakeel) - Stars 23 / Forks 7.
+- [mehedishakeel](https://github.com/mehedishakeel/mehedishakeel) - Stars 24 / Forks 7.
 - [mehedishubho](https://github.com/mehedishubho/mehedishubho) - Stars 0 / Forks 0.
 - [mehediworld](https://github.com/mehediworld/mehediworld) - Stars 0 / Forks 0.
 - [mehhed](https://github.com/mehhed/mehhed) - Stars 0 / Forks 0.
