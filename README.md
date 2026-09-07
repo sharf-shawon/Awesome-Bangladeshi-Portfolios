@@ -188,7 +188,7 @@
 - [Alter80](https://github.com/Alter80/Alter80) - Stars 0 / Forks 0.
 - [Alvi-C](https://github.com/Alvi-C/Alvi-C) - Stars 0 / Forks 0.
 - [amabirbd](https://github.com/amabirbd/amabirbd) - Stars 0 / Forks 0.
-- [AmanUllah-Coder](https://github.com/AmanUllah-Coder/AmanUllah-Coder) - Stars 0 / Forks 0.
+- [AmanUllah-Coder](https://github.com/AmanUllah-Coder/AmanUllah-Coder) - Stars 0 / Forks 1.
 - [amdadislam01](https://github.com/amdadislam01/amdadislam01) - Stars 12 / Forks 4.
 - [Amin-Hossain](https://github.com/Amin-Hossain/Amin-Hossain) - Stars 3 / Forks 0.
 - [amin5560](https://github.com/amin5560/amin5560) - Stars 0 / Forks 0.
