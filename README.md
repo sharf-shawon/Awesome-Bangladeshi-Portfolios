@@ -111,7 +111,7 @@
 - [AfnanFerdousi](https://github.com/AfnanFerdousi/AfnanFerdousi) - Stars 4 / Forks 1.
 - [afreed-bin-haque](https://github.com/afreed-bin-haque/afreed-bin-haque) - Stars 0 / Forks 0.
 - [afrida67](https://github.com/afrida67/afrida67) - Stars 0 / Forks 0.
-- [afrinbhuiyan](https://github.com/afrinbhuiyan/afrinbhuiyan) - Stars 13 / Forks 0.
+- [afrinbhuiyan](https://github.com/afrinbhuiyan/afrinbhuiyan) - Stars 12 / Forks 0.
 - [afrussel](https://github.com/afrussel/afrussel) - Stars 1 / Forks 0.
 - [afsar-dev](https://github.com/afsar-dev/afsar-dev) - Stars 0 / Forks 0.
 - [aftabuddin007](https://github.com/aftabuddin007/aftabuddin007) - Stars 0 / Forks 0.
@@ -304,7 +304,7 @@
 - [ashabuddin](https://github.com/ashabuddin/ashabuddin) - Stars 0 / Forks 0.
 - [AshFahim](https://github.com/AshFahim/AshFahim) - Stars 1 / Forks 0.
 - [ashfaqshuvo007](https://github.com/ashfaqshuvo007/ashfaqshuvo007) - Stars 0 / Forks 0.
-- [Ashfinn](https://github.com/Ashfinn/Ashfinn) - Stars 8 / Forks 0.
+- [Ashfinn](https://github.com/Ashfinn/Ashfinn) - Stars 9 / Forks 0.
 - [ashik4715](https://github.com/ashik4715/ashik4715) - Stars 1 / Forks 0.
 - [ashikbhuyan17](https://github.com/ashikbhuyan17/ashikbhuyan17) - Stars 2 / Forks 0.
 - [ashikmhs](https://github.com/ashikmhs/ashikmhs) - Stars 0 / Forks 0.
@@ -1321,7 +1321,7 @@
 - [Mohon0555](https://github.com/Mohon0555/Mohon0555) - Stars 0 / Forks 0.
 - [Mohosinin](https://github.com/Mohosinin/Mohosinin) - Stars 0 / Forks 0.
 - [MohosinMiah](https://github.com/MohosinMiah/MohosinMiah) - Stars 0 / Forks 0.
-- [MohseenMolla](https://github.com/MohseenMolla/MohseenMolla) - Stars 8 / Forks 1.
+- [MohseenMolla](https://github.com/MohseenMolla/MohseenMolla) - Stars 7 / Forks 1.
 - [mohsin105](https://github.com/mohsin105/mohsin105) - Stars 0 / Forks 0.
 - [mohsinur1998du](https://github.com/mohsinur1998du/mohsinur1998du) - Stars 0 / Forks 0.
 - [moinsoft](https://github.com/moinsoft/moinsoft) - Stars 0 / Forks 0.
@@ -1354,7 +1354,7 @@
 - [mostafa6765](https://github.com/mostafa6765/mostafa6765) - Stars 1 / Forks 0.
 - [mostafizurhimself](https://github.com/mostafizurhimself/mostafizurhimself) - Stars 1 / Forks 3.
 - [mostafizzfuad](https://github.com/mostafizzfuad/mostafizzfuad) - Stars 0 / Forks 0.
-- [Mostakim69](https://github.com/Mostakim69/Mostakim69) - Stars 1 / Forks 0.
+- [Mostakim69](https://github.com/Mostakim69/Mostakim69) - Stars 0 / Forks 0.
 - [mostakphoenixsoftbd](https://github.com/mostakphoenixsoftbd/mostakphoenixsoftbd) - Stars 0 / Forks 0.
 - [Mostofa-Hasin-Mahdi](https://github.com/Mostofa-Hasin-Mahdi/Mostofa-Hasin-Mahdi) - Stars 0 / Forks 0.
 - [MotalibHossain](https://github.com/MotalibHossain/MotalibHossain) - Stars 0 / Forks 1.
@@ -1469,7 +1469,7 @@
 - [nahidh232](https://github.com/nahidh232/nahidh232) - Stars 1 / Forks 0.
 - [nahidhasan141400](https://github.com/nahidhasan141400/nahidhasan141400) - Stars 1 / Forks 0.
 - [nahidhashik](https://github.com/nahidhashik/nahidhashik) - Stars 0 / Forks 0.
-- [nahidhk](https://github.com/nahidhk/nahidhk) - Stars 19 / Forks 0.
+- [nahidhk](https://github.com/nahidhk/nahidhk) - Stars 18 / Forks 0.
 - [nahidrajbd](https://github.com/nahidrajbd/nahidrajbd) - Stars 0 / Forks 0.
 - [nahidthenh](https://github.com/nahidthenh/nahidthenh) - Stars 0 / Forks 0.
 - [nahiduddinahammed](https://github.com/nahiduddinahammed/nahiduddinahammed) - Stars 0 / Forks 0.
