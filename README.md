@@ -976,7 +976,7 @@
 - [KamruzzamanAsif](https://github.com/KamruzzamanAsif/KamruzzamanAsif) - Stars 0 / Forks 0.
 - [kaneki666](https://github.com/kaneki666/kaneki666) - Stars 0 / Forks 0.
 - [Karnis052](https://github.com/Karnis052/Karnis052) - Stars 0 / Forks 0.
-- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 341 / Forks 21.
+- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 342 / Forks 21.
 - [kausarpial](https://github.com/kausarpial/kausarpial) - Stars 0 / Forks 0.
 - [kausaruddinahmedofficial](https://github.com/kausaruddinahmedofficial/kausaruddinahmedofficial) - Stars 0 / Forks 0.
 - [kawchar85](https://github.com/kawchar85/kawchar85) - Stars 0 / Forks 0.
@@ -2150,7 +2150,7 @@
 - [shourovr82](https://github.com/shourovr82/shourovr82) - Stars 1 / Forks 1.
 - [ShourovSaha](https://github.com/ShourovSaha/ShourovSaha) - Stars 0 / Forks 0.
 - [shouvick](https://github.com/shouvick/shouvick) - Stars 0 / Forks 0.
-- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 183 / Forks 40.
+- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 184 / Forks 40.
 - [shovonrahmanshuvo](https://github.com/shovonrahmanshuvo/shovonrahmanshuvo) - Stars 1 / Forks 0.
 - [ShowmikDebnath](https://github.com/ShowmikDebnath/ShowmikDebnath) - Stars 0 / Forks 0.
 - [showrov4g](https://github.com/showrov4g/showrov4g) - Stars 2 / Forks 0.
