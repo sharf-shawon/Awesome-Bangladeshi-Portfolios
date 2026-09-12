@@ -934,6 +934,7 @@
 - [jinnatul](https://github.com/jinnatul/jinnatul) - Stars 2 / Forks 0.
 - [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 15 / Forks 5.
 - [Jisan-mia](https://github.com/Jisan-mia/Jisan-mia) - Stars 6 / Forks 3.
+- [Jisan10667](https://github.com/Jisan10667/Jisan10667) - Stars 0 / Forks 0.
 - [jisanahamed09205](https://github.com/jisanahamed09205/jisanahamed09205) - Stars 0 / Forks 0.
 - [jmrashed](https://github.com/jmrashed/jmrashed) - Stars 0 / Forks 0.
 - [jnahian](https://github.com/jnahian/jnahian) - Stars 0 / Forks 0.
@@ -2505,7 +2506,6 @@
 - [xihadulislam](https://github.com/xihadulislam/xihadulislam) - Stars 6 / Forks 1.
 - [xrayian](https://github.com/xrayian/xrayian) - Stars 0 / Forks 0.
 - [xtareq](https://github.com/xtareq/xtareq) - Stars 0 / Forks 0.
-- [XYTEEE](https://github.com/XYTEEE/XYTEEE) - Stars 0 / Forks 0.
 - [Y3454R](https://github.com/Y3454R/Y3454R) - Stars 1 / Forks 0.
 - [yakubsiyam](https://github.com/yakubsiyam/yakubsiyam) - Stars 1 / Forks 0.
 - [Yam1nX](https://github.com/Yam1nX/Yam1nX) - Stars 0 / Forks 0.
