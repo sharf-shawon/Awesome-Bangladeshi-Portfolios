@@ -312,7 +312,7 @@
 - [AshikReza](https://github.com/AshikReza/ashikReza) - Stars 0 / Forks 0.
 - [Ashikur37](https://github.com/Ashikur37/ashikur37) - Stars 0 / Forks 0.
 - [ashikurrahmanbhuiyan](https://github.com/ashikurrahmanbhuiyan/ashikurrahmanbhuiyan) - Stars 0 / Forks 0.
-- [ashiq72](https://github.com/ashiq72/ashiq72) - Stars 10 / Forks 1.
+- [ashiq72](https://github.com/ashiq72/ashiq72) - Stars 9 / Forks 1.
 - [ashiqdev](https://github.com/ashiqdev/ashiqdev) - Stars 0 / Forks 0.
 - [ashiquebiniqbal](https://github.com/ashiquebiniqbal/ashiquebiniqbal) - Stars 0 / Forks 0.
 - [ashiqur0](https://github.com/ashiqur0/ashiqur0) - Stars 0 / Forks 0.
@@ -777,7 +777,7 @@
 - [hrithikD9](https://github.com/hrithikD9/hrithikD9) - Stars 0 / Forks 0.
 - [hrittwik](https://github.com/hrittwik/hrittwik) - Stars 0 / Forks 0.
 - [Hrkjawad](https://github.com/Hrkjawad/Hrkjawad) - Stars 0 / Forks 0.
-- [htr-tech](https://github.com/htr-tech/htr-tech) - Stars 213 / Forks 32.
+- [htr-tech](https://github.com/htr-tech/htr-tech) - Stars 214 / Forks 32.
 - [HumaionKobir1](https://github.com/HumaionKobir1/HumaionKobir1) - Stars 1 / Forks 0.
 - [humam-hossain](https://github.com/humam-hossain/humam-hossain) - Stars 0 / Forks 0.
 - [Humayra-Akter](https://github.com/Humayra-Akter/Humayra-Akter) - Stars 0 / Forks 0.
