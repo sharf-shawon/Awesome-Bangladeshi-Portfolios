@@ -570,7 +570,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 10 / Forks 1.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 10 / Forks 2.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
@@ -1518,7 +1518,7 @@
 - [nazmulnahid-git](https://github.com/nazmulnahid-git/nazmulnahid-git) - Stars 0 / Forks 0.
 - [nazmulwanted](https://github.com/nazmulwanted/nazmulwanted) - Stars 0 / Forks 0.
 - [nazmulweb](https://github.com/nazmulweb/nazmulweb) - Stars 1 / Forks 0.
-- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 36 / Forks 11.
+- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 36 / Forks 12.
 - [Nazrulislam45](https://github.com/Nazrulislam45/Nazrulislam45) - Stars 0 / Forks 0.
 - [NazShakib](https://github.com/NazShakib/NazShakib) - Stars 0 / Forks 0.
 - [nbakh16](https://github.com/nbakh16/nbakh16) - Stars 1 / Forks 1.
@@ -2001,7 +2001,7 @@
 - [SayedTahsin](https://github.com/SayedTahsin/SayedTahsin) - Stars 0 / Forks 1.
 - [sayeduzzamansajid](https://github.com/sayeduzzamansajid/sayeduzzamansajid) - Stars 0 / Forks 0.
 - [SayeedAfridi](https://github.com/SayeedAfridi/SayeedAfridi) - Stars 0 / Forks 0.
-- [Sayeedalam01](https://github.com/Sayeedalam01/Sayeedalam01) - Stars 0 / Forks 0.
+- [Sayeedalam01](https://github.com/Sayeedalam01/Sayeedalam01) - Stars 1 / Forks 0.
 - [sayeedHossain191](https://github.com/sayeedHossain191/sayeedHossain191) - Stars 0 / Forks 0.
 - [SayefReyadh](https://github.com/SayefReyadh/SayefReyadh) - Stars 1 / Forks 0.
 - [Sayem-Ahmed-Shayeed](https://github.com/Sayem-Ahmed-Shayeed/Sayem-Ahmed-Shayeed) - Stars 0 / Forks 0.
