@@ -570,7 +570,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 11 / Forks 2.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 13 / Forks 2.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
@@ -1472,7 +1472,7 @@
 - [nahidh232](https://github.com/nahidh232/nahidh232) - Stars 1 / Forks 0.
 - [nahidhasan141400](https://github.com/nahidhasan141400/nahidhasan141400) - Stars 1 / Forks 0.
 - [nahidhashik](https://github.com/nahidhashik/nahidhashik) - Stars 0 / Forks 0.
-- [nahidhk](https://github.com/nahidhk/nahidhk) - Stars 18 / Forks 0.
+- [nahidhk](https://github.com/nahidhk/nahidhk) - Stars 17 / Forks 0.
 - [nahidrajbd](https://github.com/nahidrajbd/nahidrajbd) - Stars 0 / Forks 0.
 - [nahidthenh](https://github.com/nahidthenh/nahidthenh) - Stars 0 / Forks 0.
 - [nahiduddinahammed](https://github.com/nahiduddinahammed/nahiduddinahammed) - Stars 0 / Forks 0.
@@ -1608,6 +1608,7 @@
 - [partha-banik](https://github.com/partha-banik/partha-banik) - Stars 0 / Forks 0.
 - [parthodas23](https://github.com/parthodas23/parthodas23) - Stars 1 / Forks 0.
 - [parvez-prottoy](https://github.com/parvez-prottoy/parvez-prottoy) - Stars 0 / Forks 0.
+- [pen-anthokhiya](https://github.com/pen-anthokhiya/pronoyNath) - Stars 0 / Forks 0.
 - [perashanid](https://github.com/perashanid/perashanid) - Stars 1 / Forks 0.
 - [pesnik](https://github.com/pesnik/pesnik) - Stars 0 / Forks 0.
 - [peyas4854](https://github.com/peyas4854/peyas4854) - Stars 0 / Forks 0.
@@ -1644,7 +1645,6 @@
 - [pronob1010](https://github.com/pronob1010/pronob1010) - Stars 0 / Forks 3.
 - [PronobDas](https://github.com/PronobDas/PronobDas) - Stars 0 / Forks 0.
 - [pronobkarmoker](https://github.com/pronobkarmoker/pronobkarmoker) - Stars 2 / Forks 0.
-- [pronoyNath](https://github.com/pronoyNath/pronoyNath) - Stars 0 / Forks 0.
 - [proshakilahamed](https://github.com/proshakilahamed/proshakilahamed) - Stars 4 / Forks 0.
 - [protapkrghosh](https://github.com/protapkrghosh/protapkrghosh) - Stars 0 / Forks 0.
 - [protickr](https://github.com/protickr/protickr) - Stars 0 / Forks 0.
@@ -2494,7 +2494,6 @@
 - [webdevratul](https://github.com/webdevratul/webdevratul) - Stars 0 / Forks 0.
 - [webfaisalbd](https://github.com/webfaisalbd/webfaisalbd) - Stars 0 / Forks 0.
 - [webguru071](https://github.com/webguru071/webguru071) - Stars 1 / Forks 0.
-- [whogf22](https://github.com/whogf22/whogf22) - Stars 0 / Forks 0.
 - [whoismaruf](https://github.com/whoismaruf/whoismaruf) - Stars 0 / Forks 0.
 - [wickedaf](https://github.com/wickedaf/wickedaf) - Stars 1 / Forks 0.
 - [wizziez](https://github.com/wizziez/wizziez) - Stars 0 / Forks 0.
