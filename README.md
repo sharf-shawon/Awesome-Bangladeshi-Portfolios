@@ -335,6 +335,7 @@
 - [Asif-Anwar-Sajid](https://github.com/Asif-Anwar-Sajid/Asif-Anwar-Sajid) - Stars 0 / Forks 0.
 - [asif-jalil](https://github.com/asif-jalil/asif-jalil) - Stars 1 / Forks 0.
 - [Asif10H](https://github.com/Asif10H/Asif10H) - Stars 0 / Forks 1.
+- [Asif2BD](https://github.com/Asif2BD/Asif2BD) - Stars 0 / Forks 0.
 - [Asif950](https://github.com/Asif950/Asif950) - Stars 0 / Forks 0.
 - [asifadib](https://github.com/asifadib/asifadib) - Stars 0 / Forks 0.
 - [AsifMohammedSifat](https://github.com/AsifMohammedSifat/AsifMohammedSifat) - Stars 0 / Forks 0.
@@ -592,7 +593,6 @@
 - [fahimfoysal2](https://github.com/fahimfoysal2/fahimfoysal2) - Stars 0 / Forks 0.
 - [FahimHassanMollah](https://github.com/FahimHassanMollah/FahimHassanMollah) - Stars 0 / Forks 0.
 - [fahimhossain26](https://github.com/fahimhossain26/fahimhossain26) - Stars 1 / Forks 0.
-- [FahimNuman](https://github.com/FahimNuman/fahimnuman) - Stars 0 / Forks 0.
 - [fahimprito](https://github.com/fahimprito/fahimprito) - Stars 0 / Forks 0.
 - [FahimSakib](https://github.com/FahimSakib/FahimSakib) - Stars 1 / Forks 0.
 - [FahimWayez](https://github.com/FahimWayez/FahimWayez) - Stars 0 / Forks 0.
@@ -977,7 +977,7 @@
 - [KamruzzamanAsif](https://github.com/KamruzzamanAsif/KamruzzamanAsif) - Stars 0 / Forks 0.
 - [kaneki666](https://github.com/kaneki666/kaneki666) - Stars 0 / Forks 0.
 - [Karnis052](https://github.com/Karnis052/Karnis052) - Stars 0 / Forks 0.
-- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 344 / Forks 21.
+- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 345 / Forks 21.
 - [kausarpial](https://github.com/kausarpial/kausarpial) - Stars 0 / Forks 0.
 - [kausaruddinahmedofficial](https://github.com/kausaruddinahmedofficial/kausaruddinahmedofficial) - Stars 0 / Forks 0.
 - [kawchar85](https://github.com/kawchar85/kawchar85) - Stars 0 / Forks 0.
@@ -1889,7 +1889,7 @@
 - [saeid721](https://github.com/saeid721/saeid721) - Stars 0 / Forks 0.
 - [Safa06](https://github.com/Safa06/Safa06) - Stars 0 / Forks 0.
 - [Safaeat](https://github.com/Safaeat/Safaeat) - Stars 0 / Forks 0.
-- [SafiaAmanAnika](https://github.com/SafiaAmanAnika/SafiaAmanAnika) - Stars 0 / Forks 0.
+- [SafiaAmanAnika](https://github.com/SafiaAmanAnika/SafiaAmanAnika) - Stars 1 / Forks 0.
 - [safin-m](https://github.com/safin-m/safin-m) - Stars 0 / Forks 0.
 - [Safius-Sifat](https://github.com/Safius-Sifat/Safius-Sifat) - Stars 0 / Forks 0.
 - [safwansatil](https://github.com/safwansatil/safwansatil) - Stars 1 / Forks 0.
@@ -2450,7 +2450,7 @@
 - [tonmoydeb404](https://github.com/tonmoydeb404/tonmoydeb404) - Stars 1 / Forks 0.
 - [tonoy3125](https://github.com/tonoy3125/tonoy3125) - Stars 0 / Forks 0.
 - [touhid-hossain](https://github.com/touhid-hossain/touhid-hossain) - Stars 0 / Forks 0.
-- [touhidcodes](https://github.com/touhidcodes/touhidcodes) - Stars 0 / Forks 23.
+- [touhidcodes](https://github.com/touhidcodes/touhidcodes) - Stars 0 / Forks 22.
 - [touhidulfahim](https://github.com/touhidulfahim/touhidulfahim) - Stars 0 / Forks 0.
 - [towfiq-ul](https://github.com/towfiq-ul/towfiq-ul) - Stars 0 / Forks 1.
 - [TOWHID16](https://github.com/TOWHID16/TOWHID16) - Stars 0 / Forks 0.
