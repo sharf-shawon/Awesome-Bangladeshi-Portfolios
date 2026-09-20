@@ -1219,7 +1219,7 @@
 - [MDSAZZADSIDDIQUE](https://github.com/MDSAZZADSIDDIQUE/MDSAZZADSIDDIQUE) - Stars 0 / Forks 0.
 - [mdsharifremon](https://github.com/mdsharifremon/mdsharifremon) - Stars 0 / Forks 0.
 - [mdsharuk](https://github.com/mdsharuk/mdsharuk) - Stars 0 / Forks 0.
-- [MdShawonForazi](https://github.com/MdShawonForazi/MdShawonForazi) - Stars 31 / Forks 4.
+- [MdShawonForazi](https://github.com/MdShawonForazi/MdShawonForazi) - Stars 30 / Forks 4.
 - [MdShimulMahmud](https://github.com/MdShimulMahmud/MdShimulMahmud) - Stars 0 / Forks 0.
 - [mdsohaghasan](https://github.com/mdsohaghasan/Profile) - Stars 1 / Forks 0.
 - [Mdsujansarkar](https://github.com/Mdsujansarkar/MdsujansaRKAR) - Stars 0 / Forks 0.
@@ -2079,7 +2079,7 @@
 - [shakilsustswe](https://github.com/shakilsustswe/shakilsustswe) - Stars 1 / Forks 0.
 - [shamim-a](https://github.com/shamim-a/shamim-a) - Stars 0 / Forks 0.
 - [shamim0902](https://github.com/shamim0902/shamim0902) - Stars 1 / Forks 2.
-- [Shamim448](https://github.com/Shamim448/Shamim448) - Stars 0 / Forks 0.
+- [Shamim448](https://github.com/Shamim448/Shamim448) - Stars 1 / Forks 0.
 - [shamimbdpro](https://github.com/shamimbdpro/shamimbdpro) - Stars 0 / Forks 1.
 - [shamimhcp1](https://github.com/shamimhcp1/shamimhcp1) - Stars 0 / Forks 0.
 - [shamimipt](https://github.com/shamimipt/shamimipt) - Stars 0 / Forks 0.
