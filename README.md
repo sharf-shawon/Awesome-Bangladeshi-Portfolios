@@ -724,7 +724,7 @@
 - [Hasanul-Banna-Himel](https://github.com/Hasanul-Banna-Himel/Hasanul-Banna-Himel) - Stars 1 / Forks 0.
 - [hasanuxaman](https://github.com/hasanuxaman/hasanuxaman) - Stars 0 / Forks 0.
 - [hashemirafsan](https://github.com/hashemirafsan/hashemirafsan) - Stars 1 / Forks 0.
-- [Hasib-39](https://github.com/Hasib-39/Hasib-39) - Stars 0 / Forks 0.
+- [Hasib-39](https://github.com/Hasib-39/Hasib-39) - Stars 1 / Forks 0.
 - [HasibCoderLab](https://github.com/HasibCoderLab/HasibCoderLab) - Stars 0 / Forks 0.
 - [hasibkamal](https://github.com/hasibkamal/template-design-practice-1) - Stars 0 / Forks 0.
 - [hasibul442](https://github.com/hasibul442/hasibul442) - Stars 5 / Forks 0.
@@ -1923,7 +1923,6 @@
 - [saifurrahman1701](https://github.com/saifurrahman1701/saifurrahman1701) - Stars 0 / Forks 0.
 - [Saikat-S](https://github.com/Saikat-S/Saikat-S) - Stars 0 / Forks 0.
 - [saimakhan1](https://github.com/saimakhan1/saimakhan1) - Stars 0 / Forks 0.
-- [saimasiddique](https://github.com/saimasiddique/saimasiddique) - Stars 1 / Forks 0.
 - [saimhasan09](https://github.com/saimhasan09/saimhasan09) - Stars 2 / Forks 0.
 - [sairatabassum](https://github.com/sairatabassum/sairatabassum) - Stars 2 / Forks 1.
 - [saiyedmahmud](https://github.com/saiyedmahmud/saiyedmahmud) - Stars 0 / Forks 0.
@@ -2456,7 +2455,7 @@
 - [towfiq-ul](https://github.com/towfiq-ul/towfiq-ul) - Stars 0 / Forks 1.
 - [TOWHID16](https://github.com/TOWHID16/TOWHID16) - Stars 0 / Forks 0.
 - [towkir](https://github.com/towkir/towkir) - Stars 0 / Forks 0.
-- [TriptoAfsin](https://github.com/TriptoAfsin/TriptoAfsin) - Stars 0 / Forks 0.
+- [TriptoAfsin](https://github.com/TriptoAfsin/TriptoAfsin) - Stars 0 / Forks 1.
 - [Tufahel](https://github.com/Tufahel/Tufahel) - Stars 5 / Forks 0.
 - [TufayelLUS](https://github.com/TufayelLUS/TufayelLUS) - Stars 1 / Forks 0.
 - [tufikhasan](https://github.com/tufikhasan/tufikhasan) - Stars 1 / Forks 0.
