@@ -1220,7 +1220,7 @@
 - [MDSAZZADSIDDIQUE](https://github.com/MDSAZZADSIDDIQUE/MDSAZZADSIDDIQUE) - Stars 0 / Forks 0.
 - [mdsharifremon](https://github.com/mdsharifremon/mdsharifremon) - Stars 0 / Forks 0.
 - [mdsharuk](https://github.com/mdsharuk/mdsharuk) - Stars 0 / Forks 0.
-- [MdShawonForazi](https://github.com/MdShawonForazi/MdShawonForazi) - Stars 30 / Forks 4.
+- [MdShawonForazi](https://github.com/MdShawonForazi/MdShawonForazi) - Stars 31 / Forks 4.
 - [MdShimulMahmud](https://github.com/MdShimulMahmud/MdShimulMahmud) - Stars 0 / Forks 0.
 - [mdsohaghasan](https://github.com/mdsohaghasan/Profile) - Stars 1 / Forks 0.
 - [Mdsujansarkar](https://github.com/Mdsujansarkar/MdsujansaRKAR) - Stars 0 / Forks 0.
@@ -2050,7 +2050,7 @@
 - [Shahed-BD71](https://github.com/Shahed-BD71/Shahed-BD71) - Stars 0 / Forks 0.
 - [Shahed-Chy-Suzan](https://github.com/Shahed-Chy-Suzan/Shahed-Chy-Suzan) - Stars 2 / Forks 3.
 - [Shahed1998](https://github.com/Shahed1998/Shahed1998) - Stars 0 / Forks 0.
-- [shahedpy](https://github.com/shahedpy/shahedpy) - Stars 0 / Forks 0.
+- [shahedpy](https://github.com/shahedpy/shahedpy) - Stars 1 / Forks 0.
 - [shahidul50](https://github.com/shahidul50/shahidul50) - Stars 0 / Forks 0.
 - [shahidulllah](https://github.com/shahidulllah/shahidulllah) - Stars 0 / Forks 0.
 - [shahisrail](https://github.com/shahisrail/shahisrail) - Stars 0 / Forks 0.
@@ -2423,7 +2423,6 @@
 - [the-bhuiyan](https://github.com/the-bhuiyan/the-bhuiyan) - Stars 0 / Forks 0.
 - [TheAhsanFarabi](https://github.com/TheAhsanFarabi/TheAhsanFarabi) - Stars 1 / Forks 0.
 - [thealamindev](https://github.com/thealamindev/thealamindev) - Stars 7 / Forks 0.
-- [thedarkul](https://github.com/thedarkul/thedarkul) - Stars 0 / Forks 0.
 - [thedevsaddam](https://github.com/thedevsaddam/thedevsaddam) - Stars 3 / Forks 3.
 - [theFahmid](https://github.com/theFahmid/theFahmid) - Stars 0 / Forks 0.
 - [theihasan](https://github.com/theihasan/theihasan) - Stars 0 / Forks 0.
