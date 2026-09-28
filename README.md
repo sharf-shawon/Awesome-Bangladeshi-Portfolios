@@ -1034,7 +1034,7 @@
 - [lahin31](https://github.com/lahin31/lahin31) - Stars 6 / Forks 2.
 - [LancerAbir](https://github.com/LancerAbir/LancerAbir) - Stars 0 / Forks 0.
 - [lavluda](https://github.com/lavluda/lavluda) - Stars 0 / Forks 1.
-- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 123 / Forks 102.
+- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 122 / Forks 102.
 - [lelinrashed](https://github.com/lelinrashed/lelinrashed) - Stars 0 / Forks 0.
 - [lemonkazi](https://github.com/lemonkazi/lemonkazi) - Stars 0 / Forks 0.
 - [lemonpatwari](https://github.com/lemonpatwari/lemonpatwari) - Stars 0 / Forks 2.
@@ -2507,7 +2507,7 @@
 - [xtareq](https://github.com/xtareq/xtareq) - Stars 0 / Forks 0.
 - [Y3454R](https://github.com/Y3454R/Y3454R) - Stars 1 / Forks 0.
 - [yakubsiyam](https://github.com/yakubsiyam/yakubsiyam) - Stars 1 / Forks 0.
-- [Yam1nX](https://github.com/Yam1nX/Yam1nX) - Stars 0 / Forks 0.
+- [Yam1nX](https://github.com/Yam1nX/Yam1nX) - Stars 1 / Forks 0.
 - [YaminMahdi](https://github.com/YaminMahdi/YaminMahdi) - Stars 0 / Forks 0.
 - [yasinahmeduiux](https://github.com/yasinahmeduiux/yasinahmeduiux) - Stars 0 / Forks 0.
 - [yasirarafatalif](https://github.com/yasirarafatalif/YasirArafatAlif) - Stars 0 / Forks 0.
