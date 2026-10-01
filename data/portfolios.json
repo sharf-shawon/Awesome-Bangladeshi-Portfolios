@@ -2460,10 +2460,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/56669333?u=004ecfc53f5ff19882dc29cb65e8bafde70a598e&v=4",
     "profile_url": "https://github.com/ahammadmejbah",
     "website_url": "https://intelligenceacademy.ai",
-    "top_language": "Jupyter Notebook",
+    "top_language": "Python",
     "all_languages": [
-      "Jupyter Notebook",
       "Python",
+      "Jupyter Notebook",
       "HTML"
     ],
     "topics": [
@@ -2473,7 +2473,7 @@
       "data-structures",
       "data-visualization"
     ],
-    "total_stars": 424
+    "total_stars": 425
   },
   {
     "username": "AhmadJaber",
@@ -5042,7 +5042,7 @@
     "username": "Apurbaroy01",
     "repoName": "Apurbaroy01",
     "description": "Hello World, This is my Profile.",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "repoUrl": "https://github.com/Apurbaroy01/Apurbaroy01",
     "websiteUrl": null,
@@ -8505,8 +8505,8 @@
     "top_language": "JavaScript",
     "all_languages": [
       "JavaScript",
-      "PHP",
-      "HTML"
+      "HTML",
+      "PHP"
     ],
     "topics": [],
     "total_stars": 10
@@ -8714,12 +8714,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/65137116?u=f326b3d24a4dadc1235d2fb3b41cfb0d7b7af87c&v=4",
     "profile_url": "https://github.com/beyourahi",
     "website_url": "beyourahi.com",
-    "top_language": "TypeScript",
+    "top_language": "Shell",
     "all_languages": [
-      "TypeScript",
       "Shell",
       "HTML",
       "Svelte",
+      "TypeScript",
       "JavaScript"
     ],
     "topics": [
@@ -12552,7 +12552,7 @@
     "username": "ettisafxrup",
     "repoName": "ettisafxrup",
     "description": null,
-    "stars": 12,
+    "stars": 11,
     "forks": 2,
     "repoUrl": "https://github.com/ettisafxrup/ettisafxrup",
     "websiteUrl": null,
@@ -16067,7 +16067,7 @@
     "repoName": "hasinhayder",
     "description": "Portfolio",
     "stars": 32,
-    "forks": 152,
+    "forks": 151,
     "repoUrl": "https://github.com/hasinhayder/hasinhayder",
     "websiteUrl": null,
     "avatar": "https://avatars.githubusercontent.com/u/490779?u=55cf0b7c57838ac0c60681309c51bcdc8b6c6b48&v=4",
@@ -17211,7 +17211,7 @@
       "htr-tech",
       "phishing-pages"
     ],
-    "total_stars": 24970
+    "total_stars": 24982
   },
   {
     "username": "HumaionKobir1",
@@ -21486,13 +21486,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/23137328?u=00b6a836d112961e9b4b34d5a73fae25b6dd180b&v=4",
     "profile_url": "https://github.com/kamrul1157024",
     "website_url": "kamrul1157024.github.io",
-    "top_language": "Python",
+    "top_language": "Swift",
     "all_languages": [
-      "Python",
-      "TypeScript",
+      "Swift",
       "Lua",
       "Go",
-      "Swift",
+      "Python",
+      "TypeScript",
       "Java"
     ],
     "topics": [
@@ -21500,7 +21500,7 @@
       "llm",
       "terminal"
     ],
-    "total_stars": 57
+    "total_stars": 60
   },
   {
     "username": "kamruleee51",
@@ -27185,12 +27185,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/83487057?u=5c0c48d0e8fc5eaf10799daccd69efbf468df380&v=4",
     "profile_url": "https://github.com/MdWahiduzzamanEmon",
     "website_url": "https://emon-portfolio-three.vercel.app/",
-    "top_language": "Python",
+    "top_language": "Shell",
     "all_languages": [
-      "Python",
-      "TypeScript",
       "Shell",
       "HTML",
+      "Python",
+      "TypeScript",
       "JavaScript"
     ],
     "topics": [
@@ -30468,13 +30468,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/34349365?u=2b8e404f4e1836186934ff542ba1340ea8bbd28f&v=4",
     "profile_url": "https://github.com/mralaminahamed",
     "website_url": "alaminahamed.com",
-    "top_language": "PHP",
+    "top_language": "Shell",
     "all_languages": [
+      "Shell",
       "PHP",
-      "Kotlin",
       "Python",
       "TypeScript",
-      "Shell",
+      "Kotlin",
       "JavaScript"
     ],
     "topics": [
@@ -33753,15 +33753,15 @@
     "forks": 13,
     "repoUrl": "https://github.com/NazmusSayad/NazmusSayad",
     "websiteUrl": null,
-    "avatar": "https://avatars.githubusercontent.com/u/87106526?v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/87106526?u=24617f583626cdb621f7a59f357986c2205e90d7&v=4",
     "profile_url": "https://github.com/NazmusSayad",
     "website_url": "nazmussayad.com",
-    "top_language": "JavaScript",
+    "top_language": "Python",
     "all_languages": [
-      "JavaScript",
       "Python",
       "TypeScript",
-      "Go"
+      "Go",
+      "JavaScript"
     ],
     "topics": [
       "islam",
@@ -33770,7 +33770,7 @@
       "islamic-prayer-times",
       "prayer-times"
     ],
-    "total_stars": 512
+    "total_stars": 513
   },
   {
     "username": "Nazrulislam45",
@@ -41044,7 +41044,7 @@
     "username": "ryihan",
     "repoName": "ryihan",
     "description": "Welcome to Raihan's profile!",
-    "stars": 25,
+    "stars": 26,
     "forks": 35,
     "repoUrl": "https://github.com/ryihan/ryihan",
     "websiteUrl": null,
@@ -47819,7 +47819,7 @@
     "username": "shovoalways",
     "repoName": "shovoalways",
     "description": "I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.",
-    "stars": 184,
+    "stars": 185,
     "forks": 41,
     "repoUrl": "https://github.com/shovoalways/shovoalways",
     "websiteUrl": null,
@@ -54467,7 +54467,7 @@
     "repoName": "touhidcodes",
     "description": "Config files for my GitHub profile.",
     "stars": 0,
-    "forks": 26,
+    "forks": 27,
     "repoUrl": "https://github.com/touhidcodes/touhidcodes",
     "websiteUrl": null,
     "avatar": "https://avatars.githubusercontent.com/u/109128900?u=7019ff6c99f5d29ed573e7296b6c92d3defbc0f3&v=4",

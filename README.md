@@ -237,7 +237,7 @@
 - [AponAhmed](https://github.com/AponAhmed/AponAhmed) - Stars 0 / Forks 0.
 - [appl4e](https://github.com/appl4e/appl4e) - Stars 0 / Forks 0.
 - [apu-22](https://github.com/apu-22/apu-22) - Stars 0 / Forks 0.
-- [Apurbaroy01](https://github.com/Apurbaroy01/Apurbaroy01) - Stars 0 / Forks 0.
+- [Apurbaroy01](https://github.com/Apurbaroy01/Apurbaroy01) - Stars 1 / Forks 0.
 - [Apurbo20](https://github.com/Apurbo20/Apurbo20) - Stars 0 / Forks 0.
 - [ar-riifat](https://github.com/ar-riifat/ar-riifat) - Stars 2 / Forks 0.
 - [AR-Shahin](https://github.com/AR-Shahin/AR-Shahin) - Stars 3 / Forks 1.
@@ -572,7 +572,7 @@
 - [ershadul1](https://github.com/ershadul1/ershadul1) - Stars 1 / Forks 0.
 - [esha8di](https://github.com/esha8di/esha8di) - Stars 0 / Forks 0.
 - [Estiyak-rubs](https://github.com/Estiyak-rubs/Estiyak-rubs) - Stars 2 / Forks 0.
-- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 12 / Forks 2.
+- [ettisafxrup](https://github.com/ettisafxrup/ettisafxrup) - Stars 11 / Forks 2.
 - [euashish](https://github.com/euashish/euashish) - Stars 3 / Forks 1.
 - [evanemran](https://github.com/evanemran/evanemran) - Stars 4 / Forks 2.
 - [Experiments-Codes](https://github.com/Experiments-Codes/nftushar) - Stars 0 / Forks 0.
@@ -729,7 +729,7 @@
 - [hasibkamal](https://github.com/hasibkamal/template-design-practice-1) - Stars 0 / Forks 0.
 - [hasibul442](https://github.com/hasibul442/hasibul442) - Stars 5 / Forks 0.
 - [Hasina-Akter20](https://github.com/Hasina-Akter20/Hasina-Akter20) - Stars 0 / Forks 1.
-- [hasinhayder](https://github.com/hasinhayder/hasinhayder) - Stars 32 / Forks 152.
+- [hasinhayder](https://github.com/hasinhayder/hasinhayder) - Stars 32 / Forks 151.
 - [Hasnain1408](https://github.com/Hasnain1408/Hasnain1408) - Stars 0 / Forks 0.
 - [Hasnain79-fury](https://github.com/Hasnain79-fury/Hasnain79-fury) - Stars 0 / Forks 0.
 - [Hasnayeen](https://github.com/Hasnayeen/Hasnayeen) - Stars 0 / Forks 0.
@@ -1849,7 +1849,7 @@
 - [Ruubia](https://github.com/Ruubia/Ruubia) - Stars 2 / Forks 0.
 - [Ruzana-khan](https://github.com/Ruzana-khan/Ruzana-khan) - Stars 0 / Forks 0.
 - [ryancantrell321](https://github.com/ryancantrell321/ryancantrell321) - Stars 0 / Forks 0.
-- [ryihan](https://github.com/ryihan/ryihan) - Stars 25 / Forks 35.
+- [ryihan](https://github.com/ryihan/ryihan) - Stars 26 / Forks 35.
 - [rzrabbi](https://github.com/rzrabbi/rzrabbi) - Stars 3 / Forks 0.
 - [s4kibs4mi](https://github.com/s4kibs4mi/s4kibs4mi) - Stars 2 / Forks 0.
 - [Saabbir](https://github.com/Saabbir/Saabbir) - Stars 1 / Forks 1.
@@ -2153,7 +2153,7 @@
 - [shourovr82](https://github.com/shourovr82/shourovr82) - Stars 1 / Forks 1.
 - [ShourovSaha](https://github.com/ShourovSaha/ShourovSaha) - Stars 0 / Forks 0.
 - [shouvick](https://github.com/shouvick/shouvick) - Stars 0 / Forks 0.
-- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 184 / Forks 41.
+- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 185 / Forks 41.
 - [shovonrahmanshuvo](https://github.com/shovonrahmanshuvo/shovonrahmanshuvo) - Stars 1 / Forks 0.
 - [ShowmikDebnath](https://github.com/ShowmikDebnath/ShowmikDebnath) - Stars 0 / Forks 0.
 - [showrov4g](https://github.com/showrov4g/showrov4g) - Stars 2 / Forks 0.
@@ -2449,7 +2449,7 @@
 - [tonmoydeb404](https://github.com/tonmoydeb404/tonmoydeb404) - Stars 1 / Forks 0.
 - [tonoy3125](https://github.com/tonoy3125/tonoy3125) - Stars 0 / Forks 0.
 - [touhid-hossain](https://github.com/touhid-hossain/touhid-hossain) - Stars 0 / Forks 0.
-- [touhidcodes](https://github.com/touhidcodes/touhidcodes) - Stars 0 / Forks 26.
+- [touhidcodes](https://github.com/touhidcodes/touhidcodes) - Stars 0 / Forks 27.
 - [touhidulfahim](https://github.com/touhidulfahim/touhidulfahim) - Stars 0 / Forks 0.
 - [towfiq-ul](https://github.com/towfiq-ul/towfiq-ul) - Stars 0 / Forks 1.
 - [TOWHID16](https://github.com/TOWHID16/TOWHID16) - Stars 0 / Forks 0.
