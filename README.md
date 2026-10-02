@@ -362,7 +362,7 @@
 - [audacioustux](https://github.com/audacioustux/audacioustux) - Stars 2 / Forks 0.
 - [Auniik](https://github.com/Auniik/Auniik) - Stars 0 / Forks 0.
 - [AURazzak](https://github.com/AURazzak/AURazzak) - Stars 0 / Forks 0.
-- [AUS8970](https://github.com/AUS8970/AUS8970) - Stars 1 / Forks 0.
+- [AUS8970](https://github.com/AUS8970/AUS8970) - Stars 1 / Forks 1.
 - [Aushraful](https://github.com/Aushraful/aushraful) - Stars 0 / Forks 0.
 - [avilashsaha035](https://github.com/avilashsaha035/avilashsaha035) - Stars 0 / Forks 0.
 - [awolad](https://github.com/awolad/awolad.github.io) - Stars 0 / Forks 0.
@@ -1046,7 +1046,7 @@
 - [Luban6887](https://github.com/Luban6887/Luban6887) - Stars 1 / Forks 0.
 - [lukmanhossain](https://github.com/lukmanhossain/lukmanhossain) - Stars 0 / Forks 0.
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
-- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 15 / Forks 3.
+- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 16 / Forks 3.
 - [m0h4mm4d-h053n](https://github.com/m0h4mm4d-h053n/m0h4mm4d-h053n) - Stars 0 / Forks 0.
 - [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 6 / Forks 1.
 - [MAAB-FW](https://github.com/MAAB-FW/MAAB-FW) - Stars 1 / Forks 0.
