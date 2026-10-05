@@ -15,7 +15,7 @@
 - [0xMahabub](https://github.com/0xMahabub/0xMahabub) - Stars 0 / Forks 1.
 - [0xRahad](https://github.com/0xRahad/0xRahad) - Stars 0 / Forks 0.
 - [0xRokib](https://github.com/0xRokib/0xRokib) - Stars 1 / Forks 2.
-- [0xSaikat](https://github.com/0xSaikat/0xSaikat) - Stars 2 / Forks 0.
+- [0xSaikat](https://github.com/0xSaikat/0xSaikat) - Stars 2 / Forks 1.
 - [0xTanzim](https://github.com/0xTanzim/0xTanzim) - Stars 1 / Forks 0.
 - [101rror](https://github.com/101rror/101rror) - Stars 0 / Forks 0.
 - [1104Anikbarua](https://github.com/1104Anikbarua/1104Anikbarua) - Stars 0 / Forks 0.
@@ -2089,7 +2089,7 @@
 - [Shanto9131](https://github.com/Shanto9131/Shanto9131) - Stars 0 / Forks 0.
 - [ShantoNoor](https://github.com/ShantoNoor/ShantoNoor) - Stars 0 / Forks 0.
 - [shaonbd](https://github.com/shaonbd/shaonbd) - Stars 0 / Forks 0.
-- [shaonkabir8](https://github.com/shaonkabir8/shaonkabir8) - Stars 3 / Forks 1.
+- [shaonkabir8](https://github.com/shaonkabir8/shaonkabir8) - Stars 4 / Forks 1.
 - [ShaonMajumder](https://github.com/ShaonMajumder/ShaonMajumder) - Stars 0 / Forks 0.
 - [Shaqibul-Neil](https://github.com/Shaqibul-Neil/Shaqibul-Neil) - Stars 0 / Forks 0.
 - [SharafatKarim](https://github.com/SharafatKarim/SharafatKarim) - Stars 1 / Forks 3.
