@@ -2436,8 +2436,8 @@
     "top_language": "Jupyter Notebook",
     "all_languages": [
       "Jupyter Notebook",
-      "HTML",
-      "Python"
+      "Python",
+      "HTML"
     ],
     "topics": [
       "data-science",
@@ -2623,7 +2623,7 @@
   {
     "username": "ahmedshahriar",
     "repoName": "ahmedshahriar",
-    "description": "Please visit https://ahmedshahriar.com to know more about me!",
+    "description": null,
     "stars": 3,
     "forks": 2,
     "repoUrl": "https://github.com/ahmedshahriar/ahmedshahriar",
@@ -17168,11 +17168,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/56682134?u=b28f29914d0f1df3ac5f23d2aaf3dc50512fc93c&v=4",
     "profile_url": "https://github.com/htr-tech",
     "website_url": "tahmidrayat.is-a.dev",
-    "top_language": "HTML",
+    "top_language": "Python",
     "all_languages": [
+      "Python",
       "HTML",
-      "Shell",
-      "Python"
+      "Shell"
     ],
     "topics": [
       "phishing",
@@ -17181,7 +17181,7 @@
       "htr-tech",
       "phishing-pages"
     ],
-    "total_stars": 25010
+    "total_stars": 25032
   },
   {
     "username": "HumaionKobir1",
@@ -22319,34 +22319,6 @@
       "montu"
     ],
     "total_stars": 311
-  },
-  {
-    "username": "khayrul25",
-    "repoName": "khayrul25",
-    "description": null,
-    "stars": 0,
-    "forks": 0,
-    "repoUrl": "https://github.com/khayrul25/khayrul25",
-    "websiteUrl": null,
-    "avatar": "https://avatars.githubusercontent.com/u/86622751?u=12080da8f68857366de89a796a33dd7efd0617b8&v=4",
-    "profile_url": "https://github.com/khayrul25",
-    "website_url": null,
-    "top_language": "JavaScript",
-    "all_languages": [
-      "JavaScript",
-      "MDX",
-      "HTML",
-      "TypeScript",
-      "CSS"
-    ],
-    "topics": [
-      "component",
-      "css",
-      "html",
-      "javascript",
-      "tailwind"
-    ],
-    "total_stars": 58
   },
   {
     "username": "khokan",
@@ -30452,14 +30424,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/34349365?u=2b8e404f4e1836186934ff542ba1340ea8bbd28f&v=4",
     "profile_url": "https://github.com/mralaminahamed",
     "website_url": "alaminahamed.com",
-    "top_language": "PHP",
+    "top_language": "Kotlin",
     "all_languages": [
-      "PHP",
-      "TypeScript",
       "Kotlin",
-      "JavaScript",
       "Shell",
-      "Python"
+      "PHP",
+      "JavaScript",
+      "Python",
+      "TypeScript"
     ],
     "topics": [
       "claude-code",
@@ -33737,12 +33709,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/87106526?u=24617f583626cdb621f7a59f357986c2205e90d7&v=4",
     "profile_url": "https://github.com/NazmusSayad",
     "website_url": "nazmussayad.com",
-    "top_language": "TypeScript",
+    "top_language": "Python",
     "all_languages": [
-      "TypeScript",
-      "Go",
+      "Python",
       "JavaScript",
-      "Python"
+      "TypeScript",
+      "Go"
     ],
     "topics": [
       "configuration",
@@ -33751,7 +33723,7 @@
       "dotfiles",
       "environment"
     ],
-    "total_stars": 512
+    "total_stars": 556
   },
   {
     "username": "Nazrulislam45",
@@ -47805,7 +47777,7 @@
     "username": "shovoalways",
     "repoName": "shovoalways",
     "description": "I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.",
-    "stars": 185,
+    "stars": 186,
     "forks": 41,
     "repoUrl": "https://github.com/shovoalways/shovoalways",
     "websiteUrl": null,
