@@ -15,7 +15,7 @@
 - [0xMahabub](https://github.com/0xMahabub/0xMahabub) - Stars 0 / Forks 1.
 - [0xRahad](https://github.com/0xRahad/0xRahad) - Stars 0 / Forks 0.
 - [0xRokib](https://github.com/0xRokib/0xRokib) - Stars 1 / Forks 2.
-- [0xSaikat](https://github.com/0xSaikat/0xSaikat) - Stars 2 / Forks 1.
+- [0xSaikat](https://github.com/0xSaikat/0xSaikat) - Stars 2 / Forks 0.
 - [0xTanzim](https://github.com/0xTanzim/0xTanzim) - Stars 1 / Forks 0.
 - [101rror](https://github.com/101rror/101rror) - Stars 0 / Forks 0.
 - [1104Anikbarua](https://github.com/1104Anikbarua/1104Anikbarua) - Stars 0 / Forks 0.
@@ -728,7 +728,7 @@
 - [hasibkamal](https://github.com/hasibkamal/template-design-practice-1) - Stars 0 / Forks 0.
 - [hasibul442](https://github.com/hasibul442/hasibul442) - Stars 5 / Forks 0.
 - [Hasina-Akter20](https://github.com/Hasina-Akter20/Hasina-Akter20) - Stars 0 / Forks 1.
-- [hasinhayder](https://github.com/hasinhayder/hasinhayder) - Stars 32 / Forks 151.
+- [hasinhayder](https://github.com/hasinhayder/hasinhayder) - Stars 32 / Forks 150.
 - [Hasnain1408](https://github.com/Hasnain1408/Hasnain1408) - Stars 0 / Forks 0.
 - [Hasnain79-fury](https://github.com/Hasnain79-fury/Hasnain79-fury) - Stars 0 / Forks 0.
 - [Hasnayeen](https://github.com/Hasnayeen/Hasnayeen) - Stars 0 / Forks 0.
