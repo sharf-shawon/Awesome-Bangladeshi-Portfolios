@@ -11114,32 +11114,6 @@
     "total_stars": 11
   },
   {
-    "username": "devSahinur",
-    "repoName": "devSahinur",
-    "description": "If you are forking please do not forget to star the repo",
-    "stars": 24,
-    "forks": 14,
-    "repoUrl": "https://github.com/devSahinur/devSahinur",
-    "websiteUrl": null,
-    "avatar": "https://avatars.githubusercontent.com/u/68515168?u=4c3a3051b43081fd460d30a91b312f7cee14c150&v=4",
-    "profile_url": "https://github.com/devSahinur",
-    "website_url": "sahinur.dev",
-    "top_language": "TypeScript",
-    "all_languages": [
-      "TypeScript",
-      "JavaScript",
-      "Python"
-    ],
-    "topics": [
-      "sahinurinfo",
-      "bangladesh",
-      "readme",
-      "sahinur-islam",
-      "devsahinur"
-    ],
-    "total_stars": 83
-  },
-  {
     "username": "devShamim",
     "repoName": "devShamim",
     "description": null,
@@ -32438,7 +32412,7 @@
     "username": "nafiul-afk",
     "repoName": "nafiul-afk",
     "description": null,
-    "stars": 25,
+    "stars": 24,
     "forks": 3,
     "repoUrl": "https://github.com/nafiul-afk/nafiul-afk",
     "websiteUrl": null,
@@ -42145,6 +42119,22 @@
     ],
     "topics": [],
     "total_stars": 10
+  },
+  {
+    "username": "SahinurDEV",
+    "repoName": "devSahinur",
+    "description": "If you are forking please do not forget to star the repo",
+    "stars": 24,
+    "forks": 14,
+    "repoUrl": "https://github.com/SahinurDEV/devSahinur",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/SahinurDEV",
+    "profile_url": "https://github.com/SahinurDEV",
+    "website_url": null,
+    "top_language": null,
+    "all_languages": [],
+    "topics": [],
+    "total_stars": 0
   },
   {
     "username": "sai4ul",
@@ -55218,7 +55208,7 @@
     "username": "wasi-master",
     "repoName": "wasi-master",
     "description": "Profile Repo",
-    "stars": 7,
+    "stars": 8,
     "forks": 0,
     "repoUrl": "https://github.com/wasi-master/wasi-master",
     "websiteUrl": null,

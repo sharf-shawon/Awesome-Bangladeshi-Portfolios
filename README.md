@@ -508,7 +508,6 @@
 - [devmuhib](https://github.com/devmuhib/devmuhib) - Stars 5 / Forks 8.
 - [devmuhib009](https://github.com/devmuhib009/devmuhib009) - Stars 2 / Forks 1.
 - [devriazul](https://github.com/devriazul/devriazul) - Stars 0 / Forks 2.
-- [devSahinur](https://github.com/devSahinur/devSahinur) - Stars 24 / Forks 14.
 - [devShamim](https://github.com/devShamim/devShamim) - Stars 1 / Forks 1.
 - [devTanzu](https://github.com/devTanzu/devTanzu) - Stars 0 / Forks 0.
 - [devzkhalil](https://github.com/devzkhalil/devzkhalil) - Stars 0 / Forks 0.
@@ -1462,7 +1461,7 @@
 - [NafisianCastle](https://github.com/NafisianCastle/NafisianCastle) - Stars 0 / Forks 0.
 - [NafisNoorNabil](https://github.com/NafisNoorNabil/NafisNoorNabil) - Stars 0 / Forks 0.
 - [NafisUddinElok](https://github.com/NafisUddinElok/NafisUddinElok) - Stars 0 / Forks 0.
-- [nafiul-afk](https://github.com/nafiul-afk/nafiul-afk) - Stars 25 / Forks 3.
+- [nafiul-afk](https://github.com/nafiul-afk/nafiul-afk) - Stars 24 / Forks 3.
 - [nafiulhaqueinan](https://github.com/nafiulhaqueinan/nafiulhaqueinan) - Stars 5 / Forks 1.
 - [nahian91](https://github.com/nahian91/nahian91) - Stars 0 / Forks 0.
 - [nahid](https://github.com/nahid/nahid) - Stars 1 / Forks 8.
@@ -1900,6 +1899,7 @@
 - [Sahariar](https://github.com/Sahariar/Sahariar) - Stars 0 / Forks 0.
 - [SahilImrose](https://github.com/SahilImrose/SahilImrose) - Stars 1 / Forks 1.
 - [sahinur31](https://github.com/sahinur31/sahinur31) - Stars 1 / Forks 1.
+- [SahinurDEV](https://github.com/SahinurDEV/devSahinur) - Stars 24 / Forks 14.
 - [sai4ul](https://github.com/sai4ul/sai4ul) - Stars 2 / Forks 0.
 - [saidee-hasan](https://github.com/saidee-hasan/saidee-hasan) - Stars 5 / Forks 1.
 - [Saidiislam](https://github.com/Saidiislam/Saidiislam) - Stars 2 / Forks 2.
@@ -2484,7 +2484,7 @@
 - [walleeva2018](https://github.com/walleeva2018/walleeva2018) - Stars 0 / Forks 0.
 - [waqil52](https://github.com/waqil52/waqil52) - Stars 0 / Forks 0.
 - [WASHIMKHA](https://github.com/WASHIMKHA/WASHIMKHA) - Stars 0 / Forks 0.
-- [wasi-master](https://github.com/wasi-master/wasi-master) - Stars 7 / Forks 0.
+- [wasi-master](https://github.com/wasi-master/wasi-master) - Stars 8 / Forks 0.
 - [wasi0013](https://github.com/wasi0013/wasi0013) - Stars 0 / Forks 0.
 - [wassi10](https://github.com/wassi10/wassi10) - Stars 0 / Forks 0.
 - [Web-Programmer-1](https://github.com/Web-Programmer-1/Web-Programmer-1) - Stars 0 / Forks 0.
