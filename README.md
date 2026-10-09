@@ -1953,7 +1953,7 @@
 - [sakib-xrz](https://github.com/sakib-xrz/sakib-xrz) - Stars 1 / Forks 2.
 - [sakib412](https://github.com/sakib412/sakib412) - Stars 1 / Forks 1.
 - [Sakib62](https://github.com/Sakib62/Sakib62) - Stars 1 / Forks 2.
-- [SakibAhamedKhan](https://github.com/SakibAhamedKhan/SakibAhamedKhan) - Stars 0 / Forks 0.
+- [SakibAhamedKhan](https://github.com/SakibAhamedKhan/SakibAhamedKhan) - Stars 0 / Forks 1.
 - [sakibmd](https://github.com/sakibmd/sakibmd) - Stars 0 / Forks 0.
 - [sakibnasib](https://github.com/sakibnasib/sakibnasib) - Stars 0 / Forks 0.
 - [SakibNoman](https://github.com/SakibNoman/SakibNoman) - Stars 0 / Forks 0.
@@ -2060,7 +2060,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 60 / Forks 78.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 60 / Forks 79.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
@@ -2088,7 +2088,7 @@
 - [Shanto9131](https://github.com/Shanto9131/Shanto9131) - Stars 0 / Forks 0.
 - [ShantoNoor](https://github.com/ShantoNoor/ShantoNoor) - Stars 0 / Forks 0.
 - [shaonbd](https://github.com/shaonbd/shaonbd) - Stars 0 / Forks 0.
-- [shaonkabir8](https://github.com/shaonkabir8/shaonkabir8) - Stars 4 / Forks 1.
+- [shaonkabir8](https://github.com/shaonkabir8/shaonkabir8) - Stars 5 / Forks 2.
 - [ShaonMajumder](https://github.com/ShaonMajumder/ShaonMajumder) - Stars 0 / Forks 0.
 - [Shaqibul-Neil](https://github.com/Shaqibul-Neil/Shaqibul-Neil) - Stars 0 / Forks 0.
 - [SharafatKarim](https://github.com/SharafatKarim/SharafatKarim) - Stars 1 / Forks 3.
@@ -2152,7 +2152,7 @@
 - [shourovr82](https://github.com/shourovr82/shourovr82) - Stars 1 / Forks 1.
 - [ShourovSaha](https://github.com/ShourovSaha/ShourovSaha) - Stars 0 / Forks 0.
 - [shouvick](https://github.com/shouvick/shouvick) - Stars 0 / Forks 0.
-- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 186 / Forks 41.
+- [shovoalways](https://github.com/shovoalways/shovoalways) - Stars 187 / Forks 41.
 - [shovonrahmanshuvo](https://github.com/shovonrahmanshuvo/shovonrahmanshuvo) - Stars 1 / Forks 0.
 - [ShowmikDebnath](https://github.com/ShowmikDebnath/ShowmikDebnath) - Stars 0 / Forks 0.
 - [showrov4g](https://github.com/showrov4g/showrov4g) - Stars 2 / Forks 0.
