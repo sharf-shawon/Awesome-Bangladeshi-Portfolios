@@ -1899,7 +1899,7 @@
 - [Sahariar](https://github.com/Sahariar/Sahariar) - Stars 0 / Forks 0.
 - [SahilImrose](https://github.com/SahilImrose/SahilImrose) - Stars 1 / Forks 1.
 - [sahinur31](https://github.com/sahinur31/sahinur31) - Stars 1 / Forks 1.
-- [SahinurDEV](https://github.com/SahinurDEV/devSahinur) - Stars 24 / Forks 14.
+- [SahinurDEV](https://github.com/SahinurDEV/SahinurDEV) - Stars 24 / Forks 14.
 - [sai4ul](https://github.com/sai4ul/sai4ul) - Stars 2 / Forks 0.
 - [saidee-hasan](https://github.com/saidee-hasan/saidee-hasan) - Stars 5 / Forks 1.
 - [Saidiislam](https://github.com/Saidiislam/Saidiislam) - Stars 2 / Forks 2.
