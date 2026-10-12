@@ -470,7 +470,7 @@
 - [D-N-H-BOYS1](https://github.com/D-N-H-BOYS1/D-N-H-BOYS1) - Stars 0 / Forks 0.
 - [d0tb0t71](https://github.com/d0tb0t71/d0tb0t71) - Stars 0 / Forks 0.
 - [darkluminance](https://github.com/darkluminance/darkluminance) - Stars 0 / Forks 0.
-- [darkprinx](https://github.com/darkprinx/darkprinx) - Stars 7 / Forks 4.
+- [darkprinx](https://github.com/darkprinx/darkprinx) - Stars 7 / Forks 3.
 - [deadshoot333](https://github.com/deadshoot333/deadshoot333) - Stars 0 / Forks 0.
 - [deba1](https://github.com/deba1/deba1) - Stars 0 / Forks 0.
 - [deKuddus](https://github.com/deKuddus/dekuddus) - Stars 0 / Forks 0.
@@ -1954,7 +1954,7 @@
 - [sakib-xrz](https://github.com/sakib-xrz/sakib-xrz) - Stars 1 / Forks 2.
 - [sakib412](https://github.com/sakib412/sakib412) - Stars 1 / Forks 1.
 - [Sakib62](https://github.com/Sakib62/Sakib62) - Stars 1 / Forks 2.
-- [SakibAhamedKhan](https://github.com/SakibAhamedKhan/SakibAhamedKhan) - Stars 0 / Forks 1.
+- [SakibAhamedKhan](https://github.com/SakibAhamedKhan/SakibAhamedKhan) - Stars 0 / Forks 0.
 - [sakibmd](https://github.com/sakibmd/sakibmd) - Stars 0 / Forks 0.
 - [sakibnasib](https://github.com/sakibnasib/sakibnasib) - Stars 0 / Forks 0.
 - [SakibNoman](https://github.com/SakibNoman/SakibNoman) - Stars 0 / Forks 0.
@@ -2295,7 +2295,7 @@
 - [syfulsharif](https://github.com/syfulsharif/syfulsharif) - Stars 0 / Forks 0.
 - [syket-git](https://github.com/syket-git/syket-git) - Stars 0 / Forks 1.
 - [T4snimul](https://github.com/T4snimul/T4snimul) - Stars 0 / Forks 0.
-- [Taanveer22](https://github.com/Taanveer22/Taanveer22) - Stars 4 / Forks 0.
+- [Taanveer22](https://github.com/Taanveer22/Taanveer22) - Stars 3 / Forks 0.
 - [tafhimulkabir](https://github.com/tafhimulkabir/tafhimulkabir) - Stars 1 / Forks 0.
 - [tahajjat](https://github.com/tahajjat/Tahajjat) - Stars 0 / Forks 0.
 - [Tahanima](https://github.com/Tahanima/Tahanima) - Stars 0 / Forks 0.
