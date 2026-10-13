@@ -484,7 +484,7 @@
 - [DEV-NKP](https://github.com/DEV-NKP/DEV-NKP) - Stars 1 / Forks 0.
 - [dev-nzm99](https://github.com/dev-nzm99/dev-nzm99) - Stars 0 / Forks 0.
 - [dev-sahab](https://github.com/dev-sahab/dev-sahab) - Stars 1 / Forks 0.
-- [Dev-SalamSheikh](https://github.com/Dev-SalamSheikh/Dev-SalamSheikh) - Stars 4 / Forks 0.
+- [Dev-SalamSheikh](https://github.com/Dev-SalamSheikh/Dev-SalamSheikh) - Stars 5 / Forks 0.
 - [dev-tahsin7](https://github.com/dev-tahsin7/dev-tahsin7) - Stars 0 / Forks 0.
 - [devabutaher](https://github.com/devabutaher/devabutaher) - Stars 0 / Forks 0.
 - [Developer-Barsha](https://github.com/Developer-Barsha/Developer-Barsha) - Stars 0 / Forks 0.
@@ -2061,7 +2061,7 @@
 - [ShahriarAlvi](https://github.com/ShahriarAlvi/ShahriarAlvi) - Stars 0 / Forks 0.
 - [shahriarAS](https://github.com/shahriarAS/shahriarAS) - Stars 1 / Forks 0.
 - [Shahriarkawsik](https://github.com/Shahriarkawsik/Shahriarkawsik) - Stars 0 / Forks 0.
-- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 61 / Forks 79.
+- [shahriarshafin](https://github.com/shahriarshafin/shahriarshafin) - Stars 61 / Forks 78.
 - [ShahSayem](https://github.com/ShahSayem/ShahSayem) - Stars 0 / Forks 0.
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
