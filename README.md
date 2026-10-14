@@ -592,6 +592,7 @@
 - [fahimfoysal2](https://github.com/fahimfoysal2/fahimfoysal2) - Stars 0 / Forks 0.
 - [FahimHassanMollah](https://github.com/FahimHassanMollah/FahimHassanMollah) - Stars 0 / Forks 0.
 - [fahimhossain26](https://github.com/fahimhossain26/fahimhossain26) - Stars 1 / Forks 0.
+- [FahimNuman](https://github.com/FahimNuman/fahimnuman) - Stars 0 / Forks 0.
 - [fahimprito](https://github.com/fahimprito/fahimprito) - Stars 0 / Forks 0.
 - [FahimSakib](https://github.com/FahimSakib/FahimSakib) - Stars 1 / Forks 0.
 - [FahimWayez](https://github.com/FahimWayez/FahimWayez) - Stars 0 / Forks 0.
@@ -1032,7 +1033,7 @@
 - [lahin31](https://github.com/lahin31/lahin31) - Stars 6 / Forks 2.
 - [LancerAbir](https://github.com/LancerAbir/LancerAbir) - Stars 0 / Forks 0.
 - [lavluda](https://github.com/lavluda/lavluda) - Stars 0 / Forks 1.
-- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 122 / Forks 102.
+- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 122 / Forks 101.
 - [lelinrashed](https://github.com/lelinrashed/lelinrashed) - Stars 0 / Forks 0.
 - [lemonkazi](https://github.com/lemonkazi/lemonkazi) - Stars 0 / Forks 0.
 - [lemonpatwari](https://github.com/lemonpatwari/lemonpatwari) - Stars 0 / Forks 2.
@@ -1598,6 +1599,7 @@
 - [opuu](https://github.com/opuu/opuu) - Stars 5 / Forks 0.
 - [oritromax](https://github.com/oritromax/oritromax) - Stars 0 / Forks 0.
 - [orun-sunny](https://github.com/orun-sunny/orun-sunny) - Stars 1 / Forks 0.
+- [orvi2014](https://github.com/orvi2014/orvi2014) - Stars 0 / Forks 0.
 - [osmanfaaruk](https://github.com/osmanfaaruk/osmanfaaruk) - Stars 0 / Forks 1.
 - [Owes-Shubho](https://github.com/Owes-Shubho/shubhomedia) - Stars 0 / Forks 0.
 - [Owhab](https://github.com/Owhab/Owhab) - Stars 0 / Forks 0.
