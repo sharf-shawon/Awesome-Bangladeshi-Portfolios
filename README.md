@@ -646,7 +646,6 @@
 - [firose-munna](https://github.com/firose-munna/firose-munna) - Stars 0 / Forks 0.
 - [fiyazbinhasan](https://github.com/fiyazbinhasan/fiyazbinhasan) - Stars 0 / Forks 2.
 - [FKhushbu927](https://github.com/FKhushbu927/FKhushbu927) - Stars 0 / Forks 0.
-- [fluentmoheshwar](https://github.com/fluentmoheshwar/fluentmoheshwar) - Stars 1 / Forks 1.
 - [fms-byte](https://github.com/fms-byte/fms-byte) - Stars 0 / Forks 1.
 - [fnnaeem1881](https://github.com/fnnaeem1881/fnnaeem1881) - Stars 1 / Forks 1.
 - [forhad1518](https://github.com/forhad1518/forhad1518) - Stars 0 / Forks 0.
@@ -1033,7 +1032,7 @@
 - [lahin31](https://github.com/lahin31/lahin31) - Stars 6 / Forks 2.
 - [LancerAbir](https://github.com/LancerAbir/LancerAbir) - Stars 0 / Forks 0.
 - [lavluda](https://github.com/lavluda/lavluda) - Stars 0 / Forks 1.
-- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 122 / Forks 101.
+- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 122 / Forks 102.
 - [lelinrashed](https://github.com/lelinrashed/lelinrashed) - Stars 0 / Forks 0.
 - [lemonkazi](https://github.com/lemonkazi/lemonkazi) - Stars 0 / Forks 0.
 - [lemonpatwari](https://github.com/lemonpatwari/lemonpatwari) - Stars 0 / Forks 2.
@@ -1609,7 +1608,6 @@
 - [partha-banik](https://github.com/partha-banik/partha-banik) - Stars 0 / Forks 0.
 - [parthodas23](https://github.com/parthodas23/parthodas23) - Stars 1 / Forks 0.
 - [parvez-prottoy](https://github.com/parvez-prottoy/parvez-prottoy) - Stars 0 / Forks 0.
-- [pen-anthokhiya](https://github.com/pen-anthokhiya/pronoyNath) - Stars 0 / Forks 0.
 - [perashanid](https://github.com/perashanid/perashanid) - Stars 1 / Forks 0.
 - [pesnik](https://github.com/pesnik/pesnik) - Stars 0 / Forks 0.
 - [peyas4854](https://github.com/peyas4854/peyas4854) - Stars 0 / Forks 0.
