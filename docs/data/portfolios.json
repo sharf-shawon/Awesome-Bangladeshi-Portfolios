@@ -6153,12 +6153,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/53598781?u=c76b2be73e00e1a86f2ce094485a7074b1808f31&v=4",
     "profile_url": "https://github.com/ArnobKumarSaha",
     "website_url": null,
-    "top_language": "JavaScript",
+    "top_language": "Shell",
     "all_languages": [
-      "JavaScript",
       "Shell",
       "Go",
-      "C++"
+      "C++",
+      "JavaScript"
     ],
     "topics": [],
     "total_stars": 16
@@ -11006,12 +11006,12 @@
     "top_language": "Java",
     "all_languages": [
       "Java",
-      "JavaScript",
       "Python",
+      "JavaScript",
       "TypeScript"
     ],
     "topics": [],
-    "total_stars": 64
+    "total_stars": 65
   },
   {
     "username": "devmeasin",
@@ -13036,9 +13036,8 @@
     "avatar": "https://avatars.githubusercontent.com/u/53372580?u=48148a1d99452aec670cbfe44e0d286c1005563f&v=4",
     "profile_url": "https://github.com/FahimNuman",
     "website_url": "https://abdullah-al-numan-portfolio.netlify.app/",
-    "top_language": "HTML",
+    "top_language": "TypeScript",
     "all_languages": [
-      "HTML",
       "TypeScript",
       "JavaScript"
     ],
@@ -14220,15 +14219,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/65463913?u=1ee9f40c70e7bdec765f512063fdce387da36842&v=4",
     "profile_url": "https://github.com/fluentmoheshwar",
     "website_url": "https://moheshwar.com",
-    "top_language": "Svelte",
+    "top_language": "JavaScript",
     "all_languages": [
-      "Svelte",
-      "Batchfile",
-      "TypeScript",
-      "HTML",
+      "JavaScript",
       "Shell",
+      "C#",
+      "Batchfile",
       "Python",
-      "C#"
+      "TypeScript"
     ],
     "topics": [
       "gui",
@@ -14237,7 +14235,7 @@
       "windows-10",
       "windows-11"
     ],
-    "total_stars": 35
+    "total_stars": 26
   },
   {
     "username": "fms-byte",
@@ -17416,12 +17414,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/12933820?u=7544991cab2a70672e81e67541bbaa19efb26b9f&v=4",
     "profile_url": "https://github.com/i-rocky",
     "website_url": null,
-    "top_language": "Go",
+    "top_language": "Rust",
     "all_languages": [
-      "Go",
-      "HTML",
       "Rust",
       "JavaScript",
+      "Go",
+      "HTML",
       "PHP"
     ],
     "topics": [
@@ -18557,10 +18555,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/11497423?v=4",
     "profile_url": "https://github.com/imranhsayed",
     "website_url": "https://profiles.wordpress.org/gsayed786",
-    "top_language": "PHP",
+    "top_language": "JavaScript",
     "all_languages": [
-      "PHP",
-      "JavaScript"
+      "JavaScript",
+      "PHP"
     ],
     "topics": [
       "advanced-wordpress-theme-devlopment",
@@ -18569,7 +18567,7 @@
       "wordpress-theme-development",
       "webpack4"
     ],
-    "total_stars": 4772
+    "total_stars": 4770
   },
   {
     "username": "ImRanKhan81m",
@@ -21651,7 +21649,7 @@
     "username": "KasRoudra",
     "repoName": "KasRoudra",
     "description": "My awesome Readme.md",
-    "stars": 346,
+    "stars": 347,
     "forks": 22,
     "repoUrl": "https://github.com/KasRoudra/KasRoudra",
     "websiteUrl": null,
@@ -31244,11 +31242,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/99077742?u=77e9c1dd41713c45abfe50442497014c10b9019b&v=4",
     "profile_url": "https://github.com/muj-i",
     "website_url": "muj-i.github.io",
-    "top_language": "Dart",
+    "top_language": "Shell",
     "all_languages": [
-      "Dart",
+      "Shell",
       "Python",
-      "Shell"
+      "Dart"
     ],
     "topics": [],
     "total_stars": 12
@@ -32206,14 +32204,14 @@
     "forks": 0,
     "repoUrl": "https://github.com/nadimtuhin/nadimtuhin",
     "websiteUrl": null,
-    "avatar": "https://avatars.githubusercontent.com/u/3125771?u=a1d57571dd4eb59e8363cf1ac5e880ef0641fbcd&v=4",
+    "avatar": "https://avatars.githubusercontent.com/u/3125771?u=3f74590bb87c3c369e56ec3898946fb8fbddc935&v=4",
     "profile_url": "https://github.com/nadimtuhin",
     "website_url": "nadimtuhin.com",
-    "top_language": "JavaScript",
+    "top_language": "TypeScript",
     "all_languages": [
+      "TypeScript",
       "JavaScript",
-      "PHP",
-      "TypeScript"
+      "PHP"
     ],
     "topics": [
       "ai-assistant",
@@ -32222,7 +32220,7 @@
       "developer-tools",
       "documentation"
     ],
-    "total_stars": 1158
+    "total_stars": 1159
   },
   {
     "username": "NadmanKhan",
@@ -39449,7 +39447,7 @@
     "username": "rhmunna143",
     "repoName": "rhmunna143",
     "description": "My Personal repo",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "repoUrl": "https://github.com/rhmunna143/rhmunna143",
     "websiteUrl": null,
@@ -50807,14 +50805,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/107450069?u=f8750f856483099271df36051a5f4db72f8ebf9c&v=4",
     "profile_url": "https://github.com/swadhinbiswas",
     "website_url": "https://swadhin.cv",
-    "top_language": "Astro",
+    "top_language": "Rust",
     "all_languages": [
-      "Astro",
-      "Go",
       "Rust",
-      "TypeScript",
+      "Astro",
       "QML",
-      "HTML"
+      "Go",
+      "HTML",
+      "TypeScript"
     ],
     "topics": [
       "appimage",
@@ -50823,7 +50821,7 @@
       "cleanup",
       "cli"
     ],
-    "total_stars": 485
+    "total_stars": 486
   },
   {
     "username": "swimshahriar",
@@ -54102,13 +54100,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/5576949?u=bd0a411a86e0f4ce4ed9afa25c6b1338431dd2bf&v=4",
     "profile_url": "https://github.com/thesabbir",
     "website_url": null,
-    "top_language": "Go",
+    "top_language": "JavaScript",
     "all_languages": [
-      "Go",
       "JavaScript",
-      "CSS",
       "Shell",
-      "Python"
+      "CSS",
+      "Python",
+      "Go"
     ],
     "topics": [
       "icons",
@@ -54462,7 +54460,7 @@
     "username": "touhidcodes",
     "repoName": "touhidcodes",
     "description": "Config files for my GitHub profile.",
-    "stars": 0,
+    "stars": 1,
     "forks": 28,
     "repoUrl": "https://github.com/touhidcodes/touhidcodes",
     "websiteUrl": null,
