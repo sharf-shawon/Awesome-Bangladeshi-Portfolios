@@ -858,7 +858,6 @@
 - [Infan-Jioun](https://github.com/Infan-Jioun/Infan-Jioun) - Stars 3 / Forks 0.
 - [infomotin](https://github.com/infomotin/infomotin) - Stars 1 / Forks 0.
 - [IngeniousArtist](https://github.com/IngeniousArtist/IngeniousArtist) - Stars 0 / Forks 0.
-- [injamulhaquesomrat](https://github.com/injamulhaquesomrat/injamulhaquesomrat) - Stars 0 / Forks 0.
 - [Injamulhasan](https://github.com/Injamulhasan/Injamulhasan) - Stars 0 / Forks 1.
 - [iqbal-rashed](https://github.com/iqbal-rashed/iqbal-rashed) - Stars 0 / Forks 0.
 - [iqbalhossan99](https://github.com/iqbalhossan99/iqbalhossan99) - Stars 0 / Forks 0.
@@ -1153,6 +1152,7 @@
 - [Md-Anamul-Haque](https://github.com/Md-Anamul-Haque/Md-Anamul-Haque) - Stars 0 / Forks 0.
 - [Md-Arif-Hasan](https://github.com/Md-Arif-Hasan/Md-Arif-Hasan) - Stars 0 / Forks 0.
 - [Md-Firoz-Mahmud-Nur](https://github.com/Md-Firoz-Mahmud-Nur/Md-Firoz-Mahmud-Nur) - Stars 0 / Forks 0.
+- [md-golamrabbani](https://github.com/md-golamrabbani/md-golamrabbani) - Stars 0 / Forks 0.
 - [md-kawsar-ali](https://github.com/md-kawsar-ali/md-kawsar-ali) - Stars 0 / Forks 0.
 - [Md-Merazul-Islam](https://github.com/Md-Merazul-Islam/Md-Merazul-Islam) - Stars 0 / Forks 0.
 - [Md-Mubin](https://github.com/Md-Mubin/Md-Mubin) - Stars 4 / Forks 0.
@@ -1463,7 +1463,7 @@
 - [NafisianCastle](https://github.com/NafisianCastle/NafisianCastle) - Stars 0 / Forks 0.
 - [NafisNoorNabil](https://github.com/NafisNoorNabil/NafisNoorNabil) - Stars 0 / Forks 0.
 - [NafisUddinElok](https://github.com/NafisUddinElok/NafisUddinElok) - Stars 0 / Forks 0.
-- [nafiul-afk](https://github.com/nafiul-afk/nafiul-afk) - Stars 25 / Forks 3.
+- [nafiul-afk](https://github.com/nafiul-afk/nafiul-afk) - Stars 25 / Forks 2.
 - [nafiulhaqueinan](https://github.com/nafiulhaqueinan/nafiulhaqueinan) - Stars 5 / Forks 1.
 - [nahian91](https://github.com/nahian91/nahian91) - Stars 0 / Forks 0.
 - [nahid](https://github.com/nahid/nahid) - Stars 1 / Forks 8.
