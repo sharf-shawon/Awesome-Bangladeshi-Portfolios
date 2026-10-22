@@ -1599,7 +1599,6 @@
 - [orun-sunny](https://github.com/orun-sunny/orun-sunny) - Stars 1 / Forks 0.
 - [orvi2014](https://github.com/orvi2014/orvi2014) - Stars 0 / Forks 0.
 - [osmanfaaruk](https://github.com/osmanfaaruk/osmanfaaruk) - Stars 0 / Forks 1.
-- [Owes-Shubho](https://github.com/Owes-Shubho/shubhomedia) - Stars 0 / Forks 0.
 - [Owhab](https://github.com/Owhab/Owhab) - Stars 0 / Forks 0.
 - [palahsu](https://github.com/palahsu/palahsu) - Stars 5 / Forks 1.
 - [PannaAryan](https://github.com/PannaAryan/PannaAryan) - Stars 0 / Forks 0.
