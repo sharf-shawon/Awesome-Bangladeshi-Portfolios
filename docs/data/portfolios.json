@@ -6001,27 +6001,6 @@
     "total_stars": 4
   },
   {
-    "username": "arman-miaa",
-    "repoName": "arman-miaa",
-    "description": "I am a self-taught web developer with expertise in the MERN stack. Passionate about solving complex problems, building responsive web applications, and exploring the latest technologies. Always eager to learn and grow in the dynamic tech landscape.",
-    "stars": 0,
-    "forks": 2,
-    "repoUrl": "https://github.com/arman-miaa/arman-miaa",
-    "websiteUrl": null,
-    "avatar": "https://avatars.githubusercontent.com/u/118790117?u=6ddf04fa8e6d55596028cc950cf7e8e5e965e7af&v=4",
-    "profile_url": "https://github.com/arman-miaa",
-    "website_url": "https://arman-mia.vercel.app",
-    "top_language": "Shell",
-    "all_languages": [
-      "Shell",
-      "TypeScript",
-      "Python",
-      "JavaScript"
-    ],
-    "topics": [],
-    "total_stars": 7
-  },
-  {
     "username": "Armanbabu12",
     "repoName": "Armanbabu12",
     "description": "Config files for my GitHub profile.",
@@ -17428,13 +17407,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/12933820?u=7544991cab2a70672e81e67541bbaa19efb26b9f&v=4",
     "profile_url": "https://github.com/i-rocky",
     "website_url": null,
-    "top_language": "HTML",
+    "top_language": "Rust",
     "all_languages": [
-      "HTML",
+      "Rust",
+      "PHP",
       "JavaScript",
       "Go",
-      "PHP",
-      "Rust"
+      "HTML"
     ],
     "topics": [
       "country",
@@ -18552,10 +18531,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/11497423?v=4",
     "profile_url": "https://github.com/imranhsayed",
     "website_url": "https://profiles.wordpress.org/gsayed786",
-    "top_language": "JavaScript",
+    "top_language": "PHP",
     "all_languages": [
-      "JavaScript",
-      "PHP"
+      "PHP",
+      "JavaScript"
     ],
     "topics": [
       "advanced-wordpress-theme-devlopment",
@@ -32206,8 +32185,8 @@
     "top_language": "TypeScript",
     "all_languages": [
       "TypeScript",
-      "JavaScript",
-      "PHP"
+      "PHP",
+      "JavaScript"
     ],
     "topics": [
       "ai-assistant",
@@ -32216,7 +32195,7 @@
       "developer-tools",
       "documentation"
     ],
-    "total_stars": 1165
+    "total_stars": 1168
   },
   {
     "username": "NadmanKhan",
@@ -38905,7 +38884,7 @@
   {
     "username": "razikuljoni",
     "repoName": "razikuljoni",
-    "description": null,
+    "description": "Personal portfolio, blog and GitHub profile of MD Razikul Islam Joni — Astro 7, React, Tailwind and Turso + Drizzle, with an admin dashboard, live contribution stats and RSS. Live at razikuljoni.xyz.",
     "stars": 0,
     "forks": 0,
     "repoUrl": "https://github.com/razikuljoni/razikuljoni",
@@ -48641,7 +48620,7 @@
   {
     "username": "siraajul",
     "repoName": "siraajul",
-    "description": "This repository showcases my personal portfolio, featuring my projects, skills, and experiences in software development. It highlights my work in web and mobile applications, data structures and algorithms, and other technical expertise. Explore my projects and get to know my work!",
+    "description": "SQA engineer and product builder from Dhaka, Bangladesh. Test automation, API and performance testing, and hands-on web, mobile, and desktop development. Selected projects, product previews, and my approach to dependable software.",
     "stars": 2,
     "forks": 1,
     "repoUrl": "https://github.com/siraajul/siraajul",
@@ -54092,13 +54071,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/5576949?u=bd0a411a86e0f4ce4ed9afa25c6b1338431dd2bf&v=4",
     "profile_url": "https://github.com/thesabbir",
     "website_url": null,
-    "top_language": "Shell",
+    "top_language": "CSS",
     "all_languages": [
-      "Shell",
-      "Python",
-      "JavaScript",
       "CSS",
-      "Go"
+      "JavaScript",
+      "Python",
+      "Go",
+      "Shell"
     ],
     "topics": [
       "icons",
