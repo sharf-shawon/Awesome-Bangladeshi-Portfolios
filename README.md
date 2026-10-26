@@ -487,6 +487,7 @@
 - [dev-tahsin7](https://github.com/dev-tahsin7/dev-tahsin7) - Stars 0 / Forks 0.
 - [devabutaher](https://github.com/devabutaher/devabutaher) - Stars 0 / Forks 0.
 - [Developer-Barsha](https://github.com/Developer-Barsha/Developer-Barsha) - Stars 0 / Forks 0.
+- [developer-mustafa](https://github.com/developer-mustafa/developer-mustafa) - Stars 0 / Forks 0.
 - [Developer-Nur](https://github.com/Developer-Nur/Developer-Nur) - Stars 0 / Forks 0.
 - [developeralamin](https://github.com/developeralamin/developeralamin) - Stars 0 / Forks 0.
 - [developerarif55](https://github.com/developerarif55/developerarif55) - Stars 0 / Forks 0.
@@ -1766,7 +1767,7 @@
 - [rejwar](https://github.com/rejwar/rejwar) - Stars 1 / Forks 0.
 - [rescenic](https://github.com/rescenic/rescenic) - Stars 4 / Forks 1.
 - [returntruejoy](https://github.com/returntruejoy/returntruejoy) - Stars 0 / Forks 0.
-- [REZ0AN](https://github.com/REZ0AN/REZ0AN) - Stars 1 / Forks 0.
+- [REZ0AN](https://github.com/REZ0AN/REZ0AN) - Stars 0 / Forks 0.
 - [rezanurkabir](https://github.com/rezanurkabir/rezanurkabir) - Stars 0 / Forks 0.
 - [rezaul360](https://github.com/rezaul360/rezaul360) - Stars 0 / Forks 0.
 - [rezbd](https://github.com/rezbd/rezbd) - Stars 0 / Forks 0.
