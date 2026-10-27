@@ -825,7 +825,7 @@
 - [ImaginativeShohag](https://github.com/ImaginativeShohag/ImaginativeShohag) - Stars 0 / Forks 0.
 - [imalisiddique](https://github.com/imalisiddique/imalisiddique) - Stars 1 / Forks 1.
 - [imamhossain71](https://github.com/imamhossain71/imamhossain71) - Stars 0 / Forks 0.
-- [imamuddinwp](https://github.com/imamuddinwp/imamuddinwp) - Stars 2 / Forks 0.
+- [imamuddinpro](https://github.com/imamuddinpro/imamuddinpro) - Stars 2 / Forks 0.
 - [ImArijitBasu](https://github.com/ImArijitBasu/ImArijitBasu) - Stars 0 / Forks 0.
 - [imasif](https://github.com/imasif/imasif) - Stars 0 / Forks 0.
 - [imdeb99](https://github.com/imdeb99/imdeb99) - Stars 0 / Forks 0.
