@@ -452,7 +452,7 @@
 - [codersaiful](https://github.com/codersaiful/codersaiful) - Stars 3 / Forks 1.
 - [codewithashim](https://github.com/codewithashim/codewithashim) - Stars 3 / Forks 7.
 - [codewithmahadihasan](https://github.com/codewithmahadihasan/codewithmahadihasan) - Stars 0 / Forks 1.
-- [codewithsadee](https://github.com/codewithsadee/codewithsadee) - Stars 50 / Forks 12.
+- [codewithsadee](https://github.com/codewithsadee/codewithsadee) - Stars 50 / Forks 11.
 - [CodewithShahriar](https://github.com/CodewithShahriar/CodewithShahriar) - Stars 2 / Forks 1.
 - [codewithzahid](https://github.com/codewithzahid/codewithzahid) - Stars 0 / Forks 0.
 - [codex-zubair](https://github.com/codex-zubair/codex-zubair) - Stars 0 / Forks 0.
@@ -1029,7 +1029,7 @@
 - [lahin31](https://github.com/lahin31/lahin31) - Stars 6 / Forks 2.
 - [LancerAbir](https://github.com/LancerAbir/LancerAbir) - Stars 0 / Forks 0.
 - [lavluda](https://github.com/lavluda/lavluda) - Stars 0 / Forks 1.
-- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 122 / Forks 102.
+- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 119 / Forks 102.
 - [lelinrashed](https://github.com/lelinrashed/lelinrashed) - Stars 0 / Forks 0.
 - [lemonkazi](https://github.com/lemonkazi/lemonkazi) - Stars 0 / Forks 0.
 - [lemonpatwari](https://github.com/lemonpatwari/lemonpatwari) - Stars 0 / Forks 2.
@@ -1562,7 +1562,7 @@
 - [nshakib](https://github.com/nshakib/nshakib) - Stars 0 / Forks 0.
 - [nsssayom](https://github.com/nsssayom/nsssayom) - Stars 0 / Forks 0.
 - [nuhainul](https://github.com/nuhainul/nuhainul) - Stars 0 / Forks 0.
-- [nuhanhabib](https://github.com/nuhanhabib/nuhanhabib) - Stars 0 / Forks 0.
+- [nuhanhabib](https://github.com/nuhanhabib/nuhanhabib) - Stars 2 / Forks 0.
 - [nuraia](https://github.com/nuraia/nuraia) - Stars 0 / Forks 0.
 - [NurAlam123](https://github.com/NurAlam123/NurAlam123) - Stars 0 / Forks 0.
 - [nuralamsiddikashik](https://github.com/nuralamsiddikashik/nuralamsiddikashik) - Stars 0 / Forks 0.
@@ -1970,7 +1970,6 @@
 - [samazgor](https://github.com/samazgor/samazgor) - Stars 0 / Forks 0.
 - [Samia35-2973](https://github.com/Samia35-2973/Samia35-2973) - Stars 0 / Forks 0.
 - [saminravi99](https://github.com/saminravi99/saminravi99) - Stars 2 / Forks 7.
-- [saminyasar004](https://github.com/saminyasar004/saminyasar004) - Stars 3 / Forks 0.
 - [samironbarai](https://github.com/samironbarai/samironbarai) - Stars 0 / Forks 0.
 - [samiul-sheikh](https://github.com/samiul-sheikh/samiul-sheikh) - Stars 0 / Forks 0.
 - [samiulislamsharan](https://github.com/samiulislamsharan/samiulislamsharan) - Stars 0 / Forks 0.
@@ -2425,7 +2424,7 @@
 - [thedevsaddam](https://github.com/thedevsaddam/thedevsaddam) - Stars 3 / Forks 3.
 - [theFahmid](https://github.com/theFahmid/theFahmid) - Stars 0 / Forks 0.
 - [theihasan](https://github.com/theihasan/theihasan) - Stars 0 / Forks 0.
-- [themdshakibul](https://github.com/themdshakibul/themdshakibul) - Stars 0 / Forks 3.
+- [themdshakibul](https://github.com/themdshakibul/themdshakibul) - Stars 0 / Forks 4.
 - [ThemeMetric](https://github.com/ThemeMetric/ThemeMetric) - Stars 0 / Forks 0.
 - [therajuahammad](https://github.com/therajuahammad/therajuahammad) - Stars 0 / Forks 0.
 - [TheRayhan009](https://github.com/TheRayhan009/TheRayhan009) - Stars 0 / Forks 0.
