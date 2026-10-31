@@ -22572,8 +22572,9 @@
     "avatar": "https://avatars.githubusercontent.com/u/61944859?u=6f88948d6a9ec474bf9bf358f23975052e6d5514&v=4",
     "profile_url": "https://github.com/KRTirtho",
     "website_url": "krtirtho.dev",
-    "top_language": "Rust",
+    "top_language": "Kotlin",
     "all_languages": [
+      "Kotlin",
       "Rust",
       "Dart",
       "C++"
@@ -22585,7 +22586,7 @@
       "music",
       "flutter"
     ],
-    "total_stars": 51246
+    "total_stars": 51433
   },
   {
     "username": "kuasha420",
@@ -34509,18 +34510,19 @@
     "avatar": "https://avatars.githubusercontent.com/u/46926901?u=47cbc7ec010b05210106f1d1b83d945fd6d8bce6&v=4",
     "profile_url": "https://github.com/noruzzamans",
     "website_url": "https://profiles.wordpress.org/noruzzaman/",
-    "top_language": "PHP",
+    "top_language": "JavaScript",
     "all_languages": [
-      "PHP",
-      "JavaScript"
+      "JavaScript",
+      "PHP"
     ],
     "topics": [
-      "elementor",
-      "elementorpro",
-      "mailchimp",
-      "form"
+      "carousel",
+      "good-first-issue",
+      "gutenberg",
+      "gutenberg-blocks",
+      "hacktoberfest"
     ],
-    "total_stars": 13
+    "total_stars": 22
   },
   {
     "username": "NoushadBug",
@@ -54051,10 +54053,10 @@
     "top_language": "Python",
     "all_languages": [
       "Python",
-      "Shell",
       "CSS",
-      "JavaScript",
-      "Go"
+      "Shell",
+      "Go",
+      "JavaScript"
     ],
     "topics": [
       "icons",
@@ -54063,7 +54065,7 @@
       "font",
       "css"
     ],
-    "total_stars": 1998
+    "total_stars": 1996
   },
   {
     "username": "theshakilahmed",
