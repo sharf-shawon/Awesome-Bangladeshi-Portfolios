@@ -1562,7 +1562,7 @@
 - [nshakib](https://github.com/nshakib/nshakib) - Stars 0 / Forks 0.
 - [nsssayom](https://github.com/nsssayom/nsssayom) - Stars 0 / Forks 0.
 - [nuhainul](https://github.com/nuhainul/nuhainul) - Stars 0 / Forks 0.
-- [nuhanhabib](https://github.com/nuhanhabib/nuhanhabib) - Stars 2 / Forks 0.
+- [nuhanhabib](https://github.com/nuhanhabib/nuhanhabib) - Stars 3 / Forks 0.
 - [nuraia](https://github.com/nuraia/nuraia) - Stars 0 / Forks 0.
 - [NurAlam123](https://github.com/NurAlam123/NurAlam123) - Stars 0 / Forks 0.
 - [nuralamsiddikashik](https://github.com/nuralamsiddikashik/nuralamsiddikashik) - Stars 0 / Forks 0.
@@ -1617,7 +1617,7 @@
 - [plabon2024](https://github.com/plabon2024/plabon2024) - Stars 0 / Forks 0.
 - [polakDas](https://github.com/polakDas/polakDas) - Stars 0 / Forks 1.
 - [polashmahmud](https://github.com/polashmahmud/polashmahmud) - Stars 0 / Forks 0.
-- [polymathicX](https://github.com/polymathicX/Rockstatata) - Stars 0 / Forks 0.
+- [polymathicX](https://github.com/polymathicX/polymathicX) - Stars 0 / Forks 0.
 - [porashor](https://github.com/porashor/porashor) - Stars 0 / Forks 0.
 - [pr0mila](https://github.com/pr0mila/pr0mila) - Stars 0 / Forks 0.
 - [pranonrahman](https://github.com/pranonrahman/pranonrahman) - Stars 0 / Forks 0.
