@@ -416,7 +416,7 @@
 - [bitue](https://github.com/bitue/bitue) - Stars 0 / Forks 0.
 - [BlackBeard009](https://github.com/BlackBeard009/BlackBeard009) - Stars 0 / Forks 0.
 - [blacktiger141](https://github.com/blacktiger141/blacktiger141) - Stars 0 / Forks 0.
-- [BlazeDashX](https://github.com/BlazeDashX/BlazeDashX) - Stars 1 / Forks 0.
+- [BlazeDashX](https://github.com/BlazeDashX/BlazeDashX) - Stars 0 / Forks 0.
 - [bmqube](https://github.com/bmqube/bmqube) - Stars 0 / Forks 0.
 - [BornilMahmud](https://github.com/BornilMahmud/BornilMahmud) - Stars 0 / Forks 0.
 - [bpinazmul18](https://github.com/bpinazmul18/bpinazmul18) - Stars 0 / Forks 0.
@@ -986,7 +986,7 @@
 - [KAZI-SAMIR](https://github.com/KAZI-SAMIR/KAZI-SAMIR) - Stars 0 / Forks 0.
 - [kazi031](https://github.com/kazi031/kazi031) - Stars 0 / Forks 0.
 - [kazi331](https://github.com/kazi331/kazi331) - Stars 0 / Forks 0.
-- [KaziMahbuburRahman](https://github.com/KaziMahbuburRahman/KaziMahbuburRahman) - Stars 3 / Forks 53.
+- [KaziMahbuburRahman](https://github.com/KaziMahbuburRahman/KaziMahbuburRahman) - Stars 4 / Forks 53.
 - [kazimdsaidul](https://github.com/kazimdsaidul/kazimdsaidul) - Stars 0 / Forks 0.
 - [KaziRifatMorshed](https://github.com/KaziRifatMorshed/KaziRifatMorshed) - Stars 0 / Forks 0.
 - [kazirobin](https://github.com/kazirobin/Kazirobin) - Stars 3 / Forks 1.
@@ -1029,7 +1029,7 @@
 - [lahin31](https://github.com/lahin31/lahin31) - Stars 6 / Forks 2.
 - [LancerAbir](https://github.com/LancerAbir/LancerAbir) - Stars 0 / Forks 0.
 - [lavluda](https://github.com/lavluda/lavluda) - Stars 0 / Forks 1.
-- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 119 / Forks 102.
+- [learnwithsumit](https://github.com/learnwithsumit/learnwithsumit) - Stars 118 / Forks 102.
 - [lelinrashed](https://github.com/lelinrashed/lelinrashed) - Stars 0 / Forks 0.
 - [lemonkazi](https://github.com/lemonkazi/lemonkazi) - Stars 0 / Forks 0.
 - [lemonpatwari](https://github.com/lemonpatwari/lemonpatwari) - Stars 0 / Forks 2.
@@ -1227,7 +1227,7 @@
 - [mdwalidalam](https://github.com/mdwalidalam/mdwalidalam) - Stars 0 / Forks 0.
 - [mdzahidulislam-dev](https://github.com/mdzahidulislam-dev/mdzahidulislam-dev) - Stars 1 / Forks 0.
 - [mdzaif](https://github.com/mdzaif/mdzaif) - Stars 0 / Forks 0.
-- [me-shaon](https://github.com/me-shaon/me-shaon) - Stars 3 / Forks 2.
+- [me-shaon](https://github.com/me-shaon/me-shaon) - Stars 4 / Forks 2.
 - [Mehadi-Hasan-Shanto](https://github.com/Mehadi-Hasan-Shanto/Mehadi-Hasan-Shanto) - Stars 0 / Forks 0.
 - [Mehadi-Hasan98](https://github.com/Mehadi-Hasan98/Mehadi-Hasan98) - Stars 0 / Forks 0.
 - [mehadishakil](https://github.com/mehadishakil/mehadishakil) - Stars 0 / Forks 0.
@@ -1536,7 +1536,7 @@
 - [Nibir97](https://github.com/Nibir97/Nibir97) - Stars 0 / Forks 0.
 - [nickgermaine](https://github.com/nickgermaine/nickgermaine) - Stars 0 / Forks 0.
 - [NieamulKabir](https://github.com/NieamulKabir/nieamulkabir) - Stars 1 / Forks 0.
-- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 15 / Forks 6.
+- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 16 / Forks 6.
 - [niloy1hasan](https://github.com/niloy1hasan/niloy1hasan) - Stars 0 / Forks 0.
 - [nirrjhorr](https://github.com/nirrjhorr/nirrjhorr) - Stars 0 / Forks 0.
 - [nirvik-alpha](https://github.com/nirvik-alpha/nirvik-alpha) - Stars 0 / Forks 0.
@@ -2496,6 +2496,7 @@
 - [wizziez](https://github.com/wizziez/wizziez) - Stars 0 / Forks 0.
 - [wp-ashraf](https://github.com/wp-ashraf/wp-ashraf) - Stars 0 / Forks 0.
 - [writerowson](https://github.com/writerowson/writerowson) - Stars 0 / Forks 0.
+- [wshuv-o](https://github.com/wshuv-o/wshuv-o.github.io) - Stars 0 / Forks 0.
 - [wyarejali](https://github.com/wyarejali/wyarejali) - Stars 0 / Forks 0.
 - [x-slasher](https://github.com/x-slasher/x-slasher) - Stars 0 / Forks 0.
 - [xaadu](https://github.com/xaadu/xaadu) - Stars 1 / Forks 0.
