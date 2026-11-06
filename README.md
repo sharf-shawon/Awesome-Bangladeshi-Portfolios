@@ -930,7 +930,7 @@
 - [jewel109](https://github.com/jewel109/jewel109) - Stars 0 / Forks 0.
 - [jhimi01](https://github.com/jhimi01/jhimi01) - Stars 0 / Forks 0.
 - [jinnatul](https://github.com/jinnatul/jinnatul) - Stars 2 / Forks 0.
-- [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 15 / Forks 5.
+- [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 16 / Forks 5.
 - [Jisan-mia](https://github.com/Jisan-mia/Jisan-mia) - Stars 6 / Forks 3.
 - [Jisan10667](https://github.com/Jisan10667/Jisan10667) - Stars 0 / Forks 0.
 - [jisanahamed09205](https://github.com/jisanahamed09205/jisanahamed09205) - Stars 0 / Forks 0.
@@ -1041,7 +1041,7 @@
 - [Luban6887](https://github.com/Luban6887/Luban6887) - Stars 1 / Forks 0.
 - [lukmanhossain](https://github.com/lukmanhossain/lukmanhossain) - Stars 0 / Forks 0.
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
-- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 17 / Forks 3.
+- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 18 / Forks 3.
 - [m0h4mm4d-h053n](https://github.com/m0h4mm4d-h053n/m0h4mm4d-h053n) - Stars 0 / Forks 0.
 - [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 13 / Forks 1.
 - [M4700F](https://github.com/M4700F/M4700F) - Stars 0 / Forks 0.
@@ -1536,7 +1536,7 @@
 - [Nibir97](https://github.com/Nibir97/Nibir97) - Stars 0 / Forks 0.
 - [nickgermaine](https://github.com/nickgermaine/nickgermaine) - Stars 0 / Forks 0.
 - [NieamulKabir](https://github.com/NieamulKabir/nieamulkabir) - Stars 1 / Forks 0.
-- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 16 / Forks 6.
+- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 17 / Forks 6.
 - [niloy1hasan](https://github.com/niloy1hasan/niloy1hasan) - Stars 0 / Forks 0.
 - [nirrjhorr](https://github.com/nirrjhorr/nirrjhorr) - Stars 0 / Forks 0.
 - [nirvik-alpha](https://github.com/nirvik-alpha/nirvik-alpha) - Stars 0 / Forks 0.
