@@ -7211,15 +7211,15 @@
     "avatar": "https://avatars.githubusercontent.com/u/2099592?u=84b17e52e499cb2b91edfcb4a835f1d07f2beb83&v=4",
     "profile_url": "https://github.com/Asif2BD",
     "website_url": "https://ar.bd",
-    "top_language": "JavaScript",
+    "top_language": "Python",
     "all_languages": [
-      "JavaScript",
       "Python",
-      "PHP",
-      "Dockerfile"
+      "JavaScript",
+      "Dockerfile",
+      "PHP"
     ],
     "topics": [],
-    "total_stars": 423
+    "total_stars": 424
   },
   {
     "username": "Asif950",
@@ -9896,7 +9896,7 @@
       "css3",
       "html"
     ],
-    "total_stars": 12543
+    "total_stars": 12547
   },
   {
     "username": "CodewithShahriar",
@@ -10054,11 +10054,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/9308275?u=aa56c0eb40405b379a30ccd64143a89f63204d83&v=4",
     "profile_url": "https://github.com/creativehabib",
     "website_url": "www.creativehabib.com",
-    "top_language": "Blade",
+    "top_language": "JavaScript",
     "all_languages": [
-      "Blade",
       "JavaScript",
-      "PHP"
+      "PHP",
+      "Blade"
     ],
     "topics": [
       "bkash",
@@ -10154,10 +10154,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/13703461?u=865445bb19fad8624b3a542494d10b0abc8beaed&v=4",
     "profile_url": "https://github.com/cyantarek",
     "website_url": "cyantarek.me",
-    "top_language": "JavaScript",
+    "top_language": "Ruby",
     "all_languages": [
-      "JavaScript",
-      "Ruby"
+      "Ruby",
+      "JavaScript"
     ],
     "topics": [
       "python",
@@ -10725,7 +10725,7 @@
     "repoName": "developeralamin",
     "description": "My Personal Repository ",
     "stars": 0,
-    "forks": 0,
+    "forks": 1,
     "repoUrl": "https://github.com/developeralamin/developeralamin",
     "websiteUrl": null,
     "avatar": "https://avatars.githubusercontent.com/u/71253794?u=7c20a9866e335ce8f409524aed7bdbe20a60cf7d&v=4",
@@ -22586,12 +22586,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/61944859?u=6f88948d6a9ec474bf9bf358f23975052e6d5514&v=4",
     "profile_url": "https://github.com/KRTirtho",
     "website_url": "krtirtho.dev",
-    "top_language": "Kotlin",
+    "top_language": "C++",
     "all_languages": [
-      "Kotlin",
       "C++",
-      "Dart",
-      "Rust"
+      "Rust",
+      "Kotlin",
+      "Dart"
     ],
     "topics": [
       "youtube",
@@ -22600,7 +22600,7 @@
       "music",
       "flutter"
     ],
-    "total_stars": 51536
+    "total_stars": 51583
   },
   {
     "username": "kuasha420",
@@ -23072,7 +23072,7 @@
     "username": "M-F-Tushar",
     "repoName": "M-F-Tushar",
     "description": "This is my GitHub profile README — showcasing my skills, interests, learning journey, and featured projects.",
-    "stars": 18,
+    "stars": 19,
     "forks": 3,
     "repoUrl": "https://github.com/M-F-Tushar/M-F-Tushar",
     "websiteUrl": null,
@@ -27823,7 +27823,7 @@
     "username": "mejba13",
     "repoName": "mejba13",
     "description": "⚡ AI Developer | Software Engineer | Cloud DevOps | Entrepreneur — Building AI-powered SaaS at scale. 10+ yrs | 2500+ clients | mejba.me",
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "repoUrl": "https://github.com/mejba13/mejba13",
     "websiteUrl": null,
@@ -32172,11 +32172,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/3125771?u=38b95dcd1ce905f2c8fff553105974c92d26c7ba&v=4",
     "profile_url": "https://github.com/nadimtuhin",
     "website_url": "https://nadimtuhin.com",
-    "top_language": "JavaScript",
+    "top_language": "TypeScript",
     "all_languages": [
+      "TypeScript",
       "JavaScript",
-      "PHP",
-      "TypeScript"
+      "PHP"
     ],
     "topics": [
       "ai-assistant",
@@ -32185,7 +32185,7 @@
       "developer-tools",
       "documentation"
     ],
-    "total_stars": 1182
+    "total_stars": 1183
   },
   {
     "username": "NadmanKhan",
@@ -42182,7 +42182,7 @@
     "username": "SahinurDEV",
     "repoName": "SahinurDEV",
     "description": "Profile README for Sahinur Islam (SahinurDEV)",
-    "stars": 24,
+    "stars": 25,
     "forks": 14,
     "repoUrl": "https://github.com/SahinurDEV/SahinurDEV",
     "websiteUrl": null,
@@ -54076,13 +54076,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/5576949?u=bd0a411a86e0f4ce4ed9afa25c6b1338431dd2bf&v=4",
     "profile_url": "https://github.com/thesabbir",
     "website_url": null,
-    "top_language": "CSS",
+    "top_language": "Shell",
     "all_languages": [
-      "CSS",
-      "JavaScript",
-      "Python",
+      "Shell",
       "Go",
-      "Shell"
+      "CSS",
+      "Python",
+      "JavaScript"
     ],
     "topics": [
       "icons",

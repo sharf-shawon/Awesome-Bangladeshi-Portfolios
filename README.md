@@ -489,7 +489,7 @@
 - [Developer-Barsha](https://github.com/Developer-Barsha/Developer-Barsha) - Stars 0 / Forks 0.
 - [developer-mustafa](https://github.com/developer-mustafa/developer-mustafa) - Stars 0 / Forks 0.
 - [Developer-Nur](https://github.com/Developer-Nur/Developer-Nur) - Stars 0 / Forks 0.
-- [developeralamin](https://github.com/developeralamin/developeralamin) - Stars 0 / Forks 0.
+- [developeralamin](https://github.com/developeralamin/developeralamin) - Stars 0 / Forks 1.
 - [developerarif55](https://github.com/developerarif55/developerarif55) - Stars 0 / Forks 0.
 - [developerFarukk](https://github.com/developerFarukk/developerFarukk) - Stars 0 / Forks 1.
 - [developerHub01](https://github.com/developerHub01/developerHub01) - Stars 0 / Forks 0.
@@ -1041,7 +1041,7 @@
 - [Luban6887](https://github.com/Luban6887/Luban6887) - Stars 1 / Forks 0.
 - [lukmanhossain](https://github.com/lukmanhossain/lukmanhossain) - Stars 0 / Forks 0.
 - [lutfullahillabib](https://github.com/lutfullahillabib/lutfullahillabib) - Stars 1 / Forks 0.
-- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 18 / Forks 3.
+- [M-F-Tushar](https://github.com/M-F-Tushar/M-F-Tushar) - Stars 19 / Forks 3.
 - [m0h4mm4d-h053n](https://github.com/m0h4mm4d-h053n/m0h4mm4d-h053n) - Stars 0 / Forks 0.
 - [M41NUL](https://github.com/M41NUL/M41NUL) - Stars 13 / Forks 1.
 - [M4700F](https://github.com/M4700F/M4700F) - Stars 0 / Forks 0.
@@ -1254,7 +1254,7 @@
 - [mehediworld](https://github.com/mehediworld/mehediworld) - Stars 0 / Forks 0.
 - [mehhed](https://github.com/mehhed/mehhed) - Stars 0 / Forks 0.
 - [mehrazmorshed](https://github.com/mehrazmorshed/mehrazmorshed) - Stars 0 / Forks 0.
-- [mejba13](https://github.com/mejba13/mejba13) - Stars 0 / Forks 0.
+- [mejba13](https://github.com/mejba13/mejba13) - Stars 1 / Forks 0.
 - [memamunahmed](https://github.com/memamunahmed/devmamunbd) - Stars 0 / Forks 0.
 - [Meowthhh](https://github.com/Meowthhh/Meowthhh) - Stars 0 / Forks 0.
 - [Meshkat-Shadik](https://github.com/Meshkat-Shadik/Meshkat-Shadik) - Stars 0 / Forks 1.
@@ -1899,7 +1899,7 @@
 - [Sahariar](https://github.com/Sahariar/Sahariar) - Stars 0 / Forks 0.
 - [SahilImrose](https://github.com/SahilImrose/SahilImrose) - Stars 1 / Forks 1.
 - [sahinur31](https://github.com/sahinur31/sahinur31) - Stars 1 / Forks 1.
-- [SahinurDEV](https://github.com/SahinurDEV/SahinurDEV) - Stars 24 / Forks 14.
+- [SahinurDEV](https://github.com/SahinurDEV/SahinurDEV) - Stars 25 / Forks 14.
 - [sai4ul](https://github.com/sai4ul/sai4ul) - Stars 2 / Forks 0.
 - [saidee-hasan](https://github.com/saidee-hasan/saidee-hasan) - Stars 5 / Forks 1.
 - [Saidiislam](https://github.com/Saidiislam/Saidiislam) - Stars 2 / Forks 2.
