@@ -1435,7 +1435,7 @@
 - [Mustakim-Lab-dotcom](https://github.com/Mustakim-Lab-dotcom/Mustakim-Lab-dotcom) - Stars 0 / Forks 0.
 - [Mustakin-140](https://github.com/Mustakin-140/Mustakin-140) - Stars 0 / Forks 0.
 - [mutalibcs](https://github.com/mutalibcs/mutalibcs) - Stars 3 / Forks 2.
-- [mutarek](https://github.com/mutarek/mutarek) - Stars 1 / Forks 1.
+- [mutarek](https://github.com/mutarek/mutarek) - Stars 1 / Forks 0.
 - [MutasimMalik](https://github.com/MutasimMalik/MutasimMalik) - Stars 0 / Forks 0.
 - [MuttakinHasib](https://github.com/MuttakinHasib/MuttakinHasib) - Stars 5 / Forks 4.
 - [muzahid120](https://github.com/muzahid120/muzahid120) - Stars 1 / Forks 0.
@@ -1517,7 +1517,7 @@
 - [nazmulnahid-git](https://github.com/nazmulnahid-git/nazmulnahid-git) - Stars 0 / Forks 0.
 - [nazmulwanted](https://github.com/nazmulwanted/nazmulwanted) - Stars 0 / Forks 0.
 - [nazmulweb](https://github.com/nazmulweb/nazmulweb) - Stars 1 / Forks 0.
-- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 39 / Forks 13.
+- [NazmusSayad](https://github.com/NazmusSayad/NazmusSayad) - Stars 38 / Forks 13.
 - [Nazrulislam45](https://github.com/Nazrulislam45/Nazrulislam45) - Stars 0 / Forks 0.
 - [NazShakib](https://github.com/NazShakib/NazShakib) - Stars 0 / Forks 0.
 - [nbakh16](https://github.com/nbakh16/nbakh16) - Stars 1 / Forks 1.
@@ -2021,7 +2021,7 @@
 - [SEC-MASUM](https://github.com/SEC-MASUM/sec-masum) - Stars 0 / Forks 0.
 - [SEFAT-777](https://github.com/SEFAT-777/SEFAT-777) - Stars 1 / Forks 0.
 - [Sefayet-Alam](https://github.com/Sefayet-Alam/Sefayet-Alam) - Stars 0 / Forks 0.
-- [Sejuty](https://github.com/Sejuty/Sejuty) - Stars 0 / Forks 0.
+- [Sejuty](https://github.com/Sejuty/sejuty) - Stars 0 / Forks 0.
 - [Selim-Reza-Swadhin](https://github.com/Selim-Reza-Swadhin/Selim-Reza-Swadhin) - Stars 1 / Forks 0.
 - [SenWan](https://github.com/SenWan/SenWan) - Stars 0 / Forks 0.
 - [seo-asif](https://github.com/seo-asif/seo-asif) - Stars 16 / Forks 1.
@@ -2496,7 +2496,7 @@
 - [wizziez](https://github.com/wizziez/wizziez) - Stars 0 / Forks 0.
 - [wp-ashraf](https://github.com/wp-ashraf/wp-ashraf) - Stars 0 / Forks 0.
 - [writerowson](https://github.com/writerowson/writerowson) - Stars 0 / Forks 0.
-- [wshuv-o](https://github.com/wshuv-o/wshuv-o.github.io) - Stars 0 / Forks 0.
+- [wshuv-o](https://github.com/wshuv-o/wshuv-o) - Stars 0 / Forks 0.
 - [wyarejali](https://github.com/wyarejali/wyarejali) - Stars 0 / Forks 0.
 - [x-slasher](https://github.com/x-slasher/x-slasher) - Stars 0 / Forks 0.
 - [xaadu](https://github.com/xaadu/xaadu) - Stars 1 / Forks 0.
