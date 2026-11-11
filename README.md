@@ -2484,7 +2484,7 @@
 - [walleeva2018](https://github.com/walleeva2018/walleeva2018) - Stars 0 / Forks 0.
 - [waqil52](https://github.com/waqil52/waqil52) - Stars 0 / Forks 0.
 - [WASHIMKHA](https://github.com/WASHIMKHA/WASHIMKHA) - Stars 0 / Forks 0.
-- [wasi-master](https://github.com/wasi-master/wasi-master) - Stars 8 / Forks 0.
+- [wasi-master](https://github.com/wasi-master/wasi-master) - Stars 7 / Forks 0.
 - [wasi0013](https://github.com/wasi0013/wasi0013) - Stars 0 / Forks 0.
 - [wassi10](https://github.com/wassi10/wassi10) - Stars 0 / Forks 0.
 - [Web-Programmer-1](https://github.com/Web-Programmer-1/Web-Programmer-1) - Stars 0 / Forks 0.
