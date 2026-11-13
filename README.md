@@ -1226,7 +1226,7 @@
 - [mdwalidalam](https://github.com/mdwalidalam/mdwalidalam) - Stars 0 / Forks 0.
 - [mdzahidulislam-dev](https://github.com/mdzahidulislam-dev/mdzahidulislam-dev) - Stars 1 / Forks 0.
 - [mdzaif](https://github.com/mdzaif/mdzaif) - Stars 0 / Forks 0.
-- [me-shaon](https://github.com/me-shaon/me-shaon) - Stars 4 / Forks 2.
+- [me-shaon](https://github.com/me-shaon/me-shaon) - Stars 3 / Forks 2.
 - [Mehadi-Hasan-Shanto](https://github.com/Mehadi-Hasan-Shanto/Mehadi-Hasan-Shanto) - Stars 0 / Forks 0.
 - [Mehadi-Hasan98](https://github.com/Mehadi-Hasan98/Mehadi-Hasan98) - Stars 0 / Forks 0.
 - [mehadishakil](https://github.com/mehadishakil/mehadishakil) - Stars 0 / Forks 0.
@@ -1552,7 +1552,7 @@
 - [nomangazi](https://github.com/nomangazi/nomangazi) - Stars 0 / Forks 0.
 - [NoobDecompiler](https://github.com/NoobDecompiler/NoobDecompiler) - Stars 0 / Forks 0.
 - [noorafsarpiash](https://github.com/noorafsarpiash/noorafsarpiash) - Stars 0 / Forks 0.
-- [noorjsdivs](https://github.com/noorjsdivs/noorjsdivs) - Stars 10 / Forks 4.
+- [noorjsdivs](https://github.com/noorjsdivs/noorjsdivs) - Stars 10 / Forks 3.
 - [NoorMohammedAnik](https://github.com/NoorMohammedAnik/NoorMohammedAnik) - Stars 0 / Forks 0.
 - [noornabi-noor](https://github.com/noornabi-noor/noornabi-noor) - Stars 0 / Forks 0.
 - [noruzzamans](https://github.com/noruzzamans/noruzzamans) - Stars 0 / Forks 1.
