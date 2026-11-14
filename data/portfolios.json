@@ -7209,15 +7209,15 @@
     "avatar": "https://avatars.githubusercontent.com/u/2099592?u=84b17e52e499cb2b91edfcb4a835f1d07f2beb83&v=4",
     "profile_url": "https://github.com/Asif2BD",
     "website_url": "https://ar.bd",
-    "top_language": "JavaScript",
+    "top_language": "PHP",
     "all_languages": [
+      "PHP",
       "JavaScript",
       "Dockerfile",
-      "Python",
-      "PHP"
+      "Python"
     ],
     "topics": [],
-    "total_stars": 424
+    "total_stars": 426
   },
   {
     "username": "Asif950",
@@ -9901,7 +9901,7 @@
       "css3",
       "html"
     ],
-    "total_stars": 12552
+    "total_stars": 12558
   },
   {
     "username": "CodewithShahriar",
@@ -17171,7 +17171,7 @@
     "username": "htr-tech",
     "repoName": "htr-tech",
     "description": "Github Profile",
-    "stars": 214,
+    "stars": 215,
     "forks": 32,
     "repoUrl": "https://github.com/htr-tech/htr-tech",
     "websiteUrl": null,
@@ -22590,12 +22590,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/61944859?u=6f88948d6a9ec474bf9bf358f23975052e6d5514&v=4",
     "profile_url": "https://github.com/KRTirtho",
     "website_url": "krtirtho.dev",
-    "top_language": "Dart",
+    "top_language": "Kotlin",
     "all_languages": [
-      "Dart",
-      "C++",
+      "Kotlin",
       "Rust",
-      "Kotlin"
+      "C++",
+      "Dart"
     ],
     "topics": [
       "youtube",
@@ -22604,7 +22604,7 @@
       "music",
       "flutter"
     ],
-    "total_stars": 51680
+    "total_stars": 51721
   },
   {
     "username": "kuasha420",
@@ -27737,6 +27737,30 @@
     ],
     "topics": [],
     "total_stars": 232
+  },
+  {
+    "username": "mehedishubho",
+    "repoName": "mehedishubho",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/mehedishubho/mehedishubho",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/u/35875394?u=7e01287c9de9e88e6e39eb44dbdb5d5816c09aa8&v=4",
+    "profile_url": "https://github.com/mehedishubho",
+    "website_url": "www.wpmhs.com",
+    "top_language": "JavaScript",
+    "all_languages": [
+      "JavaScript",
+      "TypeScript",
+      "PHP",
+      "HTML"
+    ],
+    "topics": [
+      "laravel",
+      "tailwindcss"
+    ],
+    "total_stars": 3
   },
   {
     "username": "mehediworld",
@@ -54151,13 +54175,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/5576949?u=bd0a411a86e0f4ce4ed9afa25c6b1338431dd2bf&v=4",
     "profile_url": "https://github.com/thesabbir",
     "website_url": null,
-    "top_language": "JavaScript",
+    "top_language": "Python",
     "all_languages": [
-      "JavaScript",
-      "CSS",
       "Python",
       "Shell",
-      "Go"
+      "Go",
+      "CSS",
+      "JavaScript"
     ],
     "topics": [
       "icons",

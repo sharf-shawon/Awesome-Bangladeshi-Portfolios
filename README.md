@@ -776,7 +776,7 @@
 - [hrithikD9](https://github.com/hrithikD9/hrithikD9) - Stars 0 / Forks 0.
 - [hrittwik](https://github.com/hrittwik/hrittwik) - Stars 0 / Forks 0.
 - [Hrkjawad](https://github.com/Hrkjawad/Hrkjawad) - Stars 0 / Forks 0.
-- [htr-tech](https://github.com/htr-tech/htr-tech) - Stars 214 / Forks 32.
+- [htr-tech](https://github.com/htr-tech/htr-tech) - Stars 215 / Forks 32.
 - [HumaionKobir1](https://github.com/HumaionKobir1/HumaionKobir1) - Stars 1 / Forks 0.
 - [humam-hossain](https://github.com/humam-hossain/humam-hossain) - Stars 0 / Forks 0.
 - [Humayra-Akter](https://github.com/Humayra-Akter/Humayra-Akter) - Stars 0 / Forks 0.
@@ -1250,6 +1250,7 @@
 - [mehedimugdho72](https://github.com/mehedimugdho72/mehedimugdho72) - Stars 1 / Forks 0.
 - [mehedisarkar2k](https://github.com/mehedisarkar2k/mehedisarkar2k) - Stars 0 / Forks 1.
 - [mehedishakeel](https://github.com/mehedishakeel/mehedishakeel) - Stars 25 / Forks 7.
+- [mehedishubho](https://github.com/mehedishubho/mehedishubho) - Stars 0 / Forks 0.
 - [mehediworld](https://github.com/mehediworld/mehediworld) - Stars 0 / Forks 0.
 - [mehhed](https://github.com/mehhed/mehhed) - Stars 0 / Forks 0.
 - [mehrazmorshed](https://github.com/mehrazmorshed/mehrazmorshed) - Stars 0 / Forks 0.
