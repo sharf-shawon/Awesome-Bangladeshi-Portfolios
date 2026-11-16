@@ -4856,12 +4856,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/43861146?u=bfa88567002711a1fdb2154555d7a39ff8cbefb6&v=4",
     "profile_url": "https://github.com/AnwarHossainSR",
     "website_url": "https://www.anwar.pro.bd",
-    "top_language": "TypeScript",
+    "top_language": "JavaScript",
     "all_languages": [
+      "JavaScript",
       "TypeScript",
       "Blade",
-      "PHP",
-      "JavaScript"
+      "PHP"
     ],
     "topics": [
       "boilerplate",
@@ -5636,11 +5636,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/17213478?u=23e42ebb5485c6c1690f17237f011893940f4a7e&v=4",
     "profile_url": "https://github.com/arif98741",
     "website_url": "programmingmindset.com",
-    "top_language": "PHP",
+    "top_language": "Shell",
     "all_languages": [
-      "PHP",
+      "Shell",
       "JavaScript",
-      "Shell"
+      "PHP"
     ],
     "topics": [
       "sms-gateway",
@@ -7209,12 +7209,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/2099592?u=84b17e52e499cb2b91edfcb4a835f1d07f2beb83&v=4",
     "profile_url": "https://github.com/Asif2BD",
     "website_url": "https://ar.bd",
-    "top_language": "PHP",
+    "top_language": "Python",
     "all_languages": [
-      "PHP",
+      "Python",
       "JavaScript",
       "Dockerfile",
-      "Python"
+      "PHP"
     ],
     "topics": [],
     "total_stars": 426
@@ -9902,7 +9902,7 @@
       "css3",
       "html"
     ],
-    "total_stars": 12558
+    "total_stars": 12563
   },
   {
     "username": "CodewithShahriar",
@@ -17171,7 +17171,7 @@
     "username": "htr-tech",
     "repoName": "htr-tech",
     "description": "Github Profile",
-    "stars": 215,
+    "stars": 216,
     "forks": 32,
     "repoUrl": "https://github.com/htr-tech/htr-tech",
     "websiteUrl": null,
@@ -22594,9 +22594,9 @@
     "top_language": "Kotlin",
     "all_languages": [
       "Kotlin",
-      "Rust",
       "C++",
-      "Dart"
+      "Dart",
+      "Rust"
     ],
     "topics": [
       "youtube",
@@ -22605,7 +22605,7 @@
       "music",
       "flutter"
     ],
-    "total_stars": 51721
+    "total_stars": 51741
   },
   {
     "username": "kuasha420",
@@ -31390,12 +31390,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/8050659?u=605b1bb4a0de011dff50d5dc7f444138cad38ab5&v=4",
     "profile_url": "https://github.com/MunifTanjim",
     "website_url": "https://muniftanjim.dev",
-    "top_language": "Lua",
+    "top_language": "HTML",
     "all_languages": [
+      "HTML",
+      "JavaScript",
       "Lua",
       "Shell",
-      "JavaScript",
-      "HTML",
       "Go"
     ],
     "topics": [
@@ -31405,7 +31405,7 @@
       "lua",
       "neovim"
     ],
-    "total_stars": 8456
+    "total_stars": 8455
   },
   {
     "username": "Muntasir-Mahmud",
@@ -32194,11 +32194,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/3125771?u=38b95dcd1ce905f2c8fff553105974c92d26c7ba&v=4",
     "profile_url": "https://github.com/nadimtuhin",
     "website_url": "https://nadimtuhin.com",
-    "top_language": "TypeScript",
+    "top_language": "JavaScript",
     "all_languages": [
+      "JavaScript",
       "TypeScript",
-      "PHP",
-      "JavaScript"
+      "PHP"
     ],
     "topics": [
       "ai-assistant",
@@ -32207,7 +32207,7 @@
       "developer-tools",
       "documentation"
     ],
-    "total_stars": 1186
+    "total_stars": 1196
   },
   {
     "username": "NadmanKhan",
@@ -34604,26 +34604,20 @@
     "total_stars": 16
   },
   {
-    "username": "noyonalways",
-    "repoName": "noyonalways",
+    "username": "noyon-rahman",
+    "repoName": "noyon-rahman",
     "description": "Config files for my GitHub profile.",
     "stars": 1,
     "forks": 1,
-    "repoUrl": "https://github.com/noyonalways/noyonalways",
+    "repoUrl": "https://github.com/noyon-rahman/noyon-rahman",
     "websiteUrl": null,
-    "avatar": "https://avatars.githubusercontent.com/u/89659561?u=571593beecd5a22c39dc30b31dabf46988b97667&v=4",
-    "profile_url": "https://github.com/noyonalways",
-    "website_url": "https://noyonrahman.com",
-    "top_language": "C",
-    "all_languages": [
-      "C",
-      "HTML",
-      "Blade",
-      "JavaScript",
-      "CSS"
-    ],
+    "avatar": "https://avatars.githubusercontent.com/noyon-rahman",
+    "profile_url": "https://github.com/noyon-rahman",
+    "website_url": null,
+    "top_language": null,
+    "all_languages": [],
     "topics": [],
-    "total_stars": 8
+    "total_stars": 0
   },
   {
     "username": "nozibuddowla",
@@ -41700,14 +41694,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/5839709?u=8b8a873cba42fc25e42a757e1d5fe9c55f091bf9&v=4",
     "profile_url": "https://github.com/saddathasan",
     "website_url": "https://saddathasan.dev",
-    "top_language": "Rust",
+    "top_language": "Python",
     "all_languages": [
-      "Rust",
+      "Python",
+      "TypeScript",
+      "HTML",
       "JavaScript",
       "Shell",
-      "TypeScript",
-      "Python",
-      "HTML"
+      "Rust"
     ],
     "topics": [],
     "total_stars": 0
@@ -41741,11 +41735,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/37816541?u=484dd07471b45c4f9d4c7022e0cbd3d8a7cab036&v=4",
     "profile_url": "https://github.com/sadekur",
     "website_url": null,
-    "top_language": "JavaScript",
+    "top_language": "Python",
     "all_languages": [
-      "JavaScript",
-      "TypeScript",
       "Python",
+      "TypeScript",
+      "JavaScript",
       "PHP",
       "CSS"
     ],
@@ -45515,9 +45509,9 @@
     "top_language": "Python",
     "all_languages": [
       "Python",
+      "JavaScript",
       "HTML",
-      "Dart",
-      "JavaScript"
+      "Dart"
     ],
     "topics": [],
     "total_stars": 12
@@ -53786,10 +53780,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/1053500?u=9e6adba62d0bd8face8409cfe09fe9e89c9e5b9d&v=4",
     "profile_url": "https://github.com/techjewel",
     "website_url": "https://jewel.im",
-    "top_language": "PHP",
+    "top_language": "JavaScript",
     "all_languages": [
-      "PHP",
-      "JavaScript"
+      "JavaScript",
+      "PHP"
     ],
     "topics": [
       "cloudflare-workers",
@@ -54177,10 +54171,10 @@
     "top_language": "Python",
     "all_languages": [
       "Python",
+      "JavaScript",
       "Shell",
-      "Go",
       "CSS",
-      "JavaScript"
+      "Go"
     ],
     "topics": [
       "icons",

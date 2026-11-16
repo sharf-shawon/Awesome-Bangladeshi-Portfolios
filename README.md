@@ -776,7 +776,7 @@
 - [hrithikD9](https://github.com/hrithikD9/hrithikD9) - Stars 0 / Forks 0.
 - [hrittwik](https://github.com/hrittwik/hrittwik) - Stars 0 / Forks 0.
 - [Hrkjawad](https://github.com/Hrkjawad/Hrkjawad) - Stars 0 / Forks 0.
-- [htr-tech](https://github.com/htr-tech/htr-tech) - Stars 215 / Forks 32.
+- [htr-tech](https://github.com/htr-tech/htr-tech) - Stars 216 / Forks 32.
 - [HumaionKobir1](https://github.com/HumaionKobir1/HumaionKobir1) - Stars 1 / Forks 0.
 - [humam-hossain](https://github.com/humam-hossain/humam-hossain) - Stars 0 / Forks 0.
 - [Humayra-Akter](https://github.com/Humayra-Akter/Humayra-Akter) - Stars 0 / Forks 0.
@@ -1558,7 +1558,7 @@
 - [noornabi-noor](https://github.com/noornabi-noor/noornabi-noor) - Stars 0 / Forks 0.
 - [noruzzamans](https://github.com/noruzzamans/noruzzamans) - Stars 0 / Forks 1.
 - [NoushadBug](https://github.com/NoushadBug/NoushadBug) - Stars 1 / Forks 3.
-- [noyonalways](https://github.com/noyonalways/noyonalways) - Stars 1 / Forks 1.
+- [noyon-rahman](https://github.com/noyon-rahman/noyon-rahman) - Stars 1 / Forks 1.
 - [nozibuddowla](https://github.com/nozibuddowla/nozibuddowla) - Stars 0 / Forks 0.
 - [nshakib](https://github.com/nshakib/nshakib) - Stars 0 / Forks 0.
 - [nsssayom](https://github.com/nsssayom/nsssayom) - Stars 0 / Forks 0.
