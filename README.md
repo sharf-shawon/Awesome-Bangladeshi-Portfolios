@@ -150,7 +150,7 @@
 - [ajoy3700](https://github.com/ajoy3700/ajoy3700) - Stars 0 / Forks 0.
 - [akash-kumar-biswas](https://github.com/akash-kumar-biswas/akash-kumar-biswas) - Stars 1 / Forks 0.
 - [akashcse5688](https://github.com/akashcse5688/akashcse5688) - Stars 3 / Forks 0.
-- [akashusr](https://github.com/akashusr/akashusr) - Stars 3 / Forks 2.
+- [akashusr](https://github.com/akashusr/akashusr) - Stars 3 / Forks 1.
 - [akasifislam](https://github.com/akasifislam/akasifislam) - Stars 0 / Forks 0.
 - [AKC23](https://github.com/AKC23/AKC23) - Stars 0 / Forks 0.
 - [Akhtaruzzaman](https://github.com/Akhtaruzzaman/Akhtaruzzaman) - Stars 0 / Forks 0.
@@ -835,7 +835,6 @@
 - [imr555](https://github.com/imr555/imr555) - Stars 1 / Forks 0.
 - [imran0dot](https://github.com/imran0dot/imran0dot) - Stars 0 / Forks 0.
 - [Imran4424](https://github.com/Imran4424/Imran4424) - Stars 1 / Forks 0.
-- [imranBappy](https://github.com/imranBappy/imranBappy) - Stars 4 / Forks 0.
 - [ImranHossain5722](https://github.com/ImranHossain5722/imranHossain5722) - Stars 1 / Forks 0.
 - [imranhossainemi](https://github.com/imranhossainemi/imranhossainemi) - Stars 2 / Forks 0.
 - [imranhsayed](https://github.com/imranhsayed/imranhsayed) - Stars 15 / Forks 3.
@@ -1402,7 +1401,7 @@
 - [mubtasimfuad7](https://github.com/mubtasimfuad7/mubtasimfuad7) - Stars 0 / Forks 0.
 - [Mufassir-Chowdhury](https://github.com/Mufassir-Chowdhury/mufassir-chowdhury) - Stars 0 / Forks 0.
 - [muhaimeen90](https://github.com/muhaimeen90/muhaimeen90) - Stars 0 / Forks 0.
-- [muhammadbadrul1234](https://github.com/muhammadbadrul1234/muhammadbadrul1234) - Stars 4 / Forks 1.
+- [muhammadbadrul1234](https://github.com/muhammadbadrul1234/muhammadbadrul1234) - Stars 4 / Forks 0.
 - [Muhammed-Nayeem](https://github.com/Muhammed-Nayeem/Muhammed-Nayeem) - Stars 0 / Forks 0.
 - [muhantor](https://github.com/muhantor/muhantor) - Stars 0 / Forks 0.
 - [Muhimen123](https://github.com/Muhimen123/Muhimen123) - Stars 2 / Forks 0.
