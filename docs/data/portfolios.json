@@ -4501,12 +4501,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/38912435?v=4",
     "profile_url": "https://github.com/anisAronno",
     "website_url": "https://anichur.com",
-    "top_language": "Vue",
+    "top_language": "Blade",
     "all_languages": [
-      "Vue",
-      "PHP",
-      "HTML",
       "Blade",
+      "PHP",
+      "Vue",
+      "HTML",
       "JavaScript"
     ],
     "topics": [
@@ -7209,11 +7209,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/2099592?u=84b17e52e499cb2b91edfcb4a835f1d07f2beb83&v=4",
     "profile_url": "https://github.com/Asif2BD",
     "website_url": "https://ar.bd",
-    "top_language": "Python",
+    "top_language": "JavaScript",
     "all_languages": [
-      "Python",
       "JavaScript",
       "Dockerfile",
+      "Python",
       "PHP"
     ],
     "topics": [],
@@ -9910,7 +9910,7 @@
       "css3",
       "html"
     ],
-    "total_stars": 12563
+    "total_stars": 12571
   },
   {
     "username": "CodewithShahriar",
@@ -15473,7 +15473,7 @@
     "repoName": "harun181",
     "description": "Config files for my GitHub profile.",
     "stars": 14,
-    "forks": 55,
+    "forks": 54,
     "repoUrl": "https://github.com/harun181/harun181",
     "websiteUrl": null,
     "avatar": "https://avatars.githubusercontent.com/u/67583419?u=efd337bcfeeb62bc281e9db69e99abd9f378c5f5&v=4",
@@ -22576,11 +22576,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/61944859?u=6f88948d6a9ec474bf9bf358f23975052e6d5514&v=4",
     "profile_url": "https://github.com/KRTirtho",
     "website_url": "krtirtho.dev",
-    "top_language": "Kotlin",
+    "top_language": "C++",
     "all_languages": [
-      "Kotlin",
       "C++",
       "Dart",
+      "Kotlin",
       "Rust"
     ],
     "topics": [
@@ -22590,7 +22590,7 @@
       "music",
       "flutter"
     ],
-    "total_stars": 51741
+    "total_stars": 51781
   },
   {
     "username": "kuasha420",
@@ -28725,13 +28725,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/30868301?u=b0eaa2ae4fe9154bd037b9409fb61411a61cd0cc&v=4",
     "profile_url": "https://github.com/mirzasaikatahmmed",
     "website_url": "https://saikat.com.bd/",
-    "top_language": "Go",
+    "top_language": "PHP",
     "all_languages": [
-      "Go",
-      "TypeScript",
       "PHP",
+      "Java",
+      "Go",
       "HTML",
-      "Java"
+      "TypeScript"
     ],
     "topics": [
       "aiub",
@@ -28773,12 +28773,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/23618865?u=379053eb6c46749dea55c3f3e56a0afebcd44b12&v=4",
     "profile_url": "https://github.com/MishukAdhikari",
     "website_url": "https://mishuk.me",
-    "top_language": "PHP",
+    "top_language": "JavaScript",
     "all_languages": [
-      "PHP",
-      "Swift",
       "JavaScript",
-      "Shell"
+      "PHP",
+      "Shell",
+      "Swift"
     ],
     "topics": [],
     "total_stars": 42
@@ -31213,10 +31213,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/99077742?u=77e9c1dd41713c45abfe50442497014c10b9019b&v=4",
     "profile_url": "https://github.com/muj-i",
     "website_url": "muj-i.github.io",
-    "top_language": "Python",
+    "top_language": "Dart",
     "all_languages": [
-      "Python",
       "Dart",
+      "Python",
       "Shell"
     ],
     "topics": [],
@@ -41048,7 +41048,7 @@
     "repoName": "ryihan",
     "description": "Welcome to Raihan's profile!",
     "stars": 26,
-    "forks": 35,
+    "forks": 34,
     "repoUrl": "https://github.com/ryihan/ryihan",
     "websiteUrl": null,
     "avatar": "https://avatars.githubusercontent.com/u/54474184?u=e223cac58c28aa87561a2d9b2770faaddfed45fa&v=4",
@@ -47863,7 +47863,7 @@
     "repoName": "shovoalways",
     "description": "I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.",
     "stars": 187,
-    "forks": 41,
+    "forks": 40,
     "repoUrl": "https://github.com/shovoalways/shovoalways",
     "websiteUrl": null,
     "avatar": "https://avatars.githubusercontent.com/u/68044724?u=ba8ecfbc32c696cdb0b5945717d25b4367cd5d97&v=4",
@@ -49366,7 +49366,7 @@
   {
     "username": "SohelIslamImran",
     "repoName": "SohelIslamImran",
-    "description": null,
+    "description": "This profile repository contains the source for https://sohelislamimran.com, my personal portfolio.",
     "stars": 3,
     "forks": 7,
     "repoUrl": "https://github.com/SohelIslamImran/SohelIslamImran",
@@ -51349,12 +51349,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/124136023?u=500429c3f1f711f36fea3d8090846530a5cc9312&v=4",
     "profile_url": "https://github.com/Tahsin005",
     "website_url": "https://tahsinferdous.vercel.app/",
-    "top_language": "Go",
+    "top_language": "C++",
     "all_languages": [
-      "Go",
-      "TypeScript",
       "C++",
-      "JavaScript"
+      "JavaScript",
+      "Go",
+      "TypeScript"
     ],
     "topics": [],
     "total_stars": 15
@@ -54150,10 +54150,10 @@
     "top_language": "Python",
     "all_languages": [
       "Python",
-      "JavaScript",
+      "Go",
       "Shell",
-      "CSS",
-      "Go"
+      "JavaScript",
+      "CSS"
     ],
     "topics": [
       "icons",
@@ -54162,7 +54162,7 @@
       "font",
       "css"
     ],
-    "total_stars": 1995
+    "total_stars": 1994
   },
   {
     "username": "theshakilahmed",
