@@ -204,7 +204,7 @@
 - [anamolhasan](https://github.com/anamolhasan/anamolhasan) - Stars 0 / Forks 0.
 - [anamulhaque22](https://github.com/anamulhaque22/anamulhaque22) - Stars 0 / Forks 0.
 - [anasibnali](https://github.com/anasibnali/anasibnali) - Stars 0 / Forks 0.
-- [andrewbaisden](https://github.com/andrewbaisden/andrewbaisden) - Stars 3 / Forks 4.
+- [andrewbaisden](https://github.com/andrewbaisden/andrewbaisden) - Stars 3 / Forks 3.
 - [anikahammedkhan](https://github.com/anikahammedkhan/anikahammedkhan) - Stars 1 / Forks 0.
 - [anikakash](https://github.com/anikakash/anikakash) - Stars 4 / Forks 0.
 - [AnikBarua34](https://github.com/AnikBarua34/AnikBarua34) - Stars 0 / Forks 0.
@@ -929,7 +929,7 @@
 - [jewel109](https://github.com/jewel109/jewel109) - Stars 0 / Forks 0.
 - [jhimi01](https://github.com/jhimi01/jhimi01) - Stars 0 / Forks 0.
 - [jinnatul](https://github.com/jinnatul/jinnatul) - Stars 2 / Forks 0.
-- [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 16 / Forks 5.
+- [JISAN-404](https://github.com/JISAN-404/JISAN-404) - Stars 15 / Forks 5.
 - [Jisan-mia](https://github.com/Jisan-mia/Jisan-mia) - Stars 6 / Forks 3.
 - [Jisan10667](https://github.com/Jisan10667/Jisan10667) - Stars 0 / Forks 0.
 - [jisanahamed09205](https://github.com/jisanahamed09205/jisanahamed09205) - Stars 0 / Forks 0.
@@ -973,7 +973,7 @@
 - [KamruzzamanAsif](https://github.com/KamruzzamanAsif/KamruzzamanAsif) - Stars 0 / Forks 0.
 - [kaneki666](https://github.com/kaneki666/kaneki666) - Stars 0 / Forks 0.
 - [Karnis052](https://github.com/Karnis052/Karnis052) - Stars 0 / Forks 0.
-- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 350 / Forks 22.
+- [KasRoudra](https://github.com/KasRoudra/KasRoudra) - Stars 349 / Forks 22.
 - [kausarpial](https://github.com/kausarpial/kausarpial) - Stars 0 / Forks 0.
 - [kausaruddinahmedofficial](https://github.com/kausaruddinahmedofficial/kausaruddinahmedofficial) - Stars 0 / Forks 0.
 - [kawchar85](https://github.com/kawchar85/kawchar85) - Stars 0 / Forks 0.
@@ -1536,7 +1536,7 @@
 - [Nibir97](https://github.com/Nibir97/Nibir97) - Stars 0 / Forks 0.
 - [nickgermaine](https://github.com/nickgermaine/nickgermaine) - Stars 0 / Forks 0.
 - [NieamulKabir](https://github.com/NieamulKabir/nieamulkabir) - Stars 1 / Forks 0.
-- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 17 / Forks 6.
+- [Niki404-Cyber](https://github.com/Niki404-Cyber/Niki404-Cyber) - Stars 16 / Forks 6.
 - [niloy1hasan](https://github.com/niloy1hasan/niloy1hasan) - Stars 0 / Forks 0.
 - [nirrjhorr](https://github.com/nirrjhorr/nirrjhorr) - Stars 0 / Forks 0.
 - [nirvik-alpha](https://github.com/nirvik-alpha/nirvik-alpha) - Stars 0 / Forks 0.
@@ -1762,7 +1762,7 @@
 - [reduanmasud](https://github.com/reduanmasud/reduanmasud) - Stars 0 / Forks 0.
 - [redwan10110](https://github.com/redwan10110/redwan10110) - Stars 0 / Forks 0.
 - [Redwanul-Hassan-Labib](https://github.com/Redwanul-Hassan-Labib/Redwanul-Hassan-Labib) - Stars 13 / Forks 2.
-- [Ref-Fahad](https://github.com/Ref-Fahad/fahadislam-dev) - Stars 0 / Forks 0.
+- [Ref-Fahad](https://github.com/Ref-Fahad/Ref-Fahad) - Stars 0 / Forks 0.
 - [REFAT-156](https://github.com/REFAT-156/REFAT-156) - Stars 6 / Forks 6.
 - [Reinhardt-i](https://github.com/Reinhardt-i/Reinhardt-i) - Stars 3 / Forks 0.
 - [rejwar](https://github.com/rejwar/rejwar) - Stars 1 / Forks 0.
@@ -2423,7 +2423,7 @@
 - [the-abdurrahman-01](https://github.com/the-abdurrahman-01/the-abdurrahman-01) - Stars 0 / Forks 0.
 - [the-bhuiyan](https://github.com/the-bhuiyan/the-bhuiyan) - Stars 0 / Forks 0.
 - [TheAhsanFarabi](https://github.com/TheAhsanFarabi/TheAhsanFarabi) - Stars 1 / Forks 0.
-- [thealamindev](https://github.com/thealamindev/thealamindev) - Stars 7 / Forks 0.
+- [thealamindev](https://github.com/thealamindev/thealamindev) - Stars 7 / Forks 1.
 - [thedevsaddam](https://github.com/thedevsaddam/thedevsaddam) - Stars 3 / Forks 3.
 - [theFahmid](https://github.com/theFahmid/theFahmid) - Stars 0 / Forks 0.
 - [theihasan](https://github.com/theihasan/theihasan) - Stars 0 / Forks 0.
