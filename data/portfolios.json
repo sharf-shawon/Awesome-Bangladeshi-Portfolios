@@ -1126,7 +1126,7 @@
     "username": "abdurrahmanriyad",
     "repoName": "abdurrahmanriyad",
     "description": null,
-    "stars": 2,
+    "stars": 3,
     "forks": 0,
     "repoUrl": "https://github.com/abdurrahmanriyad/abdurrahmanriyad",
     "websiteUrl": null,
@@ -4501,13 +4501,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/38912435?v=4",
     "profile_url": "https://github.com/anisAronno",
     "website_url": "https://anichur.com",
-    "top_language": "Blade",
+    "top_language": "JavaScript",
     "all_languages": [
-      "Blade",
-      "PHP",
-      "Vue",
+      "JavaScript",
       "HTML",
-      "JavaScript"
+      "Vue",
+      "PHP",
+      "Blade"
     ],
     "topics": [
       "laravel",
@@ -7210,12 +7210,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/2099592?u=84b17e52e499cb2b91edfcb4a835f1d07f2beb83&v=4",
     "profile_url": "https://github.com/Asif2BD",
     "website_url": "https://ar.bd",
-    "top_language": "JavaScript",
+    "top_language": "Python",
     "all_languages": [
-      "JavaScript",
-      "Dockerfile",
       "Python",
-      "PHP"
+      "PHP",
+      "Dockerfile",
+      "JavaScript"
     ],
     "topics": [],
     "total_stars": 426
@@ -17433,13 +17433,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/12933820?u=7544991cab2a70672e81e67541bbaa19efb26b9f&v=4",
     "profile_url": "https://github.com/i-rocky",
     "website_url": null,
-    "top_language": "Rust",
+    "top_language": "Go",
     "all_languages": [
-      "Rust",
-      "PHP",
-      "HTML",
       "Go",
-      "JavaScript"
+      "JavaScript",
+      "HTML",
+      "PHP",
+      "Rust"
     ],
     "topics": [
       "country",
@@ -22580,12 +22580,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/61944859?u=6f88948d6a9ec474bf9bf358f23975052e6d5514&v=4",
     "profile_url": "https://github.com/KRTirtho",
     "website_url": "krtirtho.dev",
-    "top_language": "C++",
+    "top_language": "Rust",
     "all_languages": [
-      "C++",
+      "Rust",
       "Dart",
       "Kotlin",
-      "Rust"
+      "C++"
     ],
     "topics": [
       "youtube",
@@ -22594,7 +22594,7 @@
       "music",
       "flutter"
     ],
-    "total_stars": 51781
+    "total_stars": 51806
   },
   {
     "username": "kuasha420",
@@ -28733,13 +28733,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/30868301?u=b0eaa2ae4fe9154bd037b9409fb61411a61cd0cc&v=4",
     "profile_url": "https://github.com/mirzasaikatahmmed",
     "website_url": "https://saikat.com.bd/",
-    "top_language": "PHP",
+    "top_language": "Go",
     "all_languages": [
-      "PHP",
-      "Java",
       "Go",
       "HTML",
-      "TypeScript"
+      "Java",
+      "TypeScript",
+      "PHP"
     ],
     "topics": [
       "aiub",
@@ -28781,11 +28781,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/23618865?u=379053eb6c46749dea55c3f3e56a0afebcd44b12&v=4",
     "profile_url": "https://github.com/MishukAdhikari",
     "website_url": "https://mishuk.me",
-    "top_language": "JavaScript",
+    "top_language": "Shell",
     "all_languages": [
-      "JavaScript",
-      "PHP",
       "Shell",
+      "PHP",
+      "JavaScript",
       "Swift"
     ],
     "topics": [],
@@ -31220,11 +31220,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/99077742?u=77e9c1dd41713c45abfe50442497014c10b9019b&v=4",
     "profile_url": "https://github.com/muj-i",
     "website_url": "muj-i.github.io",
-    "top_language": "Dart",
+    "top_language": "Shell",
     "all_languages": [
+      "Shell",
       "Dart",
-      "Python",
-      "Shell"
+      "Python"
     ],
     "topics": [],
     "total_stars": 12
@@ -34545,7 +34545,7 @@
     "username": "noruzzamans",
     "repoName": "noruzzamans",
     "description": null,
-    "stars": 0,
+    "stars": 1,
     "forks": 1,
     "repoUrl": "https://github.com/noruzzamans/noruzzamans",
     "websiteUrl": null,
@@ -37633,7 +37633,7 @@
     "username": "raihanuldev",
     "repoName": "Mahin725",
     "description": null,
-    "stars": 0,
+    "stars": 1,
     "forks": 0,
     "repoUrl": "https://github.com/raihanuldev/Mahin725",
     "websiteUrl": null,
@@ -39665,6 +39665,25 @@
     "website_url": "https://github.com/rifatno1",
     "top_language": null,
     "all_languages": [],
+    "topics": [],
+    "total_stars": 0
+  },
+  {
+    "username": "rijwanul",
+    "repoName": "rijwanul",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/rijwanul/rijwanul",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/u/49986663?u=640f536a87575f3f0c02be09d25a9d150916e173&v=4",
+    "profile_url": "https://github.com/rijwanul",
+    "website_url": "rijwanul.com",
+    "top_language": "JavaScript",
+    "all_languages": [
+      "JavaScript",
+      "HTML"
+    ],
     "topics": [],
     "total_stars": 0
   },
@@ -43329,7 +43348,7 @@
     "username": "sakib412",
     "repoName": "sakib412",
     "description": null,
-    "stars": 1,
+    "stars": 2,
     "forks": 1,
     "repoUrl": "https://github.com/sakib412/sakib412",
     "websiteUrl": null,
@@ -47875,7 +47894,7 @@
     "username": "shovoalways",
     "repoName": "shovoalways",
     "description": "I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.",
-    "stars": 187,
+    "stars": 188,
     "forks": 40,
     "repoUrl": "https://github.com/shovoalways/shovoalways",
     "websiteUrl": null,
@@ -54160,13 +54179,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/5576949?u=bd0a411a86e0f4ce4ed9afa25c6b1338431dd2bf&v=4",
     "profile_url": "https://github.com/thesabbir",
     "website_url": null,
-    "top_language": "Python",
+    "top_language": "CSS",
     "all_languages": [
+      "CSS",
       "Python",
       "Go",
-      "Shell",
       "JavaScript",
-      "CSS"
+      "Shell"
     ],
     "topics": [
       "icons",
