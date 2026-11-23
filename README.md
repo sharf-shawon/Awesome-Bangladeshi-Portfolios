@@ -19,7 +19,6 @@
 - [0xTanzim](https://github.com/0xTanzim/0xTanzim) - Stars 1 / Forks 0.
 - [101rror](https://github.com/101rror/101rror) - Stars 0 / Forks 0.
 - [1104Anikbarua](https://github.com/1104Anikbarua/1104Anikbarua) - Stars 0 / Forks 0.
-- [11shafayet](https://github.com/11shafayet/11Shafayet) - Stars 0 / Forks 0.
 - [1992bidyut](https://github.com/1992bidyut/1992bidyut) - Stars 0 / Forks 0.
 - [1Md-Rakibul-Islam](https://github.com/1Md-Rakibul-Islam/1Md-Rakibul-Islam) - Stars 1 / Forks 0.
 - [2018331056shanto](https://github.com/2018331056shanto/2018331056shanto) - Stars 0 / Forks 0.
@@ -407,7 +406,7 @@
 - [Bilas-Halder](https://github.com/Bilas-Halder/Bilas-Halder) - Stars 0 / Forks 0.
 - [bilaschandra](https://github.com/bilaschandra/bilaschandra) - Stars 0 / Forks 0.
 - [bilashcse](https://github.com/bilashcse/bilashcse) - Stars 1 / Forks 0.
-- [bimashazaman](https://github.com/bimashazaman/bimashazaman) - Stars 9 / Forks 3.
+- [bimashazaman](https://github.com/bimashazaman/bimashazaman) - Stars 10 / Forks 3.
 - [binoydipu](https://github.com/binoydipu/binoydipu) - Stars 0 / Forks 0.
 - [Biplob14](https://github.com/Biplob14/Biplob14) - Stars 0 / Forks 0.
 - [bipon68](https://github.com/bipon68/bipon68) - Stars 0 / Forks 0.
@@ -737,6 +736,7 @@
 - [hbrawnak](https://github.com/hbrawnak/hbrawnak) - Stars 0 / Forks 0.
 - [heheh13](https://github.com/heheh13/heheh13) - Stars 0 / Forks 0.
 - [heisenberg-611](https://github.com/heisenberg-611/heisenberg-611) - Stars 2 / Forks 1.
+- [hello-shafayet](https://github.com/hello-shafayet/11Shafayet) - Stars 0 / Forks 0.
 - [hello2himel](https://github.com/hello2himel/hello2himel) - Stars 0 / Forks 0.
 - [HelloKowshik](https://github.com/HelloKowshik/HelloKowshik) - Stars 0 / Forks 0.
 - [Hellopapri](https://github.com/Hellopapri/Hellopapri) - Stars 0 / Forks 0.
@@ -1215,6 +1215,7 @@
 - [mdsajalcse](https://github.com/mdsajalcse/mdsajalcse) - Stars 3 / Forks 2.
 - [mdsamiulislam54](https://github.com/mdsamiulislam54/mdsamiulislam54) - Stars 1 / Forks 0.
 - [MDSAZZADSIDDIQUE](https://github.com/MDSAZZADSIDDIQUE/MDSAZZADSIDDIQUE) - Stars 0 / Forks 0.
+- [mdshakilahmed8](https://github.com/mdshakilahmed8/mdshakilahmed8) - Stars 0 / Forks 0.
 - [mdsharifremon](https://github.com/mdsharifremon/mdsharifremon) - Stars 0 / Forks 0.
 - [mdsharuk](https://github.com/mdsharuk/mdsharuk) - Stars 0 / Forks 0.
 - [MdShawonForazi](https://github.com/MdShawonForazi/MdShawonForazi) - Stars 31 / Forks 4.
