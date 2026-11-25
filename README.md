@@ -335,7 +335,7 @@
 - [asif-pro](https://github.com/asif-pro/asif-pro) - Stars 0 / Forks 0.
 - [Asif10H](https://github.com/Asif10H/Asif10H) - Stars 0 / Forks 1.
 - [Asif2BD](https://github.com/Asif2BD/Asif2BD) - Stars 0 / Forks 0.
-- [Asif950](https://github.com/Asif950/Asif950) - Stars 0 / Forks 0.
+- [Asif950](https://github.com/Asif950/Asif950) - Stars 1 / Forks 0.
 - [asifadib](https://github.com/asifadib/asifadib) - Stars 0 / Forks 0.
 - [AsifMohammedSifat](https://github.com/AsifMohammedSifat/AsifMohammedSifat) - Stars 0 / Forks 0.
 - [asifsikder23](https://github.com/asifsikder23/asifsikder23) - Stars 0 / Forks 0.
@@ -452,7 +452,7 @@
 - [codersaiful](https://github.com/codersaiful/codersaiful) - Stars 3 / Forks 1.
 - [codewithashim](https://github.com/codewithashim/codewithashim) - Stars 3 / Forks 7.
 - [codewithmahadihasan](https://github.com/codewithmahadihasan/codewithmahadihasan) - Stars 0 / Forks 1.
-- [codewithsadee](https://github.com/codewithsadee/codewithsadee) - Stars 50 / Forks 11.
+- [codewithsadee](https://github.com/codewithsadee/codewithsadee) - Stars 51 / Forks 11.
 - [CodewithShahriar](https://github.com/CodewithShahriar/CodewithShahriar) - Stars 2 / Forks 1.
 - [codewithzahid](https://github.com/codewithzahid/codewithzahid) - Stars 0 / Forks 0.
 - [codex-zubair](https://github.com/codex-zubair/codex-zubair) - Stars 0 / Forks 0.
