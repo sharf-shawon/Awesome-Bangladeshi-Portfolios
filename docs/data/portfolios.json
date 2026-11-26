@@ -1105,7 +1105,7 @@
     "username": "abdurrahmanriyad",
     "repoName": "abdurrahmanriyad",
     "description": null,
-    "stars": 3,
+    "stars": 2,
     "forks": 0,
     "repoUrl": "https://github.com/abdurrahmanriyad/abdurrahmanriyad",
     "websiteUrl": null,
@@ -4494,13 +4494,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/38912435?v=4",
     "profile_url": "https://github.com/anisAronno",
     "website_url": "https://anichur.com",
-    "top_language": "HTML",
+    "top_language": "Vue",
     "all_languages": [
-      "HTML",
-      "Blade",
       "Vue",
+      "HTML",
       "JavaScript",
-      "PHP"
+      "PHP",
+      "Blade"
     ],
     "topics": [
       "laravel",
@@ -4849,12 +4849,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/43861146?u=bfa88567002711a1fdb2154555d7a39ff8cbefb6&v=4",
     "profile_url": "https://github.com/AnwarHossainSR",
     "website_url": "https://www.anwar.pro.bd",
-    "top_language": "Blade",
+    "top_language": "PHP",
     "all_languages": [
-      "Blade",
-      "JavaScript",
+      "PHP",
       "TypeScript",
-      "PHP"
+      "Blade",
+      "JavaScript"
     ],
     "topics": [
       "boilerplate",
@@ -4863,7 +4863,7 @@
       "nextjs",
       "nextjs-template"
     ],
-    "total_stars": 205
+    "total_stars": 206
   },
   {
     "username": "anwarulislam",
@@ -6135,12 +6135,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/53598781?u=c76b2be73e00e1a86f2ce094485a7074b1808f31&v=4",
     "profile_url": "https://github.com/ArnobKumarSaha",
     "website_url": null,
-    "top_language": "Shell",
+    "top_language": "C++",
     "all_languages": [
-      "Shell",
       "C++",
       "Go",
-      "JavaScript"
+      "JavaScript",
+      "Shell"
     ],
     "topics": [],
     "total_stars": 16
@@ -7200,12 +7200,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/2099592?u=84b17e52e499cb2b91edfcb4a835f1d07f2beb83&v=4",
     "profile_url": "https://github.com/Asif2BD",
     "website_url": "https://ar.bd",
-    "top_language": "Dockerfile",
+    "top_language": "JavaScript",
     "all_languages": [
-      "Dockerfile",
+      "JavaScript",
       "PHP",
-      "Python",
-      "JavaScript"
+      "Dockerfile",
+      "Python"
     ],
     "topics": [],
     "total_stars": 426
@@ -9249,13 +9249,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/72651977?u=75d6c3e2817e7e7cd4fbd08874480c3f458343bc&v=4",
     "profile_url": "https://github.com/cbHasib",
     "website_url": "hasib.me",
-    "top_language": "JavaScript",
+    "top_language": "TypeScript",
     "all_languages": [
-      "JavaScript",
       "TypeScript",
+      "HTML",
+      "JavaScript",
       "Swift",
-      "Dockerfile",
-      "HTML"
+      "Dockerfile"
     ],
     "topics": [],
     "total_stars": 12
@@ -10056,10 +10056,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/9308275?u=aa56c0eb40405b379a30ccd64143a89f63204d83&v=4",
     "profile_url": "https://github.com/creativehabib",
     "website_url": "www.creativehabib.com",
-    "top_language": "Blade",
+    "top_language": "JavaScript",
     "all_languages": [
-      "Blade",
       "JavaScript",
+      "Blade",
       "PHP"
     ],
     "topics": [
@@ -12532,7 +12532,7 @@
     "username": "ettisafxrup",
     "repoName": "ettisafxrup",
     "description": null,
-    "stars": 10,
+    "stars": 11,
     "forks": 2,
     "repoUrl": "https://github.com/ettisafxrup/ettisafxrup",
     "websiteUrl": null,
@@ -17433,13 +17433,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/12933820?u=7544991cab2a70672e81e67541bbaa19efb26b9f&v=4",
     "profile_url": "https://github.com/i-rocky",
     "website_url": null,
-    "top_language": "PHP",
+    "top_language": "Go",
     "all_languages": [
-      "PHP",
       "Go",
-      "Rust",
       "HTML",
-      "JavaScript"
+      "PHP",
+      "JavaScript",
+      "Rust"
     ],
     "topics": [
       "country",
@@ -17733,13 +17733,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/11135732?u=3cac184c5ec7cedcb885be4fea36621d7a178f6f&v=4",
     "profile_url": "https://github.com/Iamsdt",
     "website_url": "https://medium.com/@iamsdt",
-    "top_language": "Jupyter Notebook",
+    "top_language": "Dart",
     "all_languages": [
-      "Jupyter Notebook",
       "Dart",
+      "JavaScript",
       "Kotlin",
       "Python",
-      "JavaScript"
+      "Jupyter Notebook"
     ],
     "topics": [],
     "total_stars": 197
@@ -18335,11 +18335,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/44812376?u=427d7758ab6b80d6a562544953980c4434c62a6c&v=4",
     "profile_url": "https://github.com/imhayatunnabi",
     "website_url": "https://imhayatunnabi.vercel.app/",
-    "top_language": "PHP",
+    "top_language": "JavaScript",
     "all_languages": [
-      "PHP",
-      "HTML",
       "JavaScript",
+      "HTML",
+      "PHP",
       "CSS"
     ],
     "topics": [],
@@ -18527,10 +18527,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/11497423?v=4",
     "profile_url": "https://github.com/imranhsayed",
     "website_url": "https://profiles.wordpress.org/gsayed786",
-    "top_language": "PHP",
+    "top_language": "JavaScript",
     "all_languages": [
-      "PHP",
-      "JavaScript"
+      "JavaScript",
+      "PHP"
     ],
     "topics": [
       "advanced-wordpress-theme-devlopment",
@@ -18539,7 +18539,7 @@
       "wordpress-theme-development",
       "webpack4"
     ],
-    "total_stars": 4766
+    "total_stars": 4767
   },
   {
     "username": "ImRanKhan81m",
@@ -20719,11 +20719,11 @@
     "avatar": "https://avatars.githubusercontent.com/u/34404032?u=94caba839b62bbfe4b8d689dd7792128c57e09b6&v=4",
     "profile_url": "https://github.com/jobayer977",
     "website_url": "https://jobayer.dev",
-    "top_language": "JavaScript",
+    "top_language": "TypeScript",
     "all_languages": [
+      "TypeScript",
       "JavaScript",
-      "CSS",
-      "TypeScript"
+      "CSS"
     ],
     "topics": [],
     "total_stars": 48
@@ -22432,10 +22432,10 @@
     "avatar": "https://avatars.githubusercontent.com/u/70368615?u=531e5c76b8d49dde2850e8785e6f298c88acf320&v=4",
     "profile_url": "https://github.com/KnockOutEZ",
     "website_url": null,
-    "top_language": "Go",
+    "top_language": "TypeScript",
     "all_languages": [
-      "Go",
       "TypeScript",
+      "Go",
       "Shell"
     ],
     "topics": [
@@ -22445,7 +22445,7 @@
       "ai-agent",
       "claude"
     ],
-    "total_stars": 5624
+    "total_stars": 5630
   },
   {
     "username": "kobirul5",
@@ -22580,12 +22580,12 @@
     "avatar": "https://avatars.githubusercontent.com/u/61944859?u=6f88948d6a9ec474bf9bf358f23975052e6d5514&v=4",
     "profile_url": "https://github.com/KRTirtho",
     "website_url": "krtirtho.dev",
-    "top_language": "Kotlin",
+    "top_language": "Dart",
     "all_languages": [
-      "Kotlin",
+      "Dart",
       "C++",
-      "Rust",
-      "Dart"
+      "Kotlin",
+      "Rust"
     ],
     "topics": [
       "youtube",
@@ -22594,7 +22594,7 @@
       "music",
       "flutter"
     ],
-    "total_stars": 51847
+    "total_stars": 51889
   },
   {
     "username": "kuasha420",
@@ -27021,7 +27021,7 @@
     "username": "MdShawonForazi",
     "repoName": "MdShawonForazi",
     "description": "Config files for my GitHub profile.",
-    "stars": 31,
+    "stars": 30,
     "forks": 4,
     "repoUrl": "https://github.com/MdShawonForazi/MdShawonForazi",
     "websiteUrl": null,
@@ -27734,7 +27734,7 @@
     "username": "mehedishakeel",
     "repoName": "mehedishakeel",
     "description": null,
-    "stars": 25,
+    "stars": 27,
     "forks": 7,
     "repoUrl": "https://github.com/mehedishakeel/mehedishakeel",
     "websiteUrl": null,
@@ -28757,13 +28757,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/30868301?u=b0eaa2ae4fe9154bd037b9409fb61411a61cd0cc&v=4",
     "profile_url": "https://github.com/mirzasaikatahmmed",
     "website_url": "https://saikat.com.bd/",
-    "top_language": "HTML",
+    "top_language": "Go",
     "all_languages": [
-      "HTML",
       "Go",
-      "Java",
+      "TypeScript",
+      "HTML",
       "PHP",
-      "TypeScript"
+      "Java"
     ],
     "topics": [
       "aiub",
@@ -30767,15 +30767,15 @@
     "avatar": "https://avatars.githubusercontent.com/u/71003115?u=50c7860d094b1a79f664cb3635361f523ab21080&v=4",
     "profile_url": "https://github.com/mrx-arafat",
     "website_url": "https://www.arafatops.com",
-    "top_language": "HTML",
+    "top_language": "TypeScript",
     "all_languages": [
+      "TypeScript",
       "HTML",
-      "Shell",
+      "JavaScript",
+      "CSS",
       "SCSS",
       "Python",
-      "JavaScript",
-      "TypeScript",
-      "CSS"
+      "Shell"
     ],
     "topics": [],
     "total_stars": 54
@@ -31528,7 +31528,7 @@
     "username": "murshed",
     "repoName": "murshed",
     "description": null,
-    "stars": 2,
+    "stars": 1,
     "forks": 0,
     "repoUrl": "https://github.com/murshed/murshed",
     "websiteUrl": null,
@@ -34064,13 +34064,13 @@
     "avatar": "https://avatars.githubusercontent.com/u/36070006?u=1c0388c06a0277edd455afc91694985bf7518565&v=4",
     "profile_url": "https://github.com/NHTanvir",
     "website_url": "https://naymul.com",
-    "top_language": "Roff",
+    "top_language": "TypeScript",
     "all_languages": [
-      "Roff",
-      "Python",
+      "TypeScript",
       "JavaScript",
       "PHP",
-      "TypeScript"
+      "Python",
+      "Roff"
     ],
     "topics": [
       "agent-discovery",
@@ -34079,7 +34079,7 @@
       "agentic-web",
       "ai-agents"
     ],
-    "total_stars": 6
+    "total_stars": 4
   },
   {
     "username": "Nibir97",
@@ -34568,7 +34568,7 @@
     "username": "noruzzamans",
     "repoName": "noruzzamans",
     "description": null,
-    "stars": 1,
+    "stars": 0,
     "forks": 1,
     "repoUrl": "https://github.com/noruzzamans/noruzzamans",
     "websiteUrl": null,
@@ -39185,22 +39185,6 @@
     "total_stars": 46
   },
   {
-    "username": "Ref-Fahad",
-    "repoName": "Ref-Fahad",
-    "description": null,
-    "stars": 0,
-    "forks": 0,
-    "repoUrl": "https://github.com/Ref-Fahad/Ref-Fahad",
-    "websiteUrl": null,
-    "avatar": "https://avatars.githubusercontent.com/Ref-Fahad",
-    "profile_url": "https://github.com/Ref-Fahad",
-    "website_url": null,
-    "top_language": null,
-    "all_languages": [],
-    "topics": [],
-    "total_stars": 0
-  },
-  {
     "username": "REFAT-156",
     "repoName": "REFAT-156",
     "description": "Config files for my GitHub profile.",
@@ -39224,6 +39208,22 @@
       "fbhack"
     ],
     "total_stars": 252
+  },
+  {
+    "username": "RefFahad",
+    "repoName": "RefFahad",
+    "description": null,
+    "stars": 0,
+    "forks": 0,
+    "repoUrl": "https://github.com/RefFahad/RefFahad",
+    "websiteUrl": null,
+    "avatar": "https://avatars.githubusercontent.com/RefFahad",
+    "profile_url": "https://github.com/RefFahad",
+    "website_url": null,
+    "top_language": null,
+    "all_languages": [],
+    "topics": [],
+    "total_stars": 0
   },
   {
     "username": "Reinhardt-i",
@@ -42525,14 +42525,14 @@
     "avatar": "https://avatars.githubusercontent.com/u/3833316?u=3fafe94b26fe31e2f3491ecee04fa548d5d04401&v=4",
     "profile_url": "https://github.com/saifulapm",
     "website_url": "http://saifulapm.github.io",
-    "top_language": "Lua",
+    "top_language": "KakouneScript",
     "all_languages": [
-      "Lua",
       "KakouneScript",
+      "Lua",
       "Rust"
     ],
     "topics": [],
-    "total_stars": 587
+    "total_stars": 588
   },
   {
     "username": "saifuldoict",
@@ -43371,7 +43371,7 @@
     "username": "sakib412",
     "repoName": "sakib412",
     "description": null,
-    "stars": 2,
+    "stars": 1,
     "forks": 1,
     "repoUrl": "https://github.com/sakib412/sakib412",
     "websiteUrl": null,
@@ -44297,7 +44297,7 @@
     "username": "SatYu26",
     "repoName": "SatYu26",
     "description": "My Introduction page using Readme File.",
-    "stars": 6,
+    "stars": 7,
     "forks": 10,
     "repoUrl": "https://github.com/SatYu26/SatYu26",
     "websiteUrl": null,
@@ -45811,7 +45811,7 @@
     "username": "shahriarshafin",
     "repoName": "shahriarshafin",
     "description": "😎 Shafin's GitHub readme profile.  Feel free to check out the readme file, copy, fork, and use. ",
-    "stars": 61,
+    "stars": 62,
     "forks": 78,
     "repoUrl": "https://github.com/shahriarshafin/shahriarshafin",
     "websiteUrl": null,
