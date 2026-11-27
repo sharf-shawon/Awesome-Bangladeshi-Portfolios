@@ -2069,7 +2069,7 @@
 - [ShaifArfan](https://github.com/ShaifArfan/ShaifArfan) - Stars 6 / Forks 0.
 - [Shaikh-Mahmud](https://github.com/Shaikh-Mahmud/Shaikh-Mahmud) - Stars 1 / Forks 0.
 - [Shaikh1828](https://github.com/Shaikh1828/Shaikh1828) - Stars 0 / Forks 0.
-- [shaikotahmed19](https://github.com/shaikotahmed19/shaikotahmed19) - Stars 0 / Forks 0.
+- [shaikotahmed19](https://github.com/shaikotahmed19/shaikotahmed19) - Stars 1 / Forks 0.
 - [Shajadulhaqueemon111](https://github.com/Shajadulhaqueemon111/Shajadulhaqueemon111) - Stars 0 / Forks 0.
 - [shajibxign](https://github.com/shajibxign/shajibxign) - Stars 0 / Forks 0.
 - [ShakawathHossen](https://github.com/ShakawathHossen/ShakawathHossen) - Stars 0 / Forks 0.
@@ -2224,7 +2224,7 @@
 - [sohan284](https://github.com/sohan284/sohan284) - Stars 0 / Forks 0.
 - [SohanurKarim](https://github.com/SohanurKarim/SohanurKarim) - Stars 0 / Forks 0.
 - [sohelamin](https://github.com/sohelamin/sohelamin) - Stars 0 / Forks 0.
-- [SohelIslamImran](https://github.com/SohelIslamImran/SohelIslamImran) - Stars 3 / Forks 7.
+- [SohelIslamImran](https://github.com/SohelIslamImran/SohelIslamImran) - Stars 4 / Forks 7.
 - [Sohelkhan820](https://github.com/Sohelkhan820/Sohelkhan820) - Stars 0 / Forks 0.
 - [sohidulIslam353](https://github.com/sohidulIslam353/sohidulIslam353) - Stars 0 / Forks 0.
 - [sohorabsajib](https://github.com/sohorabsajib/sohorabsajib) - Stars 0 / Forks 0.
@@ -2281,7 +2281,7 @@
 - [Sumonsiu01](https://github.com/Sumonsiu01/Sumonsiu01) - Stars 0 / Forks 0.
 - [sumonsnote](https://github.com/sumonsnote/SumonsNote) - Stars 0 / Forks 0.
 - [sumonst21](https://github.com/sumonst21/sumonst21) - Stars 0 / Forks 1.
-- [Sumonta056](https://github.com/Sumonta056/sumonta056) - Stars 8 / Forks 8.
+- [Sumonta056](https://github.com/Sumonta056/sumonta056) - Stars 8 / Forks 7.
 - [sumuhridoy2002](https://github.com/sumuhridoy2002/sumuhridoy2002) - Stars 0 / Forks 0.
 - [sunitsen](https://github.com/sunitsen/sunitsen) - Stars 0 / Forks 0.
 - [Sunwarul](https://github.com/Sunwarul/sunwarul) - Stars 0 / Forks 0.
